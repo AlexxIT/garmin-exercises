@@ -121,14 +121,14 @@
             ctx.shadowColor='transparent';ctx.shadowBlur=0;ctx.shadowOffsetY=0;
             ctx.save();roundedRect(ctx,left+1,top+1,width-2,height-2,radius-1);ctx.clip();
             if(hasVisual){ctx.fillStyle=cardFill;ctx.fillRect(left+1,top+1,width-2,imageBandHeight)}
-            const split=Boolean(node.image&&muscleImg),muscleWidth=split?82:width-2,photoWidth=split?width-muscleWidth:width-2;
+            const split=Boolean(node.image&&muscleImg),muscleWidth=split?94:width-2,photoWidth=split?width-muscleWidth:width-2;
             if(node.image&&img?.complete&&img.naturalWidth){
               const imagePadding=6,scale=Math.min((photoWidth-imagePadding*2)/img.naturalWidth,(imageBandHeight-imagePadding*2)/img.naturalHeight),drawWidth=img.naturalWidth*scale,drawHeight=img.naturalHeight*scale;
               ctx.save();if(garminMovementImage)ctx.globalCompositeOperation='multiply';ctx.drawImage(img,left+(photoWidth-drawWidth)/2,top+(imageBandHeight-drawHeight)/2,drawWidth,drawHeight);ctx.restore();
             }
             if(muscleImg?.complete&&muscleImg.naturalWidth){
-              const areaLeft=split?left+photoWidth:left+1,areaWidth=split?muscleWidth:width-2,pad=split?3:8,scale=Math.min((areaWidth-pad*2)/muscleImg.naturalWidth,(imageBandHeight-pad*2)/muscleImg.naturalHeight),drawWidth=muscleImg.naturalWidth*scale,drawHeight=muscleImg.naturalHeight*scale;
-              if(split){ctx.fillStyle=cardFill;ctx.fillRect(areaLeft,top+1,areaWidth,imageBandHeight-2);ctx.strokeStyle='#d5e0e4';ctx.lineWidth=1;ctx.beginPath();ctx.moveTo(areaLeft,top+9);ctx.lineTo(areaLeft,top+imageBandHeight-9);ctx.stroke()}
+              const areaLeft=split?left+photoWidth:left+1,areaWidth=split?muscleWidth:width-2,pad=split?0:8,scale=Math.min((areaWidth-pad*2)/muscleImg.naturalWidth,(imageBandHeight-pad*2)/muscleImg.naturalHeight),drawWidth=muscleImg.naturalWidth*scale,drawHeight=muscleImg.naturalHeight*scale;
+              if(split){ctx.fillStyle=cardFill;ctx.fillRect(areaLeft,top+1,areaWidth,imageBandHeight-2)}
               ctx.drawImage(muscleImg,areaLeft+(areaWidth-drawWidth)/2,top+(imageBandHeight-drawHeight)/2,drawWidth,drawHeight);
             }
             ctx.restore();ctx.lineWidth=state.selected?5.5:emphasized?5:1.5;ctx.strokeStyle=state.selected?'#0573aa':emphasized?expandedAccentColor(node):branchColor;roundedRect(ctx,left,top,width,height,radius);ctx.stroke();
