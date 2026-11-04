@@ -13,9 +13,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Banded Back Extension",
@@ -33,9 +31,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Banded Bicycle Crunch",
@@ -53,9 +49,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Banded Calf Raises",
@@ -70,9 +64,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Banded Clam Shells",
@@ -89,9 +81,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Banded Curl",
@@ -106,9 +96,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Banded Deadbug",
@@ -124,9 +112,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Banded Deadlift",
@@ -142,9 +128,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Banded Donkey Kick",
@@ -161,9 +145,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Banded External Rotation",
@@ -178,9 +160,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Banded External Rotation at 90-Degree Abduction",
@@ -196,9 +176,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Banded Fire Hydrant",
@@ -219,13 +197,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "FitnessProgramer",
         "name": "Banded Fire Hydrant",
-        "url": "https://fitnessprogramer.com/exercise/banded-fire-hydrant/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/banded-fire-hydrant/"
       }
-    ],
-    "hasExternalImage": false,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Banded Fly",
@@ -242,9 +216,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Banded Front Raise",
@@ -261,9 +233,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Banded Glute Bridge",
@@ -285,20 +255,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Banded Glute Bridge",
-        "url": "https://www.muscleandstrength.com/exercises/banded-glute-bridge",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/banded-glute-bridge"
       },
       {
         "source": "FitnessProgramer",
         "name": "Banded Glute Bridge",
-        "url": "https://fitnessprogramer.com/exercise/banded-glute-bridge/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/banded-glute-bridge/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Banded Hamstring Curls",
@@ -315,9 +279,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Banded High Plank Leg Lifts",
@@ -336,9 +298,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Banded Hip Extension",
@@ -356,9 +316,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Banded Internal Rotation",
@@ -377,13 +335,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Banded Internal Rotation",
-        "url": "https://www.muscleandstrength.com/exercises/banded-internal-rotation",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/banded-internal-rotation"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Banded Jumping Jack",
@@ -400,9 +354,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Banded Kneeling Crunch",
@@ -417,9 +369,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Banded Lateral Band Walks",
@@ -436,9 +386,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Banded Lateral Raise",
@@ -458,13 +406,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Banded Lateral Raise",
-        "url": "https://www.muscleandstrength.com/exercises/banded-lateral-raise",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/banded-lateral-raise"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Banded Lateral Raise",
@@ -481,13 +425,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Banded Lateral Raise",
-        "url": "https://www.muscleandstrength.com/exercises/banded-lateral-raise",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/banded-lateral-raise"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Banded Latpull",
@@ -504,9 +444,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Banded Leg Abduction",
@@ -523,9 +461,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Banded Leg Adduction",
@@ -540,9 +476,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Banded Leg Extension",
@@ -557,9 +491,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Banded Lunge",
@@ -581,13 +513,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "FitnessProgramer",
         "name": "Banded Lunge",
-        "url": "https://fitnessprogramer.com/exercise/banded-lunge/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/banded-lunge/"
       }
-    ],
-    "hasExternalImage": false,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Banded Plank",
@@ -604,9 +532,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Banded Pull Apart",
@@ -622,9 +548,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Banded Pull Apart",
@@ -639,9 +563,7 @@ window.GARMIN_EXERCISES = [
       "TRAPS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Banded Push-ups",
@@ -658,9 +580,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Banded Reverse Crunch",
@@ -677,9 +597,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Banded Row",
@@ -699,9 +617,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Banded Shoulder Abduction",
@@ -717,9 +633,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Banded Shoulder Extension",
@@ -740,13 +654,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "FitnessProgramer",
         "name": "Banded Shoulder Extension",
-        "url": "https://fitnessprogramer.com/exercise/banded-shoulder-extension/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/banded-shoulder-extension/"
       }
-    ],
-    "hasExternalImage": false,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Banded Shoulder External Rotation",
@@ -765,13 +675,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "FitnessProgramer",
         "name": "Banded Shoulder External Rotation",
-        "url": "https://fitnessprogramer.com/exercise/banded-shoulder-external-rotation/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/banded-shoulder-external-rotation/"
       }
-    ],
-    "hasExternalImage": false,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Banded Shoulder Flexion to 90-Degrees",
@@ -786,9 +692,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Banded Side Plank Leg Lifts",
@@ -807,9 +711,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Banded Squat",
@@ -827,9 +729,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Banded Squat to Press",
@@ -850,9 +750,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Banded Tricep Extension",
@@ -871,13 +769,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Banded Tricep Extension",
-        "url": "https://www.muscleandstrength.com/exercises/banded-tricep-extension",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/banded-tricep-extension"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Banded Tricep Kick-back",
@@ -892,9 +786,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Banded Upright Row",
@@ -914,13 +806,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Banded Upright Row",
-        "url": "https://www.muscleandstrength.com/exercises/banded-upright-row",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/banded-upright-row"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Banded Wall Crawl with External Rotation",
@@ -936,9 +824,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Battle Rope Alternating Figure Eight",
@@ -959,9 +845,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Battle Rope"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Battle Rope Alternating Jump Wave",
@@ -986,9 +870,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Battle Rope"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Battle Rope Alternating Kneeling to Standing Wave",
@@ -1013,9 +895,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Battle Rope"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Battle Rope Alternating Lunge Wave",
@@ -1040,9 +920,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Battle Rope"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Battle Rope Alternating Squat Wave",
@@ -1067,9 +945,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Battle Rope"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Battle Rope Alternating Wave",
@@ -1093,9 +969,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Battle Rope"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Battle Rope Alternating Wave with Lateral Shuffle",
@@ -1122,9 +996,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Battle Rope"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Battle Rope",
@@ -1141,13 +1013,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "FitnessProgramer",
         "name": "Battle Rope",
-        "url": "https://fitnessprogramer.com/exercise/battle-rope/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/battle-rope/"
       }
-    ],
-    "hasExternalImage": false,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Battle Rope Clap Wave",
@@ -1172,9 +1040,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Battle Rope"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Battle Rope Double-arm Figure Eight",
@@ -1195,9 +1061,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Battle Rope"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Battle Rope Double Arm Side-to-Side Snake",
@@ -1218,9 +1082,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Battle Rope"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Battle Rope Double-arm Side Wave",
@@ -1245,9 +1107,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Battle Rope"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Battle Rope Double-arm Slam",
@@ -1272,9 +1132,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Battle Rope"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Battle Rope Double-arm Wave",
@@ -1299,9 +1157,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Battle Rope"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Battle Rope Grappler Toss",
@@ -1324,9 +1180,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Battle Rope"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Battle Rope Hip Toss",
@@ -1349,9 +1203,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Battle Rope"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Battle Rope Inside Circle",
@@ -1369,9 +1221,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Battle Rope"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Battle Rope In and Out Wave",
@@ -1396,9 +1246,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Battle Rope"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Battle Rope Jumping Jacks",
@@ -1420,9 +1268,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Battle Rope"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Battle Rope Outside Circle",
@@ -1440,9 +1286,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Battle Rope"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Battle Rope Rainbow",
@@ -1463,9 +1307,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Battle Rope"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Battle Rope Sidewinder",
@@ -1486,9 +1328,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Battle Rope"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Battle Rope Side Plank Wave",
@@ -1508,9 +1348,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Battle Rope"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Battle Rope Sitting Russian Twist",
@@ -1531,9 +1369,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Battle Rope"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Battle Rope Snake Wave",
@@ -1558,9 +1394,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Battle Rope"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Battle Rope Split Jack",
@@ -1585,9 +1419,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Battle Rope"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Battle Rope Stage Coach",
@@ -1612,9 +1444,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Battle Rope"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Battle Rope Ultimate Warrior",
@@ -1637,9 +1467,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Battle Rope"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Battle Rope Upper Cuts",
@@ -1659,9 +1487,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Battle Rope"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Alternating Dumbbell Chest Press",
@@ -1684,13 +1510,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Alternating Dumbbell Bench Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/alternating-dumbbell-bench-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/alternating-dumbbell-bench-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Alternating Dumbbell Chest Press on Swiss Ball",
@@ -1713,13 +1535,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Alternating Dumbbell Chest Press on Swiss Ball",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/alternating-dumbbell-chest-press-swiss-ball/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/alternating-dumbbell-chest-press-swiss-ball/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Barbell Bench Press",
@@ -1742,27 +1560,24 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Barbell Bench Press",
-        "url": "https://www.muscleandstrength.com/exercises/barbell-bench-press.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/barbell-bench-press.html"
+      },
+      {
+        "source": "Muscle & Fitness",
+        "name": "How To: Barbell Bench Press",
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/barbell-bench-press/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Bench Press",
-        "url": "https://fitnessprogramer.com/exercise/bench-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/bench-press/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Barbell bench press",
-        "url": "https://weighttraining.guide/exercises/bench-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/bench-press/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/BARBELL_BENCH_PRESS/heroImage_BBtOag7.jpg"
   },
   {
@@ -1787,13 +1602,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Board Bench Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/barbell-board-bench-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/barbell-board-bench-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Barbell Floor Press",
@@ -1815,27 +1626,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Floor Press",
-        "url": "https://www.muscleandstrength.com/exercises/floor-bench-press.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/floor-bench-press.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Floor Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/barbell-floor-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/barbell-floor-press/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Barbell Floor Press",
-        "url": "https://fitnessprogramer.com/exercise/barbell-floor-press/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/barbell-floor-press/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/BARBELL_FLOOR_PRESS/heroImage_BBtOafv.jpg"
   },
   {
@@ -1852,9 +1655,7 @@ window.GARMIN_EXERCISES = [
       "TRICEPS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Close-grip Barbell Bench Press",
@@ -1877,34 +1678,24 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Close Grip Bench Press",
-        "url": "https://www.muscleandstrength.com/exercises/close-grip-bench-press.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/close-grip-bench-press.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Close-Grip Barbell Bench Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/close-grip-barbell-bench-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/close-grip-barbell-bench-press/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Close Grip Bench Press",
-        "url": "https://fitnessprogramer.com/exercise/close-grip-bench-press/",
-        "hasImage": true,
-        "hasVideo": false
+        "url": "https://fitnessprogramer.com/exercise/close-grip-bench-press/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Close-grip barbell bench press",
-        "url": "https://weighttraining.guide/exercises/close-grip-barbell-bench-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/close-grip-barbell-bench-press/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/CLOSE_GRIP_BARBELL_BENCH_PRESS/heroImage_BBtOfci.jpg"
   },
   {
@@ -1928,34 +1719,24 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Decline Bench Press",
-        "url": "https://www.muscleandstrength.com/exercises/decline-bench-press.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/decline-bench-press.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Decline Barbell Bench Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/decline-barbell-bench-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/decline-barbell-bench-press/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Decline Barbell Bench Press",
-        "url": "https://fitnessprogramer.com/exercise/decline-barbell-bench-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/decline-barbell-bench-press/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Decline barbell bench press",
-        "url": "https://weighttraining.guide/exercises/decline-barbell-bench-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/decline-barbell-bench-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Decline Dumbbell Bench Press",
@@ -1978,27 +1759,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Decline Dumbbell Bench Press",
-        "url": "https://www.muscleandstrength.com/exercises/decline-dumbbell-bench-press.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/decline-dumbbell-bench-press.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Decline Dumbbell Bench Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/decline-dumbbell-bench-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/decline-dumbbell-bench-press/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Decline dumbbell bench press",
-        "url": "https://weighttraining.guide/exercises/decline-dumbbell-bench-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/decline-dumbbell-bench-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dumbbell Bench Press",
@@ -2021,34 +1794,24 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Dumbbell Bench Press",
-        "url": "https://www.muscleandstrength.com/exercises/dumbbell-bench-press.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/dumbbell-bench-press.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Bench Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/dumbbell-bench-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/dumbbell-bench-press/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Dumbbell Bench Press",
-        "url": "https://fitnessprogramer.com/exercise/dumbbell-press/",
-        "hasImage": true,
-        "hasVideo": false
+        "url": "https://fitnessprogramer.com/exercise/dumbbell-press/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Dumbbell bench press",
-        "url": "https://weighttraining.guide/exercises/dumbbell-bench-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/dumbbell-bench-press/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/DUMBBELL_BENCH_PRESS/heroImage_BBtOcy1.jpg"
   },
   {
@@ -2071,20 +1834,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Dumbbell Floor Press",
-        "url": "https://www.muscleandstrength.com/exercises/dumbbell-floor-press.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/dumbbell-floor-press.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Floor Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/dumbbell-floor-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/dumbbell-floor-press/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/DUMBBELL_FLOOR_PRESS/heroImage_BBtOa9Z.jpg"
   },
   {
@@ -2108,34 +1865,24 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Incline Bench Press",
-        "url": "https://www.muscleandstrength.com/exercises/incline-bench-press.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/incline-bench-press.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Incline Barbell Bench Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/incline-barbell-bench-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/incline-barbell-bench-press/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Incline Barbell Bench Press",
-        "url": "https://fitnessprogramer.com/exercise/incline-barbell-bench-press/",
-        "hasImage": true,
-        "hasVideo": false
+        "url": "https://fitnessprogramer.com/exercise/incline-barbell-bench-press/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Incline barbell bench press",
-        "url": "https://weighttraining.guide/exercises/incline-barbell-bench-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/incline-barbell-bench-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Incline Dumbbell Bench Press",
@@ -2158,20 +1905,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Incline Dumbbell Bench Press",
-        "url": "https://www.muscleandstrength.com/exercises/incline-dumbbell-bench-press.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/incline-dumbbell-bench-press.html"
+      },
+      {
+        "source": "Muscle & Fitness",
+        "name": "How To: Incline Dumbbell Bench Press",
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/incline-dumbbell-bench-press/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Incline dumbbell bench press",
-        "url": "https://weighttraining.guide/exercises/incline-dumbbell-bench-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/incline-dumbbell-bench-press/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/INCLINE_DUMBBELL_BENCH_PRESS/heroImage_BBtOa5e.jpg"
   },
   {
@@ -2195,34 +1941,24 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Smith Machine Incline Bench Press",
-        "url": "https://www.muscleandstrength.com/exercises/incline-smith-machine-bench-press.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/incline-smith-machine-bench-press.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Incline Smith Machine Bench Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/incline-smith-machine-bench-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/incline-smith-machine-bench-press/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Smith Machine Incline Bench Press",
-        "url": "https://fitnessprogramer.com/exercise/smith-machine-incline-bench-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/smith-machine-incline-bench-press/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Smith machine incline bench press",
-        "url": "https://weighttraining.guide/exercises/smith-machine-incline-bench-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/smith-machine-incline-bench-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Isometric Barbell Bench Press",
@@ -2241,9 +1977,7 @@ window.GARMIN_EXERCISES = [
       "Barbell",
       "Bench"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Kettlebell Chest Press",
@@ -2266,13 +2000,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Kettlebell Chest Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/kettlebell-chest-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/kettlebell-chest-press/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/KETTLEBELL_CHEST_PRESS/heroImage_BBtOiJK.jpg"
   },
   {
@@ -2296,20 +2026,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Neutral Grip Dumbbell Bench Press",
-        "url": "https://www.muscleandstrength.com/exercises/palms-in-dumbbell-bench-press.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/palms-in-dumbbell-bench-press.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Neutral-Grip Dumbbell Bench Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/neutral-grip-dumbbell-bench-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/neutral-grip-dumbbell-bench-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Neutral-grip Dumbbell Incline Bench Press",
@@ -2332,20 +2056,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Neutral Grip Incline Dumbbell Bench Press",
-        "url": "https://www.muscleandstrength.com/exercises/palms-in-incline-dumbbell-bench-press.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/palms-in-incline-dumbbell-bench-press.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Neutral-Grip Dumbbell Incline Bench Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/neutral-grip-dumbbell-incline-bench-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/neutral-grip-dumbbell-incline-bench-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "One-arm Floor Press",
@@ -2368,13 +2086,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "One-Arm Floor Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/one-arm-floor-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/one-arm-floor-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Partial Lockout",
@@ -2397,13 +2111,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Partial Lockout",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/partial-lockout/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/partial-lockout/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/PARTIAL_LOCKOUT/heroImage_BBtOcFI.jpg"
   },
   {
@@ -2427,13 +2137,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Reverse Grip Bench Press",
-        "url": "https://www.muscleandstrength.com/exercises/reverse-grip-bench-press.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/reverse-grip-bench-press.html"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Reverse-grip Incline Bench Press",
@@ -2456,27 +2162,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Reverse Grip Incline Bench Press",
-        "url": "https://www.muscleandstrength.com/exercises/reverse-grip-incline-bench-press.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/reverse-grip-incline-bench-press.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Reverse-Grip Incline Bench Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/reverse-grip-incline-bench-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/reverse-grip-incline-bench-press/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Incline reverse-grip barbell bench press",
-        "url": "https://weighttraining.guide/exercises/incline-reverse-grip-barbell-bench-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/incline-reverse-grip-barbell-bench-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Single-arm Cable Chest Press",
@@ -2499,13 +2197,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Arm Cable Chest Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/single-arm-cable-chest-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/single-arm-cable-chest-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Single-arm Dumbbell Bench Press",
@@ -2529,13 +2223,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Arm Dumbbell Bench Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/single-arm-dumbbell-bench-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/single-arm-dumbbell-bench-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Smith Machine Bench Press",
@@ -2558,27 +2248,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Smith Machine Bench Press",
-        "url": "https://www.muscleandstrength.com/exercises/smith-machine-bench-press.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/smith-machine-bench-press.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Smith Machine Bench Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/smith-machine-bench-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/smith-machine-bench-press/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Smith Machine Bench Press",
-        "url": "https://fitnessprogramer.com/exercise/smith-machine-bench-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/smith-machine-bench-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Swiss Ball Dumbbell Chest Press",
@@ -2601,13 +2283,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Swiss Ball Dumbbell Chest Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/swiss-ball-dumbbell-chest-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/swiss-ball-dumbbell-chest-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Triple-stop Barbell Bench Press",
@@ -2630,13 +2308,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Triple-Stop Barbell Bench Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/triple-stop-barbell-bench-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/triple-stop-barbell-bench-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Weighted One-arm Floor Press",
@@ -2655,9 +2329,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Wide-grip Barbell Bench Press",
@@ -2680,27 +2352,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Wide Grip Barbell Bench Press",
-        "url": "https://www.muscleandstrength.com/exercises/wide-grip-bench-press.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/wide-grip-bench-press.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Wide-Grip Barbell Bench Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/wide-grip-barbell-bench-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/wide-grip-barbell-bench-press/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Wide Grip Bench Press",
-        "url": "https://fitnessprogramer.com/exercise/wide-grip-bench-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/wide-grip-bench-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Bike",
@@ -2719,9 +2383,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Bike"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Calf Raise",
@@ -2734,9 +2396,7 @@ window.GARMIN_EXERCISES = [
     ],
     "secondaryMuscles": [],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Donkey Calf Raise",
@@ -2755,27 +2415,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Donkey Calf Raise",
-        "url": "https://www.muscleandstrength.com/exercises/donkey-calf-raise.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/donkey-calf-raise.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Donkey Calf Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/donkey-calf-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/donkey-calf-raise/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Donkey Calf Raise",
-        "url": "https://fitnessprogramer.com/exercise/donkey-calf-raise/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/donkey-calf-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Seated Calf Raise",
@@ -2795,20 +2447,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Seated Calf Raise",
-        "url": "https://www.muscleandstrength.com/exercises/seated-calf-raise.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/seated-calf-raise.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Seated Calf Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/seated-calf-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/seated-calf-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Seated Dumbbell Toe Raise",
@@ -2828,13 +2474,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Seated Dumbbell Toe Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/seated-dumbbell-toe-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/seated-dumbbell-toe-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Single-leg Bent-knee Calf Raise",
@@ -2851,13 +2493,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Leg Bent-Knee Calf Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/single-leg-bent-knee-calf-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/single-leg-bent-knee-calf-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Single-leg Decline Push-up",
@@ -2878,13 +2516,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Leg Decline Pushup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/single-leg-decline-pushup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/single-leg-decline-pushup/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Single-leg Donkey Calf Raise",
@@ -2903,20 +2537,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Leg Donkey Calf Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/single-leg-donkey-calf-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/single-leg-donkey-calf-raise/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Single Leg Donkey Calf Raise",
-        "url": "https://fitnessprogramer.com/exercise/single-leg-donkey-calf-raise/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/single-leg-donkey-calf-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Single-leg Hip Raise with Knee Hold",
@@ -2936,13 +2564,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Leg Hip Raise with Knee Hold",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/single-leg-hip-raise-knee-hold/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/single-leg-hip-raise-knee-hold/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Single-leg Standing Calf Raise",
@@ -2955,9 +2579,7 @@ window.GARMIN_EXERCISES = [
     ],
     "secondaryMuscles": [],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Single-leg Standing Dumbbell Calf Raise",
@@ -2976,13 +2598,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Leg Standing Dumbbell Calf Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/single-leg-standing-dumbbell-calf-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/single-leg-standing-dumbbell-calf-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Standing Barbell Calf Raise",
@@ -3001,20 +2619,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Standing Barbell Calf Raise",
-        "url": "https://www.muscleandstrength.com/exercises/standing-calf-raise.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/standing-calf-raise.html"
       },
       {
         "source": "FitnessProgramer",
         "name": "Standing Barbell Calf Raise",
-        "url": "https://fitnessprogramer.com/exercise/standing-barbell-calf-raise/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/standing-barbell-calf-raise/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connectvideo.garmin.com/msn-workout/Strength/S_309-A4.jpg"
   },
   {
@@ -3032,13 +2644,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Standing Calf Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/standing-calf-raise-3/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/standing-calf-raise-3/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Standing Dumbbell Calf Raise",
@@ -3057,13 +2665,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Standing Dumbbell Calf Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/standing-dumbbell-calf-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/standing-dumbbell-calf-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Weighted Donkey Calf Raise",
@@ -3079,9 +2683,7 @@ window.GARMIN_EXERCISES = [
       "Dumbbell",
       "Other"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Seated Calf Raise",
@@ -3101,13 +2703,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "FitnessProgramer",
         "name": "Weighted Seated Calf Raise",
-        "url": "https://fitnessprogramer.com/exercise/weighted-seated-calf-raise/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/weighted-seated-calf-raise/"
       }
-    ],
-    "hasExternalImage": false,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Weighted Single-leg Bent-knee Calf Raise",
@@ -3122,9 +2720,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Single-leg Donkey Calf Raise",
@@ -3141,9 +2737,7 @@ window.GARMIN_EXERCISES = [
       "Dumbbell",
       "Other"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Standing Calf Raise",
@@ -3158,9 +2752,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "3-way Calf Raise",
@@ -3177,13 +2769,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "3-Way Calf Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/3-way-calf-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/3-way-calf-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "3-way Single-leg Calf Raise",
@@ -3196,9 +2784,7 @@ window.GARMIN_EXERCISES = [
     ],
     "secondaryMuscles": [],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "3-way Weighted Calf Raise",
@@ -3213,9 +2799,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "3-way Weighted Single-leg Calf Raise",
@@ -3230,9 +2814,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Bob and Weave Circle",
@@ -3251,13 +2833,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Bob and Weave Circle",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/bob-and-weave-circle/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/bob-and-weave-circle/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Cardio Core Crawl",
@@ -3281,13 +2859,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Cardio Core Crawl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/cardio-core-crawl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/cardio-core-crawl/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/CARDIO_CORE_CRAWL/heroImage_BBtOiUv.jpg"
   },
   {
@@ -3310,13 +2884,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Double Under",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/double-under/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/double-under/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Jumping Jacks",
@@ -3339,13 +2909,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Jumping Jacks",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/jumping-jacks/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/jumping-jacks/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/JUMPING_JACKS/heroImage_BBtOf8L.jpg"
   },
   {
@@ -3368,27 +2934,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Jump Rope",
-        "url": "https://www.muscleandstrength.com/exercises/jump-rope",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/jump-rope"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Jump Rope",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/jump-rope/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/jump-rope/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Jump Rope",
-        "url": "https://fitnessprogramer.com/exercise/jump-rope/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/jump-rope/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/JUMP_ROPE/heroImage_BBtOcKW.jpg"
   },
   {
@@ -3407,9 +2965,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Jump Rope"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Jump Rope Jog",
@@ -3431,13 +2987,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Jump Rope Jog",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/jump-rope-jog/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/jump-rope-jog/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Ski Moguls",
@@ -3456,13 +3008,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Ski Moguls",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/ski-moguls/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/ski-moguls/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Split Jacks",
@@ -3482,20 +3030,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Split Jacks",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/split-jacks/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/split-jacks/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Split Jacks",
-        "url": "https://fitnessprogramer.com/exercise/split-jacks/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/split-jacks/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Squat Jacks",
@@ -3516,13 +3058,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Squat Jacks",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/squat-jacks/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/squat-jacks/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/SQUAT_JACKS/heroImage_BBtOfbq.jpg"
   },
   {
@@ -3541,9 +3079,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Jump Rope"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Bob and Weave Circle",
@@ -3560,9 +3096,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Cardio Core Crawl",
@@ -3584,9 +3118,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Double Under",
@@ -3605,9 +3137,7 @@ window.GARMIN_EXERCISES = [
       "Jump Rope",
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Jumping Jacks",
@@ -3628,9 +3158,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Jump Rope",
@@ -3649,9 +3177,7 @@ window.GARMIN_EXERCISES = [
       "Jump Rope",
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Jump Rope Crossover",
@@ -3670,9 +3196,7 @@ window.GARMIN_EXERCISES = [
       "Jump Rope",
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Jump Rope Jog",
@@ -3691,9 +3215,7 @@ window.GARMIN_EXERCISES = [
       "Jump Rope",
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Ski Moguls",
@@ -3710,9 +3232,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Split Jacks",
@@ -3730,9 +3250,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Squat Jacks",
@@ -3751,9 +3269,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Triple Under",
@@ -3772,9 +3288,7 @@ window.GARMIN_EXERCISES = [
       "Jump Rope",
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Bar Holds",
@@ -3793,13 +3307,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Bar Holds",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/bar-holds/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/bar-holds/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Carry",
@@ -3812,9 +3322,7 @@ window.GARMIN_EXERCISES = [
     ],
     "secondaryMuscles": [],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Dumbbell Waiter Carry",
@@ -3829,9 +3337,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Farmer's Carry",
@@ -3852,9 +3358,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Farmer's Carry on Toes",
@@ -3876,9 +3380,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Farmer's Carry Walk Lunge",
@@ -3900,9 +3402,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Farmer's Walk",
@@ -3927,20 +3427,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Farmer’s Walk",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/farmers-walk-3/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/farmers-walk-3/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Farmer’s Walk",
-        "url": "https://fitnessprogramer.com/exercise/farmers-walk/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/farmers-walk/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Farmer's Walk on Toes",
@@ -3966,13 +3460,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Farmer’s Walk on Toes",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/farmers-walk-toes/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/farmers-walk-toes/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Hex Dumbbell Hold",
@@ -3991,13 +3481,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Hex Dumbbell Hold",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/hex-dumbbell-hold/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/hex-dumbbell-hold/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Overhead Carry",
@@ -4019,13 +3505,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Overhead Carry",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/overhead-carry/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/overhead-carry/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Cable Pull-through",
@@ -4047,27 +3529,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Cable Pull-Through",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/cable-pull-through/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/cable-pull-through/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Cable Pull Through",
-        "url": "https://fitnessprogramer.com/exercise/cable-pull-through/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/cable-pull-through/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Cable pull-through",
-        "url": "https://weighttraining.guide/exercises/cable-pull-through/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/cable-pull-through/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Cable Rotational Lift",
@@ -4089,13 +3563,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Cable Rotational Lift",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/cable-rotational-lift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/cable-rotational-lift/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Cable Woodchop",
@@ -4116,13 +3586,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Cable Woodchop",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/cable-woodchop/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/cable-woodchop/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Chop",
@@ -4137,9 +3603,7 @@ window.GARMIN_EXERCISES = [
       "ABS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Cross Chop to Knee",
@@ -4161,13 +3625,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Cross Chop to Knee",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/cross-chop-knee/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/cross-chop-knee/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dumbbell Chop",
@@ -4191,13 +3651,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Chop",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/dumbbell-chop/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/dumbbell-chop/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Half-kneeling Rotation",
@@ -4219,13 +3675,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Half-Kneeling Rotation",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/half-kneeling-rotation/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/half-kneeling-rotation/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Half-kneeling Rotational Chop",
@@ -4246,13 +3698,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Half-Kneeling Rotational Chop",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/half-kneeling-rotational-chop/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/half-kneeling-rotational-chop/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Half-kneeling Rotational Reverse Chop",
@@ -4274,13 +3722,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Half-Kneeling Rotational Reverse Chop",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/half-kneeling-rotational-reverse-chop/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/half-kneeling-rotational-reverse-chop/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Half-kneeling Stability Chop",
@@ -4302,13 +3746,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Half-Kneeling Stability Chop",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/half-kneeling-stability-chop/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/half-kneeling-stability-chop/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Half-kneeling Stability Reverse Chop",
@@ -4330,13 +3770,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Half-Kneeling Stability Reverse Chop",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/half-kneeling-stability-reverse-chop/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/half-kneeling-stability-reverse-chop/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Kneeling Rotational Chop",
@@ -4358,13 +3794,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Kneeling Rotational Chop",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/kneeling-rotational-chop/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/kneeling-rotational-chop/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Kneeling Rotational Reverse Chop",
@@ -4386,13 +3818,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Kneeling Rotational Reverse Chop",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/kneeling-rotational-reverse-chop/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/kneeling-rotational-reverse-chop/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Kneeling Stability Chop",
@@ -4414,13 +3842,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Kneeling Stability Chop",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/kneeling-stability-chop/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/kneeling-stability-chop/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Kneeling Woodchopper",
@@ -4442,13 +3866,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Kneeling Woodchopper",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/kneeling-woodchopper/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/kneeling-woodchopper/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Medicine Ball Wood Chops",
@@ -4470,13 +3890,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Medicine Ball Wood Chops",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/medicine-ball-wood-chops/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/medicine-ball-wood-chops/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connectvideo.garmin.com/msn-workout/Strength/S_303-A4.jpg"
   },
   {
@@ -4499,13 +3915,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Power Squat Chops",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/power-squat-chops/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/power-squat-chops/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Standing Rotational Chop",
@@ -4528,13 +3940,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Standing Rotational Chop",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/standing-rotational-chop/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/standing-rotational-chop/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Standing Split Rotational Chop",
@@ -4557,13 +3965,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Standing Split Rotational Chop",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/standing-split-rotational-chop/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/standing-split-rotational-chop/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Standing Split Rotational Reverse Chop",
@@ -4586,13 +3990,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Standing Split Rotational Reverse Chop",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/standing-split-rotational-reverse-chop/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/standing-split-rotational-reverse-chop/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Standing Stability Reverse Chop",
@@ -4616,13 +4016,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Standing Stability Reverse Chop",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/standing-stability-reverse-chop/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/standing-stability-reverse-chop/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Weighted Cross Chop to Knee",
@@ -4640,9 +4036,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Half-kneeling Rotation",
@@ -4660,9 +4054,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Power Squat Chops",
@@ -4681,9 +4073,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Abs Jabs",
@@ -4702,13 +4092,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Abs Jabs",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/abs-jabs/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/abs-jabs/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Alternating Plate Reach",
@@ -4730,13 +4116,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Alternating Plate Reach",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/alternating-plate-reach/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/alternating-plate-reach/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Alternating Slide-out",
@@ -4756,13 +4138,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Alternating Slide Out",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/alternating-slide-out/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/alternating-slide-out/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Barbell Roll-out",
@@ -4786,27 +4164,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Rollout",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/barbell-rollout/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/barbell-rollout/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Barbell Rollout",
-        "url": "https://fitnessprogramer.com/exercise/barbell-rollout/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/barbell-rollout/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Barbell rollout",
-        "url": "https://weighttraining.guide/exercises/barbell-rollout/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/barbell-rollout/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/BARBELL_ROLLOUT/heroImage_BBtOl6T.jpg"
   },
   {
@@ -4824,9 +4194,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Other"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Cable Core Press",
@@ -4847,13 +4215,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Cable Core Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/cable-core-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/cable-core-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Cable Side Bend",
@@ -4872,27 +4236,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Cable Side Bend",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/cable-side-bend/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/cable-side-bend/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Cable Side Bend",
-        "url": "https://fitnessprogramer.com/exercise/cable-side-bend/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/cable-side-bend/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Cable side bend",
-        "url": "https://weighttraining.guide/exercises/cable-side-bend/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/cable-side-bend/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Core",
@@ -4908,9 +4264,7 @@ window.GARMIN_EXERCISES = [
       "ABDUCTORS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Crescent Circle",
@@ -4929,13 +4283,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Crescent Circle",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/crescent-circle/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/crescent-circle/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Cycling Russian Twist",
@@ -4955,13 +4305,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Cycling Russian Twist",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/cycling-russian-twist/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/cycling-russian-twist/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Elevated-feet Russian Twist",
@@ -4981,13 +4327,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Elevated-Feet Russian Twist",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/elevated-feet-russian-twist/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/elevated-feet-russian-twist/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "GHD Back Extensions",
@@ -5002,9 +4344,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Machine"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Half-Turkish Get-up",
@@ -5029,13 +4369,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Half-Turkish Getup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/half-turkish-getup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/half-turkish-getup/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Hanging L Sit",
@@ -5056,9 +4392,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Pullup Bar"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Inchworm",
@@ -5078,27 +4412,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Inchworm",
-        "url": "https://www.muscleandstrength.com/exercises/inchworm",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/inchworm"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Inchworm",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/inchworm/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/inchworm/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Inchworm",
-        "url": "https://fitnessprogramer.com/exercise/inchworm/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/inchworm/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Kettlebell Windmill",
@@ -5117,27 +4443,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Kettlebell Windmill",
-        "url": "https://www.muscleandstrength.com/exercises/kettlebell-windmill",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/kettlebell-windmill"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Kettlebell Windmill",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/kettlebell-windmill/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/kettlebell-windmill/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Kettlebell Windmill",
-        "url": "https://fitnessprogramer.com/exercise/kettlebell-windmill/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/kettlebell-windmill/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Kneeling Ab Wheel",
@@ -5161,13 +4479,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Kneeling Ab Wheel",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/kneeling-ab-wheel/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/kneeling-ab-wheel/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/KNEELING_AB_WHEEL/heroImage_BBtO7D8.jpg"
   },
   {
@@ -5188,13 +4502,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "FitnessProgramer",
         "name": "L-Sit",
-        "url": "https://fitnessprogramer.com/exercise/l-sit/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/l-sit/"
       }
-    ],
-    "hasExternalImage": false,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Modified Front Lever",
@@ -5217,13 +4527,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Modified Front Lever",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/modified-front-lever/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/modified-front-lever/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Open Knee Tucks",
@@ -5240,13 +4546,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Open Knee Tucks",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/open-knee-tucks/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/open-knee-tucks/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Overhead Walk",
@@ -5266,9 +4568,7 @@ window.GARMIN_EXERCISES = [
       "TRAPS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Ring L Sit",
@@ -5289,9 +4589,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Rings"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Russian Twist",
@@ -5311,27 +4609,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Russian Twist",
-        "url": "https://www.muscleandstrength.com/exercises/russian-twist.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/russian-twist.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Russian Twist",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/russian-twist/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/russian-twist/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Russian Twist",
-        "url": "https://fitnessprogramer.com/exercise/russian-twist/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/russian-twist/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/RUSSIAN_TWIST/heroImage_BBtO7HH.jpg"
   },
   {
@@ -5352,13 +4642,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Side Abs Leg Lift",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/side-abs-leg-lift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/side-abs-leg-lift/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Side Bend",
@@ -5371,9 +4657,7 @@ window.GARMIN_EXERCISES = [
     ],
     "secondaryMuscles": [],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Swiss Ball Jackknife",
@@ -5394,13 +4678,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Swiss Ball Jackknife",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/swiss-ball-jackknife/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/swiss-ball-jackknife/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/SWISS_BALL_JACKKNIFE/heroImage_BBtO54l.jpg"
   },
   {
@@ -5423,13 +4703,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Swiss Ball Pike",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/swiss-ball-pike/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/swiss-ball-pike/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Swiss Ball Roll-out",
@@ -5451,20 +4727,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Swiss Ball Rollout",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/swiss-ball-rollout/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/swiss-ball-rollout/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Swiss Ball Rollout",
-        "url": "https://fitnessprogramer.com/exercise/swiss-ball-rollout/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/swiss-ball-rollout/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/SWISS_BALL_ROLLOUT/heroImage_BBtOcEr.jpg"
   },
   {
@@ -5485,9 +4755,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Pullup Bar"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Triangle Hip Press",
@@ -5504,13 +4772,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Triangle Hip Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/triangle-hip-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/triangle-hip-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "TRX Suspended Jackknife",
@@ -5535,13 +4799,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "TRX Suspended Jackknife",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/trx-suspended-jackknife/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/trx-suspended-jackknife/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Turkish Get-up",
@@ -5566,27 +4826,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Turkish Get Up",
-        "url": "https://www.muscleandstrength.com/exercises/turkish-get-up",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/turkish-get-up"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Turkish Getup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/turkish-getup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/turkish-getup/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Turkish Get-up",
-        "url": "https://fitnessprogramer.com/exercise/turkish-get-up/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/turkish-get-up/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "U-Boat",
@@ -5600,9 +4852,7 @@ window.GARMIN_EXERCISES = [
     ],
     "secondaryMuscles": [],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Abs Jabs",
@@ -5619,9 +4869,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Alternating Slide-out",
@@ -5639,9 +4887,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Barbell Roll-out",
@@ -5662,9 +4908,7 @@ window.GARMIN_EXERCISES = [
       "Barbell",
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Crescent Circle",
@@ -5681,9 +4925,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Cycling Russian Twist",
@@ -5701,9 +4943,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Medicine Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Elevated-feet Russian Twist",
@@ -5721,9 +4961,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Medicine Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted GHD Back Extensions",
@@ -5739,9 +4977,7 @@ window.GARMIN_EXERCISES = [
       "Machine",
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Hanging L Sit",
@@ -5763,9 +4999,7 @@ window.GARMIN_EXERCISES = [
       "Pullup Bar",
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Kneeling Ab Wheel",
@@ -5786,9 +5020,7 @@ window.GARMIN_EXERCISES = [
       "Other",
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted L Sit",
@@ -5806,9 +5038,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Modified Front Lever",
@@ -5828,9 +5058,7 @@ window.GARMIN_EXERCISES = [
       "Pullup Bar",
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Open Knee Tucks",
@@ -5845,9 +5073,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Ring L Sit",
@@ -5869,9 +5095,7 @@ window.GARMIN_EXERCISES = [
       "Ankle Weight",
       "Rings"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Side Abs Leg Lift",
@@ -5889,9 +5113,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Side Bend",
@@ -5906,9 +5128,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Swiss Ball Jackknife",
@@ -5926,9 +5146,7 @@ window.GARMIN_EXERCISES = [
       "Swiss Ball",
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Swiss Ball Pike",
@@ -5947,9 +5165,7 @@ window.GARMIN_EXERCISES = [
       "Swiss Ball",
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Swiss Ball Roll-out",
@@ -5969,9 +5185,7 @@ window.GARMIN_EXERCISES = [
       "Swiss Ball",
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Triangle Hip Press",
@@ -5986,9 +5200,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted TRX Suspended Jackknife",
@@ -6010,9 +5222,7 @@ window.GARMIN_EXERCISES = [
       "Trx",
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted U-Boat",
@@ -6028,9 +5238,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Windmill Switches",
@@ -6047,9 +5255,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Windmill Switches",
@@ -6068,13 +5274,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Windmill Switches",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/windmill-switches/",
-        "hasImage": true,
-        "hasVideo": false
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/windmill-switches/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": false
+    ]
   },
   {
     "name": "Bicycle Crunch",
@@ -6094,27 +5296,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Bicycle Crunch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/bicycle-crunch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/bicycle-crunch/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Bicycle Crunch",
-        "url": "https://fitnessprogramer.com/exercise/bicycle-crunch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/bicycle-crunch/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Bicycle crunch",
-        "url": "https://weighttraining.guide/exercises/bicycle-crunch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/bicycle-crunch/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/BICYCLE_CRUNCH/heroImage_BBtOafu.jpg"
   },
   {
@@ -6134,20 +5328,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Cable Crunch",
-        "url": "https://www.muscleandstrength.com/exercises/cable-crunch.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/cable-crunch.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Cable Crunch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/cable-crunch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/cable-crunch/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/CABLE_CRUNCH/heroImage_BBtOacU.jpg"
   },
   {
@@ -6165,13 +5353,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Circular Arm Crunch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/circular-arm-crunch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/circular-arm-crunch/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Crossed-arms Crunch",
@@ -6188,13 +5372,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Crossed-arms Crunch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/crossed-arms-crunch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/crossed-arms-crunch/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Crossed-leg Reverse Crunch",
@@ -6215,13 +5395,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Crossed-Leg Reverse Crunch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/crossed-leg-reverse-crunch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/crossed-leg-reverse-crunch/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Crunch",
@@ -6238,13 +5414,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "WeightTraining.guide",
         "name": "Crunch",
-        "url": "https://weighttraining.guide/exercises/crunch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/crunch/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/CRUNCH/heroImage_BBtOpYM.jpg"
   },
   {
@@ -6264,13 +5436,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Crunch Chop",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/crunch-chop/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/crunch-chop/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Double Crunch",
@@ -6289,13 +5457,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Double Crunch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/double-crunch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/double-crunch/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Elbow-to-Knee Crunch",
@@ -6315,13 +5479,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Elbow-to-Knee Crunch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/elbow-knee-crunch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/elbow-knee-crunch/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Flutter Kicks",
@@ -6337,9 +5497,7 @@ window.GARMIN_EXERCISES = [
       "LOWER_BACK"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Foam Roller Reverse Crunch on Bench",
@@ -6360,13 +5518,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Foam Roller Reverse Crunch on Bench",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/foam-roller-reverse-crunch-bench/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/foam-roller-reverse-crunch-bench/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Foam Roller Reverse Crunch with Dumbbell",
@@ -6387,13 +5541,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Foam Roller Reverse Crunch with Dumbbell",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/foam-roller-reverse-crunch-dumbbell/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/foam-roller-reverse-crunch-dumbbell/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Foam Roller Reverse Crunch with Medicine Ball",
@@ -6414,13 +5564,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Foam Roller Reverse Crunch with Medicine Ball",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/foam-roller-reverse-crunch-medicine-ball/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/foam-roller-reverse-crunch-medicine-ball/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Frog Press",
@@ -6438,13 +5584,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Frog Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/frog-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/frog-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Hanging Knee Raise Oblique Crunch",
@@ -6469,13 +5611,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Hanging Knee Raise Oblique Crunch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/hanging-knee-raise-oblique-crunch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/hanging-knee-raise-oblique-crunch/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/HANGING_KNEE_RAISE_OBLIQUE_CRUNCH/heroImage_BBtOldc.jpg"
   },
   {
@@ -6496,13 +5634,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Hip Crossover",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/hip-crossover/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/hip-crossover/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Hollow Rock",
@@ -6517,9 +5651,7 @@ window.GARMIN_EXERCISES = [
       "LOWER_BACK"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Incline Reverse Crunch",
@@ -6539,13 +5671,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Incline Reverse Crunch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/incline-reverse-crunch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/incline-reverse-crunch/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Kneeling Cable Crunch",
@@ -6564,27 +5692,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Kneeling Cable Crunch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/kneeling-cable-crunch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/kneeling-cable-crunch/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Kneeling Cable Crunch",
-        "url": "https://fitnessprogramer.com/exercise/kneeling-cable-crunch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/kneeling-cable-crunch/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Kneeling cable crunch",
-        "url": "https://weighttraining.guide/exercises/kneeling-cable-crunch/",
-        "hasImage": true,
-        "hasVideo": false
+        "url": "https://weighttraining.guide/exercises/kneeling-cable-crunch/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/KNEELING_CABLE_CRUNCH/heroImage_BBtO4Uo.jpg"
   },
   {
@@ -6603,13 +5723,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Kneeling Cross Crunch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/kneeling-cross-crunch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/kneeling-cross-crunch/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Kneeling Oblique Cable Crunch",
@@ -6630,13 +5746,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Kneeling Oblique Cable Crunch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/kneeling-oblique-cable-crunch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/kneeling-oblique-cable-crunch/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Knees-to-Elbow",
@@ -6657,9 +5769,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Pullup Bar"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Leg Climb Crunch",
@@ -6673,9 +5783,7 @@ window.GARMIN_EXERCISES = [
     ],
     "secondaryMuscles": [],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Leg Extensions",
@@ -6690,9 +5798,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Machine"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Leg Levers",
@@ -6708,9 +5814,7 @@ window.GARMIN_EXERCISES = [
       "QUADS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "McGill Curl-up",
@@ -6727,13 +5831,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "McGill Curl-Up",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/mcgill-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/mcgill-curl/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Modified Pilates Roll-up with Ball",
@@ -6755,13 +5855,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Modified Pilates Rollup with Ball",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/modified-pilates-rollup-ball/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/modified-pilates-rollup-ball/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Pilates Crunch",
@@ -6774,9 +5870,7 @@ window.GARMIN_EXERCISES = [
     ],
     "secondaryMuscles": [],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Pilates Roll-up with Ball",
@@ -6795,13 +5889,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Pilates Rollup with Ball",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/pilates-rollup-ball/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/pilates-rollup-ball/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Raised-legs Crunch",
@@ -6818,13 +5908,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Raised-Legs Crunch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/raised-legs-crunch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/raised-legs-crunch/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Reverse Crunch",
@@ -6842,27 +5928,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Reverse Crunch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/reverse-crunch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/reverse-crunch/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Reverse Crunch",
-        "url": "https://fitnessprogramer.com/exercise/reverse-crunch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/reverse-crunch/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Reverse crunch",
-        "url": "https://weighttraining.guide/exercises/reverse-crunch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/reverse-crunch/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/REVERSE_CRUNCH/heroImage_BBtO7Hs.jpg"
   },
   {
@@ -6883,13 +5961,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Reverse Crunch on a Bench",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/reverse-crunch-bench/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/reverse-crunch-bench/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/REVERSE_CRUNCH_ON_A_BENCH/heroImage_BBtOiVb.jpg"
   },
   {
@@ -6908,13 +5982,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Reverse Curl and Lift",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/reverse-curl-and-lift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/reverse-curl-and-lift/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Rotational Lift",
@@ -6932,13 +6002,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Rotational Lift",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/rotational-lift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/rotational-lift/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Ruck Flutter Kicks",
@@ -6958,8 +6024,6 @@ window.GARMIN_EXERCISES = [
       "Pack Weight"
     ],
     "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false,
     "image": "https://connectvideo.garmin.com/msn-workout/Strength/S_369-Cam1.jpg"
   },
   {
@@ -6978,13 +6042,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Seated Alternating Reverse Crunch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/seated-alternating-reverse-crunch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/seated-alternating-reverse-crunch/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Seated Leg U",
@@ -7002,13 +6062,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Seated Leg U",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/seated-leg-u/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/seated-leg-u/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Side-to-Side Crunch and Weave",
@@ -7026,13 +6082,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Side-to-Side Crunch and Weave",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/side-side-crunch-and-weave/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/side-side-crunch-and-weave/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Single-leg Reverse Crunch",
@@ -7046,9 +6098,7 @@ window.GARMIN_EXERCISES = [
     ],
     "secondaryMuscles": [],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Skater Crunch Cross",
@@ -7070,13 +6120,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Skater Crunch Cross",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/skater-crunch-cross/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/skater-crunch-cross/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/SKATER_CRUNCH_CROSS/heroImage_BBtOcHh.jpg"
   },
   {
@@ -7096,27 +6142,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Standing Cable Crunch",
-        "url": "https://www.muscleandstrength.com/exercises/standing-cable-crunch.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/standing-cable-crunch.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Standing Cable Crunch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/standing-cable-crunch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/standing-cable-crunch/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Standing Cable Crunch",
-        "url": "https://fitnessprogramer.com/exercise/standing-cable-crunch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/standing-cable-crunch/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Standing Side Crunch",
@@ -7133,13 +6171,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Standing Side Crunch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/standing-side-crunch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/standing-side-crunch/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Step Climb",
@@ -7152,9 +6186,7 @@ window.GARMIN_EXERCISES = [
     ],
     "secondaryMuscles": [],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Straight-leg Crunch with Ball",
@@ -7171,8 +6203,6 @@ window.GARMIN_EXERCISES = [
       "Swiss Ball"
     ],
     "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false,
     "image": "https://connect.garmin.com/images/exercises/images/STRAIGHT_LEG_CRUNCH_WITH_BALL/heroImage_BBtOnoN.jpg"
   },
   {
@@ -7192,13 +6222,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Swiss Ball Crunch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/swiss-ball-crunch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/swiss-ball-crunch/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/SWISS_BALL_CRUNCH/heroImage_BBtOcOI.jpg"
   },
   {
@@ -7219,13 +6245,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Swiss Ball Reverse Crunch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/swiss-ball-reverse-crunch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/swiss-ball-reverse-crunch/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Swiss Ball Russian Twist",
@@ -7247,13 +6269,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Swiss Ball Russian Twist",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/swiss-ball-russian-twist/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/swiss-ball-russian-twist/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Swiss Ball Side Crunch",
@@ -7272,13 +6290,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Swiss Ball Side Crunch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/swiss-ball-side-crunch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/swiss-ball-side-crunch/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Thoracic Crunches on Foam Roller",
@@ -7297,13 +6311,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Thoracic Crunches on Foam Roller",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/thoracic-crunches-foam-roller/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/thoracic-crunches-foam-roller/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Toes to Bar",
@@ -7328,13 +6338,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "FitnessProgramer",
         "name": "Toes to Bar",
-        "url": "https://fitnessprogramer.com/exercise/toes-to-bar/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/toes-to-bar/"
       }
-    ],
-    "hasExternalImage": false,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Triceps Crunch",
@@ -7355,13 +6361,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Triceps Crunch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/triceps-crunch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/triceps-crunch/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Weighted Bicycle Crunch",
@@ -7383,13 +6385,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Weighted Bicycle Crunch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/weighted-bicycle-crunch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/weighted-bicycle-crunch/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Weighted Crossed-arms Crunch",
@@ -7404,9 +6402,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Crossed-leg Reverse Crunch",
@@ -7424,9 +6420,7 @@ window.GARMIN_EXERCISES = [
       "Ankle Weight",
       "Bench"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Crunch",
@@ -7445,27 +6439,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Weighted Crunch",
-        "url": "https://www.muscleandstrength.com/exercises/weighted-crunch.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/weighted-crunch.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Weighted Crunch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/weighted-crunch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/weighted-crunch/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Weighted Crunch",
-        "url": "https://fitnessprogramer.com/exercise/weighted-crunch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/weighted-crunch/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Weighted Crunch Chop",
@@ -7482,9 +6468,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Medicine Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Double Crunch",
@@ -7501,9 +6485,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Medicine Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Elbow-to-Knee Crunch",
@@ -7521,9 +6503,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Medicine Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Flutter Kicks",
@@ -7541,9 +6521,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Foam Roller Reverse Crunch on Bench",
@@ -7561,9 +6539,7 @@ window.GARMIN_EXERCISES = [
       "Bench",
       "Foam Roller"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Hanging Knee Raise Oblique Crunch",
@@ -7585,9 +6561,7 @@ window.GARMIN_EXERCISES = [
       "Medicine Ball",
       "Pullup Bar"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Hip Crossover",
@@ -7605,9 +6579,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Hollow Rock",
@@ -7624,9 +6596,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Medicine Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Incline Reverse Crunch",
@@ -7643,9 +6613,7 @@ window.GARMIN_EXERCISES = [
       "Ankle Weight",
       "Bench"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Kneeling Cross Crunch",
@@ -7661,9 +6629,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Medicine Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Leg Extensions",
@@ -7678,9 +6644,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Machine"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted McGill Curl-up",
@@ -7695,9 +6659,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Medicine Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Modified Pilates Roll-up with Ball",
@@ -7715,9 +6677,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Medicine Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Pilates Crunch",
@@ -7732,9 +6692,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Medicine Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Pilates Roll-up with Ball",
@@ -7749,9 +6707,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Medicine Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Raised-legs Crunch",
@@ -7767,9 +6723,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Medicine Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Reverse Crunch",
@@ -7785,9 +6739,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Reverse Crunch on a Bench",
@@ -7804,9 +6756,7 @@ window.GARMIN_EXERCISES = [
       "Ankle Weight",
       "Bench"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Reverse Curl and Lift",
@@ -7822,9 +6772,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Rotational Lift",
@@ -7840,9 +6788,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Seated Alternating Reverse Crunch",
@@ -7860,9 +6806,7 @@ window.GARMIN_EXERCISES = [
       "Ankle Weight",
       "Bench"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Seated Leg U",
@@ -7878,9 +6822,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Side-to-Side Crunch and Weave",
@@ -7896,9 +6838,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Single-leg Reverse Crunch",
@@ -7916,9 +6856,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Skater Crunch Cross",
@@ -7938,9 +6876,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Step Climb",
@@ -7955,9 +6891,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Swiss Ball Crunch",
@@ -7977,13 +6911,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Weighted Swiss Ball Crunch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/weighted-swiss-ball-crunch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/weighted-swiss-ball-crunch/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Weighted Swiss Ball Reverse Crunch",
@@ -8000,9 +6930,7 @@ window.GARMIN_EXERCISES = [
       "Ankle Weight",
       "Swiss Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Swiss Ball Russian Twist",
@@ -8021,9 +6949,7 @@ window.GARMIN_EXERCISES = [
       "Medicine Ball",
       "Swiss Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Swiss Ball Side Crunch",
@@ -8039,9 +6965,7 @@ window.GARMIN_EXERCISES = [
       "Medicine Ball",
       "Swiss Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Thoracic Crunches on Foam Roller",
@@ -8057,9 +6981,7 @@ window.GARMIN_EXERCISES = [
       "Foam Roller",
       "Medicine Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Toes to Bar",
@@ -8081,9 +7003,7 @@ window.GARMIN_EXERCISES = [
       "Ankle Weight",
       "Pullup Bar"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Alternating Dumbbell Biceps Curl",
@@ -8102,13 +7022,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Alternating Dumbbell Biceps Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/alternating-dumbbell-biceps-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/alternating-dumbbell-biceps-curl/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/ALTERNATING_DUMBBELL_BICEPS_CURL/heroImage_BBtOkZz.jpg"
   },
   {
@@ -8127,9 +7043,7 @@ window.GARMIN_EXERCISES = [
       "Dumbbell",
       "Swiss Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Alternating Incline Dumbbell Biceps Curl",
@@ -8151,13 +7065,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Alternating Incline Dumbbell Biceps Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/alternating-incline-dumbbell-biceps-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/alternating-incline-dumbbell-biceps-curl/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/ALTERNATING_INCLINE_DUMBBELL_BICEPS_CURL/heroImage_BBtOl00.jpg"
   },
   {
@@ -8179,13 +7089,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Biceps Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/barbell-biceps-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/barbell-biceps-curl/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/BARBELL_BICEPS_CURL/heroImage_BBtOf31.jpg"
   },
   {
@@ -8205,27 +7111,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Reverse Wrist Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/barbell-reverse-wrist-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/barbell-reverse-wrist-curl/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Barbell Reverse Wrist Curl",
-        "url": "https://fitnessprogramer.com/exercise/barbell-reverse-wrist-curl/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/barbell-reverse-wrist-curl/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Reverse Wrist Curl",
-        "url": "https://fitnessprogramer.com/exercise/reverse-wrist-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/reverse-wrist-curl/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Barbell Wrist Curl",
@@ -8244,20 +7142,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Wrist Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/barbell-wrist-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/barbell-wrist-curl/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Wrist Curl",
-        "url": "https://fitnessprogramer.com/exercise/wrist-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/wrist-curl/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Behind-the-Back Barbell Reverse Wrist Curl",
@@ -8276,13 +7168,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Behind-the-Back Barbell Reverse Wrist Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/behind-back-barbell-reverse-wrist-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/behind-back-barbell-reverse-wrist-curl/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Behind-the-Back One-arm Cable Curl",
@@ -8303,13 +7191,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Behind-the-Back One-Arm Cable Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/behind-back-one-arm-cable-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/behind-back-one-arm-cable-curl/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Cable Biceps Curl",
@@ -8330,13 +7214,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Cable Biceps Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/cable-biceps-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/cable-biceps-curl/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Cable Hammer Curl",
@@ -8357,13 +7237,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Cable Hammer Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/cable-hammer-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/cable-hammer-curl/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Cheating Barbell Biceps Curl",
@@ -8384,13 +7260,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Cheating Barbell Biceps Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/cheating-barbell-biceps-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/cheating-barbell-biceps-curl/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Close-grip EZ-Bar Biceps Curl",
@@ -8411,13 +7283,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Close-Grip EZ-Bar Biceps Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/close-grip-ez-bar-biceps-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/close-grip-ez-bar-biceps-curl/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Cross-body Dumbbell Hammer Curl",
@@ -8438,20 +7306,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Cross-Body Dumbbell Hammer Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/cross-body-dumbbell-hammer-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/cross-body-dumbbell-hammer-curl/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Dumbbell cross-body hammer curl",
-        "url": "https://weighttraining.guide/exercises/cross-body-hammer-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/cross-body-hammer-curl/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Curl",
@@ -8466,9 +7328,7 @@ window.GARMIN_EXERCISES = [
       "FOREARM"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Dead-hang Biceps Curl",
@@ -8490,13 +7350,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Dead-Hang Biceps Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/dead-hang-biceps-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/dead-hang-biceps-curl/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/DEAD_HANG_BICEPS_CURL/heroImage_BBtOcES.jpg"
   },
   {
@@ -8519,13 +7375,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Decline Hammer Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/decline-hammer-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/decline-hammer-curl/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dumbbell Biceps Curl",
@@ -8542,9 +7394,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Dumbbell Biceps Curl with Static Hold",
@@ -8565,13 +7415,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Biceps Curl with Static Hold",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/dumbbell-biceps-curl-static-hold/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/dumbbell-biceps-curl-static-hold/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dumbbell Hammer Curl",
@@ -8592,20 +7438,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Hammer Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/dumbbell-hammer-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/dumbbell-hammer-curl/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Dumbbell hammer curl",
-        "url": "https://weighttraining.guide/exercises/dumbbell-hammer-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/dumbbell-hammer-curl/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/DUMBBELL_HAMMER_CURL/heroImage_BBtOad7.jpg"
   },
   {
@@ -8625,13 +7465,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Reverse Wrist Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/dumbbell-reverse-wrist-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/dumbbell-reverse-wrist-curl/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dumbbell Wrist Curl",
@@ -8650,13 +7486,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "FitnessProgramer",
         "name": "Dumbbell Wrist Curl",
-        "url": "https://fitnessprogramer.com/exercise/dumbbell-wrist-curl/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/dumbbell-wrist-curl/"
       }
-    ],
-    "hasExternalImage": false,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "EZ-Bar Preacher Curl",
@@ -8678,13 +7510,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "EZ-Bar Preacher Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/ez-bar-preacher-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/ez-bar-preacher-curl/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Forward Bend Biceps Curl",
@@ -8702,8 +7530,6 @@ window.GARMIN_EXERCISES = [
       "Barbell"
     ],
     "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false,
     "image": "https://connect.garmin.com/images/exercises/images/FORWARD_BEND_BICEPS_CURL/heroImage_BBtOa4P.jpg"
   },
   {
@@ -8728,13 +7554,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Hammer Curl to Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/hammer-curl-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/hammer-curl-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Incline Dumbbell Biceps Curl",
@@ -8756,13 +7578,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Incline Dumbbell Biceps Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/incline-dumbbell-biceps-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/incline-dumbbell-biceps-curl/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Incline Offset Thumb Dumbbell Curl",
@@ -8784,13 +7602,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Incline Offset Thumb Dumbbell Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/incline-offset-thumb-dumbbell-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/incline-offset-thumb-dumbbell-curl/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Kettlebell Biceps Curl",
@@ -8811,13 +7625,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Kettlebell Biceps Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/kettlebell-biceps-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/kettlebell-biceps-curl/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Lying Concentration Cable Curl",
@@ -8838,13 +7648,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Lying Concentration Cable Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/lying-concentration-cable-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/lying-concentration-cable-curl/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "One-arm Concentration Curl",
@@ -8862,8 +7668,6 @@ window.GARMIN_EXERCISES = [
       "Dumbbell"
     ],
     "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false,
     "image": "https://connect.garmin.com/images/exercises/images/ONE_ARM_CONCENTRATION_CURL/heroImage_BBtO7zq.jpg"
   },
   {
@@ -8886,13 +7690,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "One-Arm Preacher Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/one-arm-preacher-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/one-arm-preacher-curl/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Plate Pinch Curl",
@@ -8913,13 +7713,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Plate Pinch Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/plate-pinch-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/plate-pinch-curl/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Preacher Curl with Cable",
@@ -8941,13 +7737,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Preacher Curl with Cable",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/preacher-curl-cable/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/preacher-curl-cable/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Reverse EZ-Bar Curl",
@@ -8968,20 +7760,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Reverse EZ-Bar Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/reverse-ez-bar-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/reverse-ez-bar-curl/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "EZ bar reverse curl",
-        "url": "https://weighttraining.guide/exercises/ez-bar-reverse-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/ez-bar-reverse-curl/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Reverse-grip Barbell Biceps Curl",
@@ -9002,13 +7788,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Reverse-Grip Barbell Biceps Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/reverse-grip-barbell-biceps-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/reverse-grip-barbell-biceps-curl/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Reverse-grip Wrist Curl",
@@ -9027,13 +7809,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Reverse Grip Wrist Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/reverse-grip-wrist-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/reverse-grip-wrist-curl/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Seated Alternating Dumbbell Biceps Curl",
@@ -9055,13 +7833,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Seated Alternating Dumbbell Biceps Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/seated-alternating-dumbbell-biceps-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/seated-alternating-dumbbell-biceps-curl/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/SEATED_ALTERNATING_DUMBBELL_BICEPS_CURL/heroImage_BBtO7sc.jpg"
   },
   {
@@ -9084,13 +7858,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Seated Dumbbell Biceps Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/seated-dumbbell-biceps-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/seated-dumbbell-biceps-curl/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Seated Reverse Dumbbell Curl",
@@ -9112,20 +7882,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Seated Dumbbell Reverse Curl",
-        "url": "https://www.muscleandstrength.com/exercises/seated-dumbbell-reverse-curl",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/seated-dumbbell-reverse-curl"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Seated Reverse Dumbbell Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/seated-reverse-dumbbell-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/seated-reverse-dumbbell-curl/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Split-stance Offset Pinky Dumbbell Curl",
@@ -9146,13 +7910,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Split-Stance Offset Pinky Dumbbell Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/split-stance-offset-pinky-dumbbell-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/split-stance-offset-pinky-dumbbell-curl/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Standing Alternating Dumbbell Curls",
@@ -9173,13 +7933,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Standing Alternating Dumbbell Curls",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/standing-alternating-dumbbell-curls/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/standing-alternating-dumbbell-curls/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/STANDING_ALTERNATING_DUMBBELL_CURLS/heroImage_BBtO50p.jpg"
   },
   {
@@ -9201,13 +7957,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Standing Dumbbell Biceps Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/standing-dumbbell-biceps-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/standing-dumbbell-biceps-curl/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/STANDING_DUMBBELL_BICEPS_CURL/heroImage_BBtOcxL.jpg"
   },
   {
@@ -9229,13 +7981,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Standing EZ-Bar Biceps Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/standing-ez-bar-biceps-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/standing-ez-bar-biceps-curl/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Standing Zottman Biceps Curl",
@@ -9256,13 +8004,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Standing Zottman Biceps Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/standing-zottman-biceps-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/standing-zottman-biceps-curl/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Static Curl",
@@ -9279,9 +8023,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Barbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Swiss Ball Dumbbell Overhead Triceps Extension",
@@ -9297,9 +8039,7 @@ window.GARMIN_EXERCISES = [
       "Dumbbell",
       "Swiss Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Swiss Ball EZ-Bar Preacher Curl",
@@ -9322,13 +8062,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Swiss Ball EZ-Bar Preacher Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/swiss-ball-ez-bar-preacher-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/swiss-ball-ez-bar-preacher-curl/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Twisting Standing Dumbbell Biceps Curl",
@@ -9349,13 +8085,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Twisting Standing Dumbbell Biceps Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/twisting-standing-dumbbell-biceps-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/twisting-standing-dumbbell-biceps-curl/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Wide-grip EZ-Bar Biceps Curl",
@@ -9376,13 +8108,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Wide-Grip EZ-Bar Biceps Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/wide-grip-ez-bar-biceps-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/wide-grip-ez-bar-biceps-curl/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Barbell Deadlift",
@@ -9409,34 +8137,24 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Deadlift",
-        "url": "https://www.muscleandstrength.com/exercises/deadlifts.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/deadlifts.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Deadlift",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/barbell-deadlift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/barbell-deadlift/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Deadlift",
-        "url": "https://fitnessprogramer.com/exercise/deadlift/",
-        "hasImage": true,
-        "hasVideo": false
+        "url": "https://fitnessprogramer.com/exercise/deadlift/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Barbell deadlift",
-        "url": "https://weighttraining.guide/exercises/barbell-deadlift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/barbell-deadlift/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/BARBELL_DEADLIFT/heroImage_BBtO4Va.jpg"
   },
   {
@@ -9462,20 +8180,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Straight Leg Deadlift",
-        "url": "https://www.muscleandstrength.com/exercises/straight-leg-deadlift",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/straight-leg-deadlift"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Straight-Leg Deadlift",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-straight-leg-deadlift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-straight-leg-deadlift/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/BARBELL_STRAIGHT_LEG_DEADLIFT/heroImage_BBtOiNv.jpg"
   },
   {
@@ -9497,9 +8209,7 @@ window.GARMIN_EXERCISES = [
       "TRAPS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Dumbbell Deadlift",
@@ -9526,27 +8236,24 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Dumbbell Deadlift",
-        "url": "https://www.muscleandstrength.com/exercises/dumbbell-deadlift.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/dumbbell-deadlift.html"
+      },
+      {
+        "source": "Muscle & Fitness",
+        "name": "How to: Dumbbell Deadlift",
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-deadlift/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Dumbbell Deadlift",
-        "url": "https://fitnessprogramer.com/exercise/dumbbell-deadlift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/dumbbell-deadlift/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Dumbbell deadlift",
-        "url": "https://weighttraining.guide/exercises/dumbbell-deadlift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/dumbbell-deadlift/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/DUMBBELL_DEADLIFT/heroImage_BBtOiJg.jpg"
   },
   {
@@ -9574,13 +8281,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Single-Leg Deadlift to Row",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-single-leg-deadlift-row/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-single-leg-deadlift-row/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dumbbell Straight-leg Deadlift",
@@ -9605,27 +8308,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Straight-Leg Deadlift",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-straight-leg-deadlift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-straight-leg-deadlift/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Dumbbell Straight Leg Deadlift",
-        "url": "https://fitnessprogramer.com/exercise/dumbbell-straight-leg-deadlift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/dumbbell-straight-leg-deadlift/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Dumbbell straight-leg deadlift",
-        "url": "https://weighttraining.guide/exercises/dumbbell-straight-leg-deadlift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/dumbbell-straight-leg-deadlift/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/DUMBBELL_STRAIGHT_LEG_DEADLIFT/heroImage_BBtOa9u.jpg"
   },
   {
@@ -9653,20 +8348,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "FitnessProgramer",
         "name": "Kettlebell Deadlift",
-        "url": "https://fitnessprogramer.com/exercise/kettlebell-deadlift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/kettlebell-deadlift/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Kettlebell deadlift",
-        "url": "https://weighttraining.guide/exercises/kettlebell-deadlift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/kettlebell-deadlift/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Kettlebell Floor to Shelf",
@@ -9688,13 +8377,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Kettlebell Floor to Shelf",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/kettlebell-floor-shelf/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/kettlebell-floor-shelf/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Kettlebell Sumo Deadlift",
@@ -9717,9 +8402,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Kettlebell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "One-arm One-leg Deadlift",
@@ -9744,13 +8427,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "One-Arm One-Leg Deadlift",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/one-arm-one-leg-deadlift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/one-arm-one-leg-deadlift/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Rack Pull",
@@ -9778,27 +8457,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Rack Pull",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/rack-pull/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/rack-pull/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Rack Pull",
-        "url": "https://fitnessprogramer.com/exercise/rack-pull/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/rack-pull/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Barbell rack pull",
-        "url": "https://weighttraining.guide/exercises/barbell-rack-pull/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/barbell-rack-pull/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Romanian Deadlift",
@@ -9824,27 +8495,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Romanian Deadlift (AKA RDL)",
-        "url": "https://www.muscleandstrength.com/exercises/romanian-deadlift",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/romanian-deadlift"
       },
       {
         "source": "FitnessProgramer",
         "name": "Romanian Deadlift",
-        "url": "https://fitnessprogramer.com/exercise/romanian-deadlift/",
-        "hasImage": true,
-        "hasVideo": false
+        "url": "https://fitnessprogramer.com/exercise/romanian-deadlift/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Barbell Romanian deadlift",
-        "url": "https://weighttraining.guide/exercises/romanian-deadlift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/romanian-deadlift/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Rotational Dumbbell Straight-leg Deadlift",
@@ -9869,13 +8532,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Rotational Dumbbell Straight-Leg Deadlift",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/rotational-dumbbell-straight-leg-deadlift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/rotational-dumbbell-straight-leg-deadlift/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Ruck Deadlift",
@@ -9899,8 +8558,6 @@ window.GARMIN_EXERCISES = [
       "Pack Weight"
     ],
     "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false,
     "image": "https://connectvideo.garmin.com/msn-workout/Strength/S_368-Cam1.jpg"
   },
   {
@@ -9924,9 +8581,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Single-leg Barbell Deadlift",
@@ -9953,20 +8608,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Leg Barbell Deadlift",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/single-leg-barbell-deadlift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/single-leg-barbell-deadlift/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Barbell Single Leg Deadlift",
-        "url": "https://fitnessprogramer.com/exercise/barbell-single-leg-deadlift/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/barbell-single-leg-deadlift/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Single-leg Barbell Straight-leg Deadlift",
@@ -9991,13 +8640,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Leg Barbell Straight-Leg Deadlift",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/single-leg-barbell-straight-leg-deadlift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/single-leg-barbell-straight-leg-deadlift/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Single-leg Deadlift with Barbell",
@@ -10024,13 +8669,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Leg Deadlift with Barbell",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/single-leg-deadlift-barbell/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/single-leg-deadlift-barbell/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/SINGLE_LEG_DEADLIFT_WITH_BARBELL/heroImage_BBtO54q.jpg"
   },
   {
@@ -10052,9 +8693,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Barbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Single-leg Romanian Deadlift Circuit",
@@ -10075,9 +8714,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Barbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Single-leg Romanian Deadlift with Dumbbell",
@@ -10098,9 +8735,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Straight-leg Deadlift",
@@ -10119,9 +8754,7 @@ window.GARMIN_EXERCISES = [
       "TRAPS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Sumo Deadlift",
@@ -10148,34 +8781,24 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Sumo Deadlift",
-        "url": "https://www.muscleandstrength.com/exercises/sumo-deadlift",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/sumo-deadlift"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Sumo Deadlift",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/sumo-deadlift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/sumo-deadlift/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Sumo Deadlift",
-        "url": "https://fitnessprogramer.com/exercise/sumo-deadlift/",
-        "hasImage": true,
-        "hasVideo": false
+        "url": "https://fitnessprogramer.com/exercise/sumo-deadlift/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Barbell sumo deadlift",
-        "url": "https://weighttraining.guide/exercises/barbell-sumo-deadlift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/barbell-sumo-deadlift/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Sumo Deadlift High Pull",
@@ -10201,13 +8824,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Sumo Deadlift High Pull",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/sumo-deadlift-high-pull/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/sumo-deadlift-high-pull/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Trap-bar Deadlift",
@@ -10234,27 +8853,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Trap Bar Deadlift",
-        "url": "https://www.muscleandstrength.com/exercises/trap-bar-deadlift",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/trap-bar-deadlift"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Trap-Bar Deadlift",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/trap-bar-deadlift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/trap-bar-deadlift/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Trap bar deadlift",
-        "url": "https://weighttraining.guide/exercises/trap-bar-deadlift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/trap-bar-deadlift/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Wide-grip Barbell Deadlift",
@@ -10281,13 +8892,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Wide-Grip Barbell Deadlift",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/wide-grip-barbell-deadlift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/wide-grip-barbell-deadlift/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Elliptical",
@@ -10308,9 +8915,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Machine"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Floor Climb",
@@ -10328,9 +8933,7 @@ window.GARMIN_EXERCISES = [
       "HIPS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Cable Crossover",
@@ -10351,27 +8954,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Cable Crossover",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/cable-crossover/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/cable-crossover/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Cable Crossover",
-        "url": "https://fitnessprogramer.com/exercise/cable-crossover/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/cable-crossover/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Cable cross-over",
-        "url": "https://weighttraining.guide/exercises/high-cable-cross-over/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/high-cable-cross-over/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Decline Dumbbell Fly",
@@ -10393,20 +8988,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "FitnessProgramer",
         "name": "Decline Dumbbell Fly",
-        "url": "https://fitnessprogramer.com/exercise/decline-dumbbell-fly/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/decline-dumbbell-fly/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Decline dumbbell fly",
-        "url": "https://weighttraining.guide/exercises/decline-dumbbell-fly/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/decline-dumbbell-fly/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dumbbell Fly",
@@ -10427,20 +9016,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "FitnessProgramer",
         "name": "Dumbbell Fly",
-        "url": "https://fitnessprogramer.com/exercise/dumbbell-fly/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/dumbbell-fly/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Dumbbell fly",
-        "url": "https://weighttraining.guide/exercises/dumbbell-fly/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/dumbbell-fly/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/DUMBBELL_FLYE/heroImage_BBtOiLi.jpg"
   },
   {
@@ -10463,20 +9046,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "FitnessProgramer",
         "name": "Incline Dumbbell Fly",
-        "url": "https://fitnessprogramer.com/exercise/incline-dumbbell-fly/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/incline-dumbbell-fly/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Incline dumbbell fly",
-        "url": "https://weighttraining.guide/exercises/incline-dumbbell-fly/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/incline-dumbbell-fly/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Incline Reverse Fly",
@@ -10493,9 +9070,7 @@ window.GARMIN_EXERCISES = [
       "Bench",
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Kettlebell Fly",
@@ -10513,9 +9088,7 @@ window.GARMIN_EXERCISES = [
       "Bench",
       "Kettlebell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Kneeling Rear Fly",
@@ -10532,9 +9105,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Single-arm Standing Cable Reverse Fly",
@@ -10550,9 +9121,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Cable Machine"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Swiss Ball Dumbbell Fly",
@@ -10570,9 +9139,7 @@ window.GARMIN_EXERCISES = [
       "Dumbbell",
       "Swiss Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Barbell Hip Thrust on Floor",
@@ -10594,13 +9161,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Hip Thrust on Floor",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-hip-thrust-floor/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-hip-thrust-floor/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/BARBELL_HIP_THRUST_ON_FLOOR/heroImage_BBtOiD4.jpg"
   },
   {
@@ -10624,13 +9187,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Hip Thrust with Bench",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-hip-thrust-bench/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-hip-thrust-bench/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connectvideo.garmin.com/msn-workout/Strength/S_311-A5.jpg"
   },
   {
@@ -10654,13 +9213,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Bent-Knee Swiss Ball Reverse Hip Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/bent-knee-swiss-ball-reverse-hip-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/bent-knee-swiss-ball-reverse-hip-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Bridge with Leg Extension",
@@ -10681,13 +9236,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Bridge with Leg Extension",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/bridge-leg-extension/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/bridge-leg-extension/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Clam Bridge",
@@ -10704,9 +9255,7 @@ window.GARMIN_EXERCISES = [
       "OBLIQUES"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Front Kick Tabletop",
@@ -10726,13 +9275,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Front Kick Tabletop",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/front-kick-tabletop/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/front-kick-tabletop/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Hip Extension and Cross",
@@ -10752,13 +9297,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Hip Extension and Cross",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/hip-extension-and-cross/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/hip-extension-and-cross/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Hip Raise",
@@ -10778,13 +9319,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Hip Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/hip-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/hip-raise/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/HIP_RAISE/heroImage_BBtOhct.jpg"
   },
   {
@@ -10807,13 +9344,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Hip Raise with Feet on Swiss Ball",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/hip-raise-feet-swiss-ball/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/hip-raise-feet-swiss-ball/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Hip Raise with Head on Bosu® Balance Trainer",
@@ -10831,9 +9364,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Bosu Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Hip Raise with Head on Swiss Ball",
@@ -10855,13 +9386,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Hip Raise with Head on Swiss Ball",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/hip-raise-head-swiss-ball/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/hip-raise-head-swiss-ball/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Hip Raise with Knee Squeeze",
@@ -10881,13 +9408,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Hip Raise with Knee Squeeze",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/hip-raise-knee-squeeze/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/hip-raise-knee-squeeze/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Incline Rear-leg Extension",
@@ -10908,13 +9431,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Incline Rear-Leg Extension",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/incline-rear-leg-extension/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/incline-rear-leg-extension/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Kettlebell Swing",
@@ -10940,27 +9459,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Kettlebell Swing",
-        "url": "https://www.muscleandstrength.com/exercises/kettlebell-swing",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/kettlebell-swing"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Kettlebell Swing",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/kettlebell-swing/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/kettlebell-swing/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Kettlebell swing",
-        "url": "https://weighttraining.guide/exercises/kettlebell-swing/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/kettlebell-swing/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connectvideo.garmin.com/msn-workout/Strength/S_244-A3.jpg"
   },
   {
@@ -10982,13 +9493,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Marching Hip Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/marching-hip-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/marching-hip-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Marching Hip Raise with Feet on a Swiss Ball",
@@ -11007,9 +9514,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Swiss Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Reverse Hip Raise",
@@ -11031,13 +9536,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Reverse Hip Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/reverse-hip-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/reverse-hip-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Single-leg Hip Raise",
@@ -11057,13 +9558,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Leg Hip Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/single-leg-hip-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/single-leg-hip-raise/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/SINGLE_LEG_HIP_RAISE/heroImage_BBtOhcl.jpg"
   },
   {
@@ -11086,13 +9583,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Leg Hip Raise with Foot on Bench",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/single-leg-hip-raise-foot-bench/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/single-leg-hip-raise-foot-bench/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Single-leg Hip Raise with Foot on Bosu® Balance Trainer",
@@ -11110,9 +9603,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Bosu Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Single-leg Hip Raise with Foot on Foam Roller",
@@ -11134,13 +9625,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Leg Hip Raise with Foot on Foam Roller",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/single-leg-hip-raise-foot-foam-roller/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/single-leg-hip-raise-foot-foam-roller/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Single-leg Hip Raise with Foot on Medicine Ball",
@@ -11162,13 +9649,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Leg Hip Raise with Foot on Medicine Ball",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/single-leg-hip-raise-foot-medicine-ball/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/single-leg-hip-raise-foot-medicine-ball/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Single-leg Hip Raise with Head on Bosu® Balance Trainer",
@@ -11186,9 +9669,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Bosu Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Single-leg Swiss Ball Hip Raise and Leg Curl",
@@ -11210,13 +9691,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Leg Swiss Ball Hip Raise and Leg Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/single-leg-swiss-ball-hip-raise-and-leg-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/single-leg-swiss-ball-hip-raise-and-leg-curl/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Weighted Bent-knee Swiss Ball Reverse Hip Raise",
@@ -11236,9 +9713,7 @@ window.GARMIN_EXERCISES = [
       "Ankle Weight",
       "Swiss Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Bridge with Leg Extension",
@@ -11257,9 +9732,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Clam Bridge",
@@ -11282,13 +9755,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Weighted Clam Bridge",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/weighted-clam-bridge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/weighted-clam-bridge/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Weighted Front Kick Tabletop",
@@ -11306,9 +9775,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Hip Extension and Cross",
@@ -11326,9 +9793,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Hip Raise",
@@ -11346,9 +9811,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Hip Raise with Feet on Swiss Ball",
@@ -11367,9 +9830,7 @@ window.GARMIN_EXERCISES = [
       "Dumbbell",
       "Swiss Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Hip Raise with Head on Bosu® Balance Trainer",
@@ -11388,9 +9849,7 @@ window.GARMIN_EXERCISES = [
       "Bosu Ball",
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Hip Raise with Head on Swiss Ball",
@@ -11409,9 +9868,7 @@ window.GARMIN_EXERCISES = [
       "Dumbbell",
       "Swiss Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Hip Raise with Knee Squeeze",
@@ -11429,9 +9886,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Incline Rear-leg Extension",
@@ -11451,9 +9906,7 @@ window.GARMIN_EXERCISES = [
       "Ankle Weight",
       "Bench"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Marching Hip Raise",
@@ -11472,9 +9925,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Marching Hip Raise with Feet on a Swiss Ball",
@@ -11494,9 +9945,7 @@ window.GARMIN_EXERCISES = [
       "Ankle Weight",
       "Swiss Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Reverse Hip Raise",
@@ -11515,9 +9964,7 @@ window.GARMIN_EXERCISES = [
       "Ankle Weight",
       "Bench"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Single-leg Hip Raise",
@@ -11535,9 +9982,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Single-leg Hip Raise with Foot on Bench",
@@ -11556,9 +10001,7 @@ window.GARMIN_EXERCISES = [
       "Bench",
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Single-leg Hip Raise with Foot on Bosu® Balance Trainer",
@@ -11577,9 +10020,7 @@ window.GARMIN_EXERCISES = [
       "Bosu Ball",
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Single-leg Hip Raise with Foot on Foam Roller",
@@ -11598,9 +10039,7 @@ window.GARMIN_EXERCISES = [
       "Dumbbell",
       "Foam Roller"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Single-leg Hip Raise with Foot on Medicine Ball",
@@ -11619,9 +10058,7 @@ window.GARMIN_EXERCISES = [
       "Dumbbell",
       "Medicine Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Single-leg Hip Raise with Head on Bosu® Balance Trainer",
@@ -11640,9 +10077,7 @@ window.GARMIN_EXERCISES = [
       "Bosu Ball",
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Band Side-lying Leg Raise",
@@ -11657,9 +10092,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Dead Bug",
@@ -11681,27 +10114,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Dead Bug",
-        "url": "https://www.muscleandstrength.com/exercises/dead-bug",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/dead-bug"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Dead Bug",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/dead-bug/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/dead-bug/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Dead Bug",
-        "url": "https://fitnessprogramer.com/exercise/dead-bug/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/dead-bug/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "External Hip Raise",
@@ -11718,13 +10143,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "External Hip Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/external-hip-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/external-hip-raise/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/EXTERNAL_HIP_RAISE/heroImage_BBtOfeg.jpg"
   },
   {
@@ -11744,13 +10165,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Fire Hydrant Kicks",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/fire-hydrant-kicks/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/fire-hydrant-kicks/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Hip Circles",
@@ -11771,20 +10188,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Hip Circles",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/hip-circles/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/hip-circles/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Hip Circles",
-        "url": "https://fitnessprogramer.com/exercise/hip-circles/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/hip-circles/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connectvideo.garmin.com/msn-workout/Mobility/MA_023_CamA.jpg"
   },
   {
@@ -11800,9 +10211,7 @@ window.GARMIN_EXERCISES = [
     ],
     "secondaryMuscles": [],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Inner-thigh Lift",
@@ -11819,13 +10228,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Inner-Thigh Lift",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/inner-thigh-lift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/inner-thigh-lift/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Lateral Walks with Band at Ankles",
@@ -11844,13 +10249,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Lateral Walks with Band at Ankles",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/lateral-walks-band-ankles/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/lateral-walks-band-ankles/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Lying Abduction Stretch",
@@ -11867,13 +10268,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Lying Abduction Stretch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/lying-abduction-stretch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/lying-abduction-stretch/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Pretzel Side Kick",
@@ -11893,13 +10290,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Pretzel Side Kick",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/pretzel-side-kick/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/pretzel-side-kick/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Prone Hip Internal Rotation",
@@ -11917,13 +10310,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Prone Hip Internal Rotation",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/prone-hip-internal-rotation/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/prone-hip-internal-rotation/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Quadruped",
@@ -11941,13 +10330,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Quadruped",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/quadruped/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/quadruped/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Quadruped Hip Extension",
@@ -11966,13 +10351,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Quadruped Hip Extension",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/quadruped-hip-extension/",
-        "hasImage": true,
-        "hasVideo": false
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/quadruped-hip-extension/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": false
+    ]
   },
   {
     "name": "Quadruped with Leg Lift",
@@ -11991,13 +10372,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Quadruped with Leg Lift",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/quadruped-leg-lift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/quadruped-leg-lift/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Side-lying Leg Raise",
@@ -12014,13 +10391,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Side Lying Leg Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/side-lying-leg-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/side-lying-leg-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Sliding Hip Adduction",
@@ -12037,13 +10410,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Sliding Hip Adduction",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/sliding-hip-adduction/",
-        "hasImage": true,
-        "hasVideo": false
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/sliding-hip-adduction/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": false
+    ]
   },
   {
     "name": "Standing Adduction",
@@ -12056,9 +10425,7 @@ window.GARMIN_EXERCISES = [
     ],
     "secondaryMuscles": [],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Standing Cable Hip Abduction",
@@ -12075,13 +10442,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Standing Cable Hip Abduction",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/standing-cable-hip-abduction/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/standing-cable-hip-abduction/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Standing Hip Abduction",
@@ -12098,13 +10461,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "FitnessProgramer",
         "name": "Standing Hip Abduction",
-        "url": "https://fitnessprogramer.com/exercise/standing-hip-abduction/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/standing-hip-abduction/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Standing Rear-leg Raise",
@@ -12124,13 +10483,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Standing Rear Leg Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/standing-rear-leg-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/standing-rear-leg-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Supine Hip Internal Rotation",
@@ -12147,20 +10502,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Supine Hip Internal Rotation",
-        "url": "https://www.muscleandstrength.com/exercises/supine-hip-internal-rotation",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/supine-hip-internal-rotation"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Supine Hip Internal Rotation",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/supine-hip-internal-rotation/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/supine-hip-internal-rotation/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Weighted Dead Bug",
@@ -12180,9 +10529,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted External Hip Raise",
@@ -12197,9 +10544,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Fire Hydrant Kicks",
@@ -12216,9 +10561,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Hip Circles",
@@ -12237,9 +10580,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Inner-thigh Lift",
@@ -12254,9 +10595,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Pretzel Side Kick",
@@ -12274,9 +10613,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Prone Hip Internal Rotation",
@@ -12292,9 +10629,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Quadruped Hip Extension",
@@ -12311,9 +10646,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Quadruped with Leg Lift",
@@ -12331,9 +10664,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Side-lying Leg Raise",
@@ -12348,9 +10679,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Sliding Hip Adduction",
@@ -12365,9 +10694,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Standing Adduction",
@@ -12382,9 +10709,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Standing Hip Abduction",
@@ -12399,9 +10724,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Standing Rear-leg Raise",
@@ -12419,9 +10742,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Supine Hip Internal Rotation",
@@ -12436,9 +10757,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Hip Swing",
@@ -12456,9 +10775,7 @@ window.GARMIN_EXERCISES = [
       "HAMSTRINGS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "One-arm Swing",
@@ -12480,13 +10797,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "One-Arm Swing",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/one-arm-swing/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/one-arm-swing/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/ONE_ARM_SWING/heroImage_BBtOf21.jpg"
   },
   {
@@ -12511,13 +10824,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Arm Dumbbell Swing",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/single-arm-dumbbell-swing/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/single-arm-dumbbell-swing/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/SINGLE_ARM_DUMBBELL_SWING/heroImage_BBtOfb9.jpg"
   },
   {
@@ -12538,9 +10847,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Kettlebell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Step-out Swing",
@@ -12565,13 +10872,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Stepout Swing",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/stepout-swing/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/stepout-swing/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Back Extension with Opposite Arm and Leg Reach",
@@ -12587,9 +10890,7 @@ window.GARMIN_EXERCISES = [
       "HAMSTRINGS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Base Rotations",
@@ -12606,9 +10907,7 @@ window.GARMIN_EXERCISES = [
     ],
     "secondaryMuscles": [],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Bent-knee Reverse Hyperextension",
@@ -12628,13 +10927,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Bent-Knee Reverse Hyperextension",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/bent-knee-reverse-hyperextension/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/bent-knee-reverse-hyperextension/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Hollow, Hold, and Roll",
@@ -12655,13 +10950,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Hollow, Hold and Roll",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/hollow-hold-and-roll/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/hollow-hold-and-roll/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Hyperextension",
@@ -12681,27 +10972,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Hyperextension",
-        "url": "https://www.muscleandstrength.com/exercises/hyperextension.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/hyperextension.html"
       },
       {
         "source": "FitnessProgramer",
         "name": "Hyperextension",
-        "url": "https://fitnessprogramer.com/exercise/hyperextension/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/hyperextension/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Hyperextension",
-        "url": "https://weighttraining.guide/exercises/hyperextension/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/hyperextension/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Kicks",
@@ -12715,9 +10998,7 @@ window.GARMIN_EXERCISES = [
     ],
     "secondaryMuscles": [],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Kneeling Superman",
@@ -12736,13 +11017,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Kneeling Superman",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/kneeling-superman/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/kneeling-superman/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Knee Raises",
@@ -12756,9 +11033,7 @@ window.GARMIN_EXERCISES = [
     ],
     "secondaryMuscles": [],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Lat Pull-down with Row",
@@ -12776,9 +11051,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Cable Machine"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Medicine Ball Deadlift-to-Reach",
@@ -12802,9 +11075,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Medicine Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "One-arm One-leg Row",
@@ -12826,9 +11097,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "One-arm Row with Band",
@@ -12848,9 +11117,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Overhead Lunge with Medicine Ball",
@@ -12870,9 +11137,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Medicine Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Plank Knee Tucks",
@@ -12888,9 +11153,7 @@ window.GARMIN_EXERCISES = [
       "HIPS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Side Step",
@@ -12908,9 +11171,7 @@ window.GARMIN_EXERCISES = [
       "HAMSTRINGS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Single-leg Back Extension",
@@ -12932,13 +11193,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Leg Back Extension",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/single-leg-back-extension/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/single-leg-back-extension/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Spine Extension",
@@ -12958,13 +11215,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Spine Extension",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/spine-extension/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/spine-extension/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Static Back Extension",
@@ -12986,13 +11239,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Static Back Extension",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/static-back-extension/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/static-back-extension/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Superman from Floor",
@@ -13012,13 +11261,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Superman from Floor",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/superman-floor/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/superman-floor/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Superman on Swiss Ball",
@@ -13040,13 +11285,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Superman on Swiss Ball",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/superman-swiss-ball/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/superman-swiss-ball/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Swiss Ball Back Extension",
@@ -13065,13 +11306,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Swiss Ball Back Extension",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/swiss-ball-back-extension/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/swiss-ball-back-extension/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Swiss Ball Hyperextension",
@@ -13090,13 +11327,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Swiss Ball Hyperextension",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/swiss-ball-hyperextension/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/swiss-ball-hyperextension/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/SWISS_BALL_HYPEREXTENSION/heroImage_BBtOf1R.jpg"
   },
   {
@@ -13119,13 +11352,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Swiss Ball Opposite Arm and Leg Lift",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/swiss-ball-opposite-arm-and-leg-lift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/swiss-ball-opposite-arm-and-leg-lift/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Weighted Back Extension with Opposite Arm and Leg Reach",
@@ -13143,9 +11372,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Base Rotations",
@@ -13165,9 +11392,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Bent-knee Reverse Hyperextension",
@@ -13184,9 +11409,7 @@ window.GARMIN_EXERCISES = [
       "Ankle Weight",
       "Bench"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Hollow, Hold, and Roll",
@@ -13205,9 +11428,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Medicine Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Kicks",
@@ -13223,9 +11444,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Kneeling Superman",
@@ -13244,9 +11463,7 @@ window.GARMIN_EXERCISES = [
       "Ankle Weight",
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Knee Raises",
@@ -13262,9 +11479,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Plank Knee Tucks",
@@ -13283,9 +11498,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Side Step",
@@ -13305,9 +11518,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Single-leg Back Extension",
@@ -13326,9 +11537,7 @@ window.GARMIN_EXERCISES = [
       "Machine",
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Spine Extension",
@@ -13346,9 +11555,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Static Back Extension",
@@ -13367,9 +11574,7 @@ window.GARMIN_EXERCISES = [
       "Machine",
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Superman from Floor",
@@ -13388,9 +11593,7 @@ window.GARMIN_EXERCISES = [
       "Ankle Weight",
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Swiss Ball Back Extension",
@@ -13406,9 +11609,7 @@ window.GARMIN_EXERCISES = [
       "Ankle Weight",
       "Swiss Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Swiss Ball Hyperextension",
@@ -13424,9 +11625,7 @@ window.GARMIN_EXERCISES = [
       "Ankle Weight",
       "Swiss Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Swiss Ball Opposite Arm and Leg Lift",
@@ -13445,9 +11644,7 @@ window.GARMIN_EXERCISES = [
       "Ankle Weight",
       "Swiss Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Air Bike",
@@ -13466,9 +11663,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Bike"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Assault Bike",
@@ -13488,9 +11683,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Bike"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Stationary Bike",
@@ -13513,13 +11706,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "FitnessProgramer",
         "name": "Stationary Bike",
-        "url": "https://fitnessprogramer.com/exercise/bike/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/bike/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Agility Ladder",
@@ -13540,9 +11729,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Other"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Speed Ladder",
@@ -13563,9 +11750,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Other"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Alternating Lateral Raise with Static Hold",
@@ -13586,13 +11771,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Alternating Lateral Raise with Static Hold",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/alternating-lateral-raise-static-hold/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/alternating-lateral-raise-static-hold/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Arm Circles",
@@ -13607,27 +11788,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Arm Circles",
-        "url": "https://www.muscleandstrength.com/exercises/arm-circles",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/arm-circles"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Arm Circles",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/arm-circles/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/arm-circles/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Arm Circles",
-        "url": "https://fitnessprogramer.com/exercise/arm-circles/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/arm-circles/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connectvideo.garmin.com/msn-workout/Pilates/P_003-A3.jpg"
   },
   {
@@ -13649,9 +11822,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Pullup Bar"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Bent-over Lateral Raise",
@@ -13672,20 +11843,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Bent-Over Lateral Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/bent-over-lateral-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/bent-over-lateral-raise/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Bent Over Lateral Raise",
-        "url": "https://fitnessprogramer.com/exercise/bent-over-lateral-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/bent-over-lateral-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Cable Diagonal Raise",
@@ -13706,13 +11871,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Cable Diagonal Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/cable-diagonal-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/cable-diagonal-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Cable Front Raise",
@@ -13734,27 +11895,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Cable Front Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/cable-front-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/cable-front-raise/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Cable Front Raise",
-        "url": "https://fitnessprogramer.com/exercise/cable-front-raise/",
-        "hasImage": true,
-        "hasVideo": false
+        "url": "https://fitnessprogramer.com/exercise/cable-front-raise/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Cable front raise",
-        "url": "https://weighttraining.guide/exercises/cable-front-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/cable-front-raise/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/CABLE_FRONT_RAISE/heroImage_BBtOf4R.jpg"
   },
   {
@@ -13776,9 +11929,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Machine"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Combo Shoulder Raise",
@@ -13800,13 +11951,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Combo Shoulder Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/combo-shoulder-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/combo-shoulder-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dumbbell Diagonal Raise",
@@ -13827,13 +11974,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Diagonal Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/dumbbell-diagonal-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/dumbbell-diagonal-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dumbbell Front Raise",
@@ -13852,20 +11995,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Front Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/dumbbell-front-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/dumbbell-front-raise/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Dumbbell Front Raise",
-        "url": "https://fitnessprogramer.com/exercise/dumbbell-front-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/dumbbell-front-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dumbbell Lateral Raise",
@@ -13886,34 +12023,24 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Dumbbell Lateral Raise",
-        "url": "https://www.muscleandstrength.com/exercises/dumbbell-lateral-raise.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/dumbbell-lateral-raise.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Lateral Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/dumbbell-lateral-raise-3/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/dumbbell-lateral-raise-3/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Dumbbell Lateral Raise",
-        "url": "https://fitnessprogramer.com/exercise/dumbbell-lateral-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/dumbbell-lateral-raise/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Dumbbell lateral raise",
-        "url": "https://weighttraining.guide/exercises/lateral-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/lateral-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dumbbell Lateral Raise",
@@ -13934,34 +12061,24 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Dumbbell Lateral Raise",
-        "url": "https://www.muscleandstrength.com/exercises/dumbbell-lateral-raise.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/dumbbell-lateral-raise.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Lateral Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/dumbbell-lateral-raise-3/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/dumbbell-lateral-raise-3/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Dumbbell Lateral Raise",
-        "url": "https://fitnessprogramer.com/exercise/dumbbell-lateral-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/dumbbell-lateral-raise/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Dumbbell lateral raise",
-        "url": "https://weighttraining.guide/exercises/lateral-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/lateral-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dumbbell V Raise",
@@ -13982,13 +12099,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell V Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/dumbbell-v-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/dumbbell-v-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Front Raise",
@@ -14006,9 +12119,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Leaning Dumbbell Lateral Raise",
@@ -14029,20 +12140,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Leaning Dumbbell Lateral Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/leaning-dumbbell-lateral-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/leaning-dumbbell-lateral-raise/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Leaning dumbbell lateral raise",
-        "url": "https://weighttraining.guide/exercises/leaning-dumbbell-lateral-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/leaning-dumbbell-lateral-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Lying Dumbbell Raise",
@@ -14063,13 +12168,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Lying Dumbbell Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/lying-dumbbell-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/lying-dumbbell-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Muscle-up (progression)",
@@ -14090,9 +12191,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Pullup Bar"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "One-arm Cable Lateral Raise",
@@ -14113,20 +12212,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "One-Arm Cable Lateral Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/one-arm-cable-lateral-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/one-arm-cable-lateral-raise/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Cable one-arm lateral raise",
-        "url": "https://weighttraining.guide/exercises/cable-one-arm-lateral-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/cable-one-arm-lateral-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Overhand-grip Rear Lateral Raise",
@@ -14142,9 +12235,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Barbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Plate Raises",
@@ -14166,13 +12257,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Plate Raises",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/plate-raises/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/plate-raises/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Ring Dip",
@@ -14194,13 +12281,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Ring Dip",
-        "url": "https://www.muscleandstrength.com/exercises/ring-dip",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/ring-dip"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Kipping Ring Dip",
@@ -14218,9 +12301,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Rings"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Ring Muscle-up",
@@ -14241,9 +12322,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Rings"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Rope Climb",
@@ -14269,13 +12348,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Rope Climb",
-        "url": "https://www.muscleandstrength.com/exercises/rope-climb",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/rope-climb"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Scaption",
@@ -14297,13 +12372,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Scaption",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/scaption/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/scaption/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Seated Lateral Raise",
@@ -14325,13 +12396,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Seated Lateral Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/seated-lateral-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/seated-lateral-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Seated Rear Lateral Raise",
@@ -14352,13 +12419,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Seated Rear Lateral Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/seated-rear-lateral-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/seated-rear-lateral-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Side-lying Lateral Raise",
@@ -14379,13 +12442,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Side-Lying Lateral Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/side-lying-lateral-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/side-lying-lateral-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Standing Lift",
@@ -14409,13 +12468,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Standing Lift",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/standing-lift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/standing-lift/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Suspended Row",
@@ -14435,9 +12490,7 @@ window.GARMIN_EXERCISES = [
       "Barbell",
       "Squat Rack"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Underhand-grip Rear Lateral Raise",
@@ -14457,13 +12510,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Underhand-Grip Rear Lateral Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/underhand-grip-rear-lateral-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/underhand-grip-rear-lateral-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Wall Slide",
@@ -14482,13 +12531,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Wall Slide",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/wall-slide/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/wall-slide/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Wall Walk",
@@ -14510,13 +12555,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "FitnessProgramer",
         "name": "Wall Walk",
-        "url": "https://fitnessprogramer.com/exercise/wall-walk/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/wall-walk/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Weighted Ring Dip",
@@ -14535,9 +12576,7 @@ window.GARMIN_EXERCISES = [
       "Rings",
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Ring Muscle-up",
@@ -14559,9 +12598,7 @@ window.GARMIN_EXERCISES = [
       "Rings",
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Rope Climb",
@@ -14584,9 +12621,7 @@ window.GARMIN_EXERCISES = [
       "Rings",
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Wall Slide",
@@ -14603,9 +12638,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "45-degree Cable External Rotation",
@@ -14626,13 +12659,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "45-Degree Cable External Rotation",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/45-degree-cable-external-rotation/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/45-degree-cable-external-rotation/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Band Good Morning",
@@ -14650,9 +12679,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Bar Good Morning",
@@ -14670,9 +12697,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Other"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Good Morning",
@@ -14694,20 +12719,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "FitnessProgramer",
         "name": "Good Morning",
-        "url": "https://fitnessprogramer.com/exercise/good-morning/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/good-morning/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Barbell good morning",
-        "url": "https://weighttraining.guide/exercises/barbell-good-morning/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/barbell-good-morning/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/GOOD_MORNING/heroImage_BBtOcBn.jpg"
   },
   {
@@ -14727,20 +12746,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Leg Curl",
-        "url": "https://www.muscleandstrength.com/exercises/leg-curl.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/leg-curl.html"
       },
       {
         "source": "FitnessProgramer",
         "name": "Leg Curl",
-        "url": "https://fitnessprogramer.com/exercise/leg-curl/",
-        "hasImage": true,
-        "hasVideo": false
+        "url": "https://fitnessprogramer.com/exercise/leg-curl/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Seated Barbell Good Morning",
@@ -14763,13 +12776,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Seated Barbell Good Morning",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/seated-barbell-good-morning/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/seated-barbell-good-morning/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Single-leg Barbell Good Morning",
@@ -14791,20 +12800,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Single Leg Good Morning",
-        "url": "https://www.muscleandstrength.com/exercises/single-leg-good-morning",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/single-leg-good-morning"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Single-Leg Barbell Good Morning",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/single-leg-barbell-good-morning/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/single-leg-barbell-good-morning/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Single-leg Sliding Leg Curl",
@@ -14824,13 +12827,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Leg Sliding Leg Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/single-leg-sliding-leg-curl/",
-        "hasImage": true,
-        "hasVideo": false
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/single-leg-sliding-leg-curl/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": false
+    ]
   },
   {
     "name": "Sliding Leg Curl",
@@ -14850,13 +12849,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Sliding Leg Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/sliding-leg-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/sliding-leg-curl/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Split Barbell Good Morning",
@@ -14880,13 +12875,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Split Barbell Good Morning",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/split-barbell-good-morning/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/split-barbell-good-morning/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Split-stance Extension",
@@ -14907,13 +12898,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Split-Stance Extension",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/split-stance-extension/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/split-stance-extension/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Staggered-stance Good Morning",
@@ -14936,13 +12923,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Staggered-Stance Good Morning",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/staggered-stance-good-morning/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/staggered-stance-good-morning/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Swiss Ball Hip Raise and Leg Curl",
@@ -14961,13 +12944,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Swiss Ball Hip Raise and Leg Curl",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/swiss-ball-hip-raise-and-leg-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/swiss-ball-hip-raise-and-leg-curl/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Weighted Leg Curl",
@@ -14982,9 +12961,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Machine"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Zercher Good Morning",
@@ -15007,13 +12984,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Zercher Good Morning",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/zercher-good-morning/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/zercher-good-morning/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Hanging Knee Raise",
@@ -15037,20 +13010,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Hanging Knee Raise",
-        "url": "https://www.muscleandstrength.com/exercises/hanging-knee-raise.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/hanging-knee-raise.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Hanging Knee Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/hanging-knee-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/hanging-knee-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Hanging Leg Raise",
@@ -15074,27 +13041,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Hanging Leg Raise",
-        "url": "https://www.muscleandstrength.com/exercises/hanging-leg-raise.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/hanging-leg-raise.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Hanging Leg Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/hanging-leg-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/hanging-leg-raise/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Hanging leg raise",
-        "url": "https://weighttraining.guide/exercises/hanging-leg-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/hanging-leg-raise/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/HANGING_LEG_RAISE/heroImage_BBtO7CT.jpg"
   },
   {
@@ -15119,13 +13078,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Hanging Single-Leg Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/hanging-single-leg-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/hanging-single-leg-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Kettlebell Leg Raises",
@@ -15145,13 +13100,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Kettlebell Leg Raises",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/kettlebell-leg-raises/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/kettlebell-leg-raises/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Lateral Step-over",
@@ -15176,13 +13127,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Lateral Stepover",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/lateral-stepover/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/lateral-stepover/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Leg Lowering Drill",
@@ -15202,13 +13149,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Leg Lowering Drill",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/leg-lowering-drill/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/leg-lowering-drill/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Leg Raise",
@@ -15228,13 +13171,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "FitnessProgramer",
         "name": "Leg Raise",
-        "url": "https://fitnessprogramer.com/exercise/leg-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/leg-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Lying Straight-leg Raise",
@@ -15254,20 +13193,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Lying Straight Leg Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/lying-straight-leg-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/lying-straight-leg-raise/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Lying straight leg raise",
-        "url": "https://weighttraining.guide/exercises/lying-straight-leg-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/lying-straight-leg-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Medicine Ball Leg Drops",
@@ -15290,13 +13223,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Medicine Ball Leg Drops",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/medicine-ball-leg-drops/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/medicine-ball-leg-drops/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Quadruped Leg Raise",
@@ -15315,13 +13244,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Quadruped Leg Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/quadruped-leg-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/quadruped-leg-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Reverse Leg Raise",
@@ -15340,13 +13265,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Reverse Leg Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/reverse-leg-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/reverse-leg-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Reverse Leg Raise on Swiss Ball",
@@ -15367,13 +13288,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Reverse Leg Raise on Swiss Ball",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/reverse-leg-raise-swiss-ball/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/reverse-leg-raise-swiss-ball/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Single-leg Lowering Drill",
@@ -15393,13 +13310,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Leg Lowering Drill",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/single-leg-lowering-drill/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/single-leg-lowering-drill/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Weighted Hanging Knee Raise",
@@ -15423,20 +13336,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Weighted Hanging Knee Raise",
-        "url": "https://www.muscleandstrength.com/exercises/weighted-hanging-knee-raise.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/weighted-hanging-knee-raise.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Weighted Hanging Knee Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/weighted-hanging-knee-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/weighted-hanging-knee-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Weighted Hanging Leg Raise",
@@ -15456,9 +13363,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Hanging Single-leg Raise",
@@ -15478,9 +13383,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Lateral Step-over",
@@ -15501,9 +13404,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Leg Lowering Drill",
@@ -15521,9 +13422,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Lying Straight-leg Raise",
@@ -15541,9 +13440,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Quadruped Leg Raise",
@@ -15560,9 +13457,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Reverse Leg Raise",
@@ -15579,9 +13474,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Reverse Leg Raise on Swiss Ball",
@@ -15599,9 +13492,7 @@ window.GARMIN_EXERCISES = [
       "Ankle Weight",
       "Swiss Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Single-leg Lowering Drill",
@@ -15619,9 +13510,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Alternating Barbell Forward Lunge",
@@ -15643,13 +13532,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Alternating Barbell Forward Lunge",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/alternating-barbell-forward-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/alternating-barbell-forward-lunge/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Alternating Dumbbell Lunge",
@@ -15671,13 +13556,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Alternating Dumbbell Lunge",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/alternating-dumbbell-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/alternating-dumbbell-lunge/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/ALTERNATING_DUMBBELL_LUNGE/heroImage_BBtOcBi.jpg"
   },
   {
@@ -15700,8 +13581,6 @@ window.GARMIN_EXERCISES = [
       "Dumbbell"
     ],
     "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false,
     "image": "https://connect.garmin.com/images/exercises/images/ALTERNATING_DUMBBELL_LUNGE_WITH_REACH/heroImage_BBtOaa1.jpg"
   },
   {
@@ -15725,13 +13604,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Back-Foot Elevated Dumbbell Split Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/back-foot-elevated-dumbbell-split-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/back-foot-elevated-dumbbell-split-squat/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Barbell Box Lunge",
@@ -15754,13 +13629,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Box Lunge",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-box-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-box-lunge/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Barbell Bulgarian Split Squat",
@@ -15782,34 +13653,24 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Barbell Bulgarian Split Squat",
-        "url": "https://www.muscleandstrength.com/exercises/one-leg-barbell-squat.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/one-leg-barbell-squat.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Bulgarian Split Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-bulgarian-split-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-bulgarian-split-squat/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Barbell Bulgarian Split Squat",
-        "url": "https://fitnessprogramer.com/exercise/barbell-bulgarian-split-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/barbell-bulgarian-split-squat/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Barbell Bulgarian split squat",
-        "url": "https://weighttraining.guide/exercises/barbell-bulgarian-split-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/barbell-bulgarian-split-squat/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/BARBELL_BULGARIAN_SPLIT_SQUAT/heroImage_BBtOf71.jpg"
   },
   {
@@ -15833,13 +13694,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Crossover Lunge",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-crossover-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-crossover-lunge/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Barbell Front Split Squat",
@@ -15861,13 +13718,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Front Split Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-front-split-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-front-split-squat/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Barbell Lunge",
@@ -15889,34 +13742,24 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Barbell Lunge",
-        "url": "https://www.muscleandstrength.com/exercises/barbell-lunge.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/barbell-lunge.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Lunge",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-lunge/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Barbell Lunge",
-        "url": "https://fitnessprogramer.com/exercise/barbell-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/barbell-lunge/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Barbell lunge",
-        "url": "https://weighttraining.guide/exercises/barbell-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/barbell-lunge/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Barbell Reverse Lunge",
@@ -15938,20 +13781,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Barbell Reverse Lunge",
-        "url": "https://www.muscleandstrength.com/exercises/barbell-rear-lunge.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/barbell-rear-lunge.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Reverse Lunge",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-reverse-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-reverse-lunge/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Barbell Side Lunge",
@@ -15975,13 +13812,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "WeightTraining.guide",
         "name": "Barbell side lunge",
-        "url": "https://weighttraining.guide/exercises/barbell-side-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/barbell-side-lunge/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/BARBELL_SIDE_LUNGE/heroImage_BBtOaa4.jpg"
   },
   {
@@ -16004,27 +13837,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Split Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-split-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-split-squat/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Barbell Split Squat",
-        "url": "https://fitnessprogramer.com/exercise/barbell-split-squat/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/barbell-split-squat/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Barbell split squat",
-        "url": "https://weighttraining.guide/exercises/barbell-split-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/barbell-split-squat/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Core Control Rear Lunge",
@@ -16047,13 +13872,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Core Control Rear Lunge",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/core-control-rear-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/core-control-rear-lunge/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Curtsy Lunge",
@@ -16074,20 +13895,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Curtsy Lunge (AKA Drop Lunge)",
-        "url": "https://www.muscleandstrength.com/exercises/curtsy-lunge",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/curtsy-lunge"
       },
       {
         "source": "FitnessProgramer",
         "name": "Curtsy Lunge",
-        "url": "https://fitnessprogramer.com/exercise/curtsy-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/curtsy-lunge/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Diagonal Lunge",
@@ -16107,13 +13922,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Diagonal Lunge",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/diagonal-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/diagonal-lunge/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Drop Lunge",
@@ -16134,13 +13945,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Drop Lunge",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/drop-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/drop-lunge/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dumbbell Box Lunge",
@@ -16162,13 +13969,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Box Lunge",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-box-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-box-lunge/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dumbbell Bulgarian Split Squat",
@@ -16190,27 +13993,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Bulgarian Split Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-bulgarian-split-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-bulgarian-split-squat/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Dumbbell Bulgarian Split Squat",
-        "url": "https://fitnessprogramer.com/exercise/dumbbell-bulgarian-split-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/dumbbell-bulgarian-split-squat/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Dumbbell Bulgarian split squat",
-        "url": "https://weighttraining.guide/exercises/dumbbell-bulgarian-split-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/dumbbell-bulgarian-split-squat/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dumbbell Crossover Lunge",
@@ -16233,13 +14028,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Crossover Lunge",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-crossover-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-crossover-lunge/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dumbbell Diagonal Lunge",
@@ -16261,13 +14052,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Diagonal Lunge",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-diagonal-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-diagonal-lunge/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dumbbell Lunge",
@@ -16289,34 +14076,24 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Dumbbell Lunge",
-        "url": "https://www.muscleandstrength.com/exercises/dumbbell-lunge.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/dumbbell-lunge.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Lunge",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-lunge/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Dumbbell Lunge",
-        "url": "https://fitnessprogramer.com/exercise/dumbbell-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/dumbbell-lunge/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Dumbbell lunge",
-        "url": "https://weighttraining.guide/exercises/dumbbell-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/dumbbell-lunge/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dumbbell Lunge and Rotation",
@@ -16339,13 +14116,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Lunge and Rotation",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-lunge-and-rotation/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-lunge-and-rotation/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dumbbell Overhead Bulgarian Split Squat",
@@ -16368,13 +14141,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Overhead Bulgarian Split Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-overhead-bulgarian-split-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-overhead-bulgarian-split-squat/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dumbbell Overhead Walking Lunge",
@@ -16393,9 +14162,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Dumbbell Reverse Lunge",
@@ -16417,20 +14184,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Reverse Lunge",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-reverse-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-reverse-lunge/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Dumbbell Reverse Lunge",
-        "url": "https://fitnessprogramer.com/exercise/dumbbell-reverse-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/dumbbell-reverse-lunge/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/DUMBBELL_REVERSE_LUNGE/heroImage_BBtOcBk.jpg"
   },
   {
@@ -16451,9 +14212,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Dumbbell Side Lunge",
@@ -16477,20 +14236,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Side Lunge",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-side-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-side-lunge/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Dumbbell side lunge",
-        "url": "https://weighttraining.guide/exercises/dumbbell-side-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/dumbbell-side-lunge/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Elevated Front-foot Barbell Split Squat",
@@ -16513,13 +14266,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Elevated Front-Foot Barbell Split Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/elevated-front-foot-barbell-split-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/elevated-front-foot-barbell-split-squat/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Elevated Front-foot Dumbbell Split Squat",
@@ -16542,20 +14291,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Front Foot Elevated Dumbbell Split Squat",
-        "url": "https://www.muscleandstrength.com/exercises/front-foot-elevated-dumbbell-split-squat",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/front-foot-elevated-dumbbell-split-squat"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Front-Foot Elevated Dumbbell Split Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/front-foot-elevated-dumbbell-split-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/front-foot-elevated-dumbbell-split-squat/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Gunslinger Lunge",
@@ -16578,13 +14321,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Gunslinger Lunge",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/gunslinger-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/gunslinger-lunge/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Lawnmower Lunge",
@@ -16608,13 +14347,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Lawnmower Lunge",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/lawnmower-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/lawnmower-lunge/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Low Lunge with Isometric Adduction",
@@ -16635,13 +14370,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Low Lunge with Isometric Adduction",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/low-lunge-isometric-adduction/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/low-lunge-isometric-adduction/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/LOW_LUNGE_WITH_ISOMETRIC_ADDUCTION/heroImage_BBtOf7y.jpg"
   },
   {
@@ -16664,13 +14395,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Low Side-to-Side Lunge",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/low-side-side-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/low-side-side-lunge/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Lunge",
@@ -16690,13 +14417,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "WeightTraining.guide",
         "name": "Lunge",
-        "url": "https://weighttraining.guide/exercises/lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/lunge/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/LUNGE/heroImage_BBtOcN3.jpg"
   },
   {
@@ -16715,9 +14438,7 @@ window.GARMIN_EXERCISES = [
       "HAMSTRINGS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Lunge with Arm Reach",
@@ -16740,13 +14461,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Lunge with Arm Reach",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/lunge-arm-reach/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/lunge-arm-reach/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/LUNGE_WITH_ARM_REACH/heroImage_BBtOfcQ.jpg"
   },
   {
@@ -16768,13 +14485,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Lunge with Diagonal Reach",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/lunge-diagonal-reach/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/lunge-diagonal-reach/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Lunge with Side Bend",
@@ -16797,13 +14510,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Lunge with Side Bend",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/lunge-side-bend/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/lunge-side-bend/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Offset Dumbbell Lunge",
@@ -16827,13 +14536,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Offset Dumbbell Lunge",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/offset-dumbbell-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/offset-dumbbell-lunge/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Offset Dumbbell Reverse Lunge",
@@ -16857,13 +14562,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Offset Dumbbell Reverse Lunge",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/offset-dumbbell-reverse-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/offset-dumbbell-reverse-lunge/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Overhead Bulgarian Split Squat",
@@ -16887,13 +14588,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Overhead Bulgarian Split Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/overhead-bulgarian-split-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/overhead-bulgarian-split-squat/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Overhead Dumbbell Lunge",
@@ -16916,13 +14613,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Overhead Dumbbell Lunge",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/overhead-dumbbell-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/overhead-dumbbell-lunge/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/OVERHEAD_DUMBBELL_LUNGE/heroImage_BBtO4QB.jpg"
   },
   {
@@ -16946,13 +14639,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Overhead Dumbbell Reverse Lunge",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/overhead-dumbbell-reverse-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/overhead-dumbbell-reverse-lunge/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Overhead Dumbbell Split Squat",
@@ -16975,13 +14664,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Overhead Dumbbell Split Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/overhead-dumbbell-split-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/overhead-dumbbell-split-squat/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/OVERHEAD_DUMBBELL_SPLIT_SQUAT/heroImage_BBtOcwH.jpg"
   },
   {
@@ -17001,9 +14686,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Barbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Overhead Lunge with Rotation",
@@ -17023,9 +14706,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Barbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Reverse Barbell Box Lunge",
@@ -17048,13 +14729,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Reverse Barbell Box Lunge",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/reverse-barbell-box-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/reverse-barbell-box-lunge/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Reverse Box Lunge",
@@ -17072,9 +14749,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Box"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Reverse Dumbbell Box Lunge",
@@ -17097,13 +14772,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Reverse Dumbbell Box Lunge",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/reverse-dumbbell-box-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/reverse-dumbbell-box-lunge/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Reverse Dumbbell Crossover Lunge",
@@ -17125,13 +14796,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Reverse Dumbbell Crossover Lunge",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/reverse-dumbbell-crossover-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/reverse-dumbbell-crossover-lunge/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Reverse Dumbbell Diagonal Lunge",
@@ -17153,13 +14820,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Reverse Dumbbell Diagonal Lunge",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/reverse-dumbbell-diagonal-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/reverse-dumbbell-diagonal-lunge/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Reverse Lunge with Reach Back",
@@ -17180,13 +14843,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Reverse Lunge with Reach Back",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/reverse-lunge-reach-back/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/reverse-lunge-reach-back/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Reverse Lunge with Twist and Overhead Reach",
@@ -17208,13 +14867,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Reverse Lunge with Twist and Overhead Reach",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/reverse-lunge-twist-and-overhead-reach/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/reverse-lunge-twist-and-overhead-reach/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Reverse Sliding Box Lunge",
@@ -17234,9 +14889,7 @@ window.GARMIN_EXERCISES = [
       "Box",
       "Sliding Disc"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Reverse Sliding Lunge",
@@ -17259,13 +14912,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Reverse Sliding Lunge",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/reverse-sliding-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/reverse-sliding-lunge/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/REVERSE_SLIDING_LUNGE/heroImage_BBtO7EG.jpg"
   },
   {
@@ -17285,8 +14934,6 @@ window.GARMIN_EXERCISES = [
       "Pack Weight"
     ],
     "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false,
     "image": "https://connectvideo.garmin.com/msn-workout/Strength/S_371-Cam1.jpg"
   },
   {
@@ -17307,8 +14954,6 @@ window.GARMIN_EXERCISES = [
       "Pack Weight"
     ],
     "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false,
     "image": "https://connectvideo.garmin.com/msn-workout/Strength/S_372-Cam1.jpg"
   },
   {
@@ -17331,13 +14976,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Runner’s Lunge to Balance",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/runners-lunge-balance/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/runners-lunge-balance/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/RUNNERS_LUNGE_TO_BALANCE/heroImage_BBtOiK4.jpg"
   },
   {
@@ -17359,13 +15000,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Scissor Power Switch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/scissor-power-switch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/scissor-power-switch/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Shifting Side Lunge",
@@ -17387,13 +15024,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Shifting Side Lunge",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/shifting-side-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/shifting-side-lunge/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/SHIFTING_SIDE_LUNGE/heroImage_BBtOhcH.jpg"
   },
   {
@@ -17416,13 +15049,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Side and Crossover Lunge",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/side-and-crossover-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/side-and-crossover-lunge/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Side Lunge",
@@ -17444,13 +15073,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "FitnessProgramer",
         "name": "Side Lunge",
-        "url": "https://fitnessprogramer.com/exercise/side-lunge-stretch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/side-lunge-stretch/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Side Lunge and Press",
@@ -17474,13 +15099,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Side Lunge and Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/side-lunge-and-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/side-lunge-and-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Side Lunge Jump Off",
@@ -17503,13 +15124,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Side Lunge Jump-Off",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/side-lunge-jump/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/side-lunge-jump/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connectvideo.garmin.com/msn-workout/Strength/S_307-A4.jpg"
   },
   {
@@ -17533,13 +15150,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Side Lunge Sweep",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/side-lunge-sweep/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/side-lunge-sweep/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Side Lunge to Crossover Tap",
@@ -17561,13 +15174,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Side Lunge to Crossover Tap",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/side-lunge-crossover-tap/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/side-lunge-crossover-tap/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Side-to-Side Lunge Chops",
@@ -17591,13 +15200,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Side-to-Side Lunge Chops",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/side-side-lunge-chops/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/side-side-lunge-chops/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/SIDE_TO_SIDE_LUNGE_CHOPS/heroImage_BBtOaaf.jpg"
   },
   {
@@ -17619,13 +15224,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Siff Jump Lunge",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/siff-jump-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/siff-jump-lunge/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Single-arm Reverse Lunge and Press",
@@ -17649,13 +15250,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Arm Reverse Lunge and Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/single-arm-reverse-lunge-and-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/single-arm-reverse-lunge-and-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Sliding Lateral Lunge",
@@ -17680,13 +15277,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Sliding Lateral Lunge",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/sliding-lateral-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/sliding-lateral-lunge/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Walking Barbell Lunge",
@@ -17708,20 +15301,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Barbell Walking Lunge",
-        "url": "https://www.muscleandstrength.com/exercises/walking-barbell-lunge.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/walking-barbell-lunge.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Walking Barbell Lunge",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/walking-barbell-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/walking-barbell-lunge/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Walking Dumbbell Lunge",
@@ -17743,27 +15330,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Dumbbell Walking Lunge",
-        "url": "https://www.muscleandstrength.com/exercises/dumbbell-walking-lunge.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/dumbbell-walking-lunge.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Walking Dumbbell Lunge",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/walking-dumbbell-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/walking-dumbbell-lunge/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Dumbbell Walking Lunge",
-        "url": "https://fitnessprogramer.com/exercise/dumbbell-walking-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/dumbbell-walking-lunge/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Walking Lunge",
@@ -17780,8 +15359,6 @@ window.GARMIN_EXERCISES = [
     ],
     "equipment": [],
     "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false,
     "image": "https://connect.garmin.com/images/exercises/images/WALKING_LUNGE/heroImage_BBtOcIa.jpg"
   },
   {
@@ -17801,9 +15378,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Lunge",
@@ -17821,9 +15396,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Lunge Matrix",
@@ -17843,9 +15416,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Reverse Lunge with Reach Back",
@@ -17864,9 +15435,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Reverse Lunge with Twist and Overhead Reach",
@@ -17886,9 +15455,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Reverse Sliding Box Lunge",
@@ -17908,9 +15475,7 @@ window.GARMIN_EXERCISES = [
       "Dumbbell",
       "Sliding Disc"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Reverse Sliding Lunge",
@@ -17930,9 +15495,7 @@ window.GARMIN_EXERCISES = [
       "Dumbbell",
       "Sliding Disc"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Runner's Lunge to Balance",
@@ -17952,9 +15515,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Shifting Side Lunge",
@@ -17974,9 +15535,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Side and Crossover Lunge",
@@ -17996,9 +15555,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Side Lunge",
@@ -18018,9 +15575,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Side Lunge and Press",
@@ -18041,9 +15596,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Side Lunge Jump Off",
@@ -18064,9 +15617,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Side Lunge Sweep",
@@ -18086,9 +15637,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Side Lunge to Crossover Tap",
@@ -18108,9 +15657,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Side-to-Side Lunge Chops",
@@ -18132,9 +15679,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Siff Jump Lunge",
@@ -18153,9 +15698,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Sliding Lateral Lunge",
@@ -18175,9 +15718,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Walking Lunge",
@@ -18195,9 +15736,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Wide-grip Overhead Barbell Split Squat",
@@ -18220,13 +15759,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Wide-Grip Overhead Barbell Split Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/wide-grip-overhead-barbell-split-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/wide-grip-overhead-barbell-split-squat/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Hamstring Stretch",
@@ -18246,13 +15781,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Hamstring Stretch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/hamstring-stretch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/hamstring-stretch/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connectvideo.garmin.com/msn-workout/Yoga/Y_035-A1.jpg"
   },
   {
@@ -18275,13 +15806,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "FitnessProgramer",
         "name": "Piriformis Stretch",
-        "url": "https://fitnessprogramer.com/exercise/piriformis-stretch/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/piriformis-stretch/"
       }
     ],
-    "hasExternalImage": false,
-    "hasExternalVideo": true,
     "image": "https://connectvideo.garmin.com/msn-workout/Pilates/P_060-A1.jpg"
   },
   {
@@ -18307,9 +15834,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Barbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Barbell Hang Power Snatch",
@@ -18336,9 +15861,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Barbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Barbell Hang Pull",
@@ -18367,13 +15890,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Hang Pull",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-hang-pull/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-hang-pull/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Barbell Hang Squat Clean",
@@ -18398,9 +15917,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Barbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Barbell High Pull",
@@ -18427,20 +15944,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "High Pull",
-        "url": "https://www.muscleandstrength.com/exercises/high-pull",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/high-pull"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Barbell High Pull",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-high-pull/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-high-pull/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Barbell Power Clean",
@@ -18469,20 +15980,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Power Clean",
-        "url": "https://www.muscleandstrength.com/exercises/power-clean",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/power-clean"
       },
       {
         "source": "FitnessProgramer",
         "name": "Power Clean",
-        "url": "https://fitnessprogramer.com/exercise/power-clean/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/power-clean/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Barbell Power Snatch",
@@ -18513,20 +16018,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Power Snatch",
-        "url": "https://www.muscleandstrength.com/exercises/power-snatch",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/power-snatch"
       },
       {
         "source": "FitnessProgramer",
         "name": "Power Snatch",
-        "url": "https://fitnessprogramer.com/exercise/power-snatch/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/power-snatch/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Barbell Snatch",
@@ -18556,27 +16055,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Snatch",
-        "url": "https://www.muscleandstrength.com/exercises/snatch",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/snatch"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Snatch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/barbell-snatch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/barbell-snatch/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Barbell Snatch",
-        "url": "https://fitnessprogramer.com/exercise/barbell-snatch/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/barbell-snatch/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connectvideo.garmin.com/msn-workout/Strength/S_312-A4.jpg"
   },
   {
@@ -18601,20 +16092,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Split Jerk",
-        "url": "https://www.muscleandstrength.com/exercises/split-jerk",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/split-jerk"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Split Jerk",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-split-jerk/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-split-jerk/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Barbell Squat Clean",
@@ -18639,9 +16124,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Barbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Barbell Clean",
@@ -18670,20 +16153,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Clean",
-        "url": "https://www.muscleandstrength.com/exercises/clean",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/clean"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Clean",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/clean/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/clean/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connectvideo.garmin.com/msn-workout/Strength/S_313-A4.jpg"
   },
   {
@@ -18714,13 +16191,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "FitnessProgramer",
         "name": "Clean and Jerk",
-        "url": "https://fitnessprogramer.com/exercise/clean-and-jerk/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/clean-and-jerk/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Clean and Press",
@@ -18750,27 +16223,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Barbell Clean and Press",
-        "url": "https://www.muscleandstrength.com/exercises/clean-press.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/clean-press.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Clean and Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/clean-and-press/",
-        "hasImage": true,
-        "hasVideo": false
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/clean-and-press/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Barbell Clean and Press",
-        "url": "https://fitnessprogramer.com/exercise/barbell-clean-and-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/barbell-clean-and-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dumbbell Clean",
@@ -18799,13 +16264,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Clean",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-clean/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-clean/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dumbbell Hang Pull",
@@ -18834,13 +16295,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Hang Pull",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/dumbbell-hang-pull/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/dumbbell-hang-pull/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dumbbell Hang Snatch",
@@ -18865,9 +16322,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Dumbbell Power Clean and Jerk",
@@ -18892,9 +16347,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Dumbbell Power Clean and Push Press",
@@ -18919,9 +16372,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Dumbbell Power Clean and Strict Press",
@@ -18946,9 +16397,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Dumbbell Snatch",
@@ -18973,9 +16422,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Medicine Ball Clean",
@@ -19001,9 +16448,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Medicine Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "One-hand Dumbbell Split Snatch",
@@ -19028,9 +16473,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Push Jerk",
@@ -19050,9 +16493,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Barbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Single-arm Dumbbell Snatch",
@@ -19081,13 +16522,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Arm Dumbbell Snatch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/single-arm-dumbbell-snatch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/single-arm-dumbbell-snatch/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Single-arm Hang Snatch",
@@ -19116,13 +16553,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Arm Hang Snatch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/single-arm-hang-snatch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/single-arm-hang-snatch/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Single-arm Kettlebell Snatch",
@@ -19151,13 +16584,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Arm Kettlebell Snatch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/full-body-exercises/single-arm-kettlebell-snatch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/full-body-exercises/single-arm-kettlebell-snatch/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Snatch",
@@ -19180,9 +16609,7 @@ window.GARMIN_EXERCISES = [
       "TRICEPS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Split Jerk",
@@ -19206,20 +16633,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Split Jerk",
-        "url": "https://www.muscleandstrength.com/exercises/split-jerk",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/split-jerk"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Split Jerk",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-split-jerk/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-split-jerk/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Squat Clean and Jerk",
@@ -19245,9 +16666,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Barbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "High Pull Trap Bar",
@@ -19272,9 +16691,7 @@ window.GARMIN_EXERCISES = [
       "Barbell",
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Bear Crawl",
@@ -19297,13 +16714,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "FitnessProgramer",
         "name": "Bear Crawl",
-        "url": "https://fitnessprogramer.com/exercise/bear-crawls/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/bear-crawls/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connectvideo.garmin.com/msn-workout/Mobility/M_008_CamA.jpg"
   },
   {
@@ -19327,20 +16740,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Cross-Body Mountain Climber",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/cross-body-mountain-climber/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/cross-body-mountain-climber/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Cross Body Mountain Climber",
-        "url": "https://fitnessprogramer.com/exercise/cross-body-mountain-climber/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/cross-body-mountain-climber/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/CROSS_BODY_MOUNTAIN_CLIMBER/heroImage_BBtOl77.jpg"
   },
   {
@@ -19361,13 +16768,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Elbow Plank Pike Jacks",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/elbow-plank-pike-jacks/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/elbow-plank-pike-jacks/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Elevated-feet Plank",
@@ -19389,13 +16792,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Feet Elevated Plank",
-        "url": "https://www.muscleandstrength.com/exercises/plank-with-feet-on-bench.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/plank-with-feet-on-bench.html"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Elevator Abs",
@@ -19415,13 +16814,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Elevator Abs",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/elevator-abs/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/elevator-abs/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/ELEVATOR_ABS/heroImage_BBtOhl6.jpg"
   },
   {
@@ -19438,9 +16833,7 @@ window.GARMIN_EXERCISES = [
       "SHOULDERS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Full Plank Passé Twist",
@@ -19459,9 +16852,7 @@ window.GARMIN_EXERCISES = [
       "TRICEPS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Inching Elbow Plank",
@@ -19482,13 +16873,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Inching Elbow Plank",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/inching-elbow-plank/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/inching-elbow-plank/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Inchworm to Side Plank",
@@ -19511,13 +16898,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Inchworm to Side Plank",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/inchworm-side-plank/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/inchworm-side-plank/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Kneeling Plank",
@@ -19538,13 +16921,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "WeightTraining.guide",
         "name": "Kneeling plank",
-        "url": "https://weighttraining.guide/exercises/kneeling-plank/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/kneeling-plank/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Kneeling Side Plank with Leg Lift",
@@ -19566,13 +16945,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Kneeling Side Plank with Leg Lift",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/kneeling-side-plank-leg-lift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/kneeling-side-plank-leg-lift/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Lateral Roll",
@@ -19593,13 +16968,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Lateral Roll",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/lateral-roll/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/lateral-roll/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Lying Reverse Plank",
@@ -19616,13 +16987,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Lying Reverse Plank",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/lying-reverse-plank/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/lying-reverse-plank/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Medicine Ball Mountain Climber",
@@ -19645,13 +17012,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Medicine Ball Mountain Climber",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/medicine-ball-mountain-climber/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/medicine-ball-mountain-climber/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Modified Mountain Climber and Extension",
@@ -19672,13 +17035,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Modified Mountain Climber and Extension",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/modified-mountain-climber-and-extension/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/modified-mountain-climber-and-extension/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Mountain Climber",
@@ -19699,20 +17058,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Mountain Climber",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/mountain-climber/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/mountain-climber/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Mountain Climber",
-        "url": "https://fitnessprogramer.com/exercise/mountain-climber/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/mountain-climber/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/MOUNTAIN_CLIMBER/heroImage_BBtOla0.jpg"
   },
   {
@@ -19737,13 +17090,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Mountain Climber on Sliding Discs",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/mountain-climber-sliding-discs/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/mountain-climber-sliding-discs/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/MOUNTAIN_CLIMBER_ON_SLIDING_DISCS/heroImage_BBtOlcj.jpg"
   },
   {
@@ -19764,8 +17113,6 @@ window.GARMIN_EXERCISES = [
       "Bosu Ball"
     ],
     "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false,
     "image": "https://connect.garmin.com/images/exercises/images/MOUNTAIN_CLIMBER_WITH_FEET_ON_BOSU_BALL/heroImage_BBtOcOA.jpg"
   },
   {
@@ -19785,9 +17132,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Bench"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Mountain Climber with Hands on Swiss Ball",
@@ -19810,13 +17155,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Mountain Climber with Hands on Swiss Ball",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/mountain-climber-hands-swiss-ball/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/mountain-climber-hands-swiss-ball/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Plank",
@@ -19835,20 +17176,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Plank",
-        "url": "https://www.muscleandstrength.com/exercises/hover.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/hover.html"
       },
       {
         "source": "FitnessProgramer",
         "name": "Plank",
-        "url": "https://fitnessprogramer.com/exercise/plank/",
-        "hasImage": true,
-        "hasVideo": false
+        "url": "https://fitnessprogramer.com/exercise/plank/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/PLANK/heroImage_BBtOiSn.jpg"
   },
   {
@@ -19871,13 +17206,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Plank Jacks with Feet on Sliding Discs",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/plank-jacks-feet-sliding-discs/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/plank-jacks-feet-sliding-discs/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Plank Knee Twist",
@@ -19900,13 +17231,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Plank Knee Twist",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/plank-knee-twist/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/plank-knee-twist/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Plank Pikes",
@@ -19926,13 +17253,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Plank Pikes",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/plank-pikes/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/plank-pikes/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Plank Pike Jumps",
@@ -19954,13 +17277,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Plank Pike Jumps",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/plank-pike-jumps/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/plank-pike-jumps/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Plank to Stand-up",
@@ -19982,13 +17301,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Plank to Standup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/plank-standup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/plank-standup/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Plank with Arm Raise",
@@ -20008,13 +17323,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Plank with Arm Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/plank-arm-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/plank-arm-raise/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/PLANK_WITH_ARM_RAISE/heroImage_BBtO52U.jpg"
   },
   {
@@ -20037,13 +17348,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Plank with Feet on Swiss Ball",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/plank-feet-swiss-ball/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/plank-feet-swiss-ball/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Plank with Knee-to-Elbow",
@@ -20065,13 +17372,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Plank with Knee to Elbow",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/plank-knee-elbow/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/plank-knee-elbow/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Plank with Leg Lift",
@@ -20093,13 +17396,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Plank with Leg Lift",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/plank-leg-lift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/plank-leg-lift/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/PLANK_WITH_LEG_LIFT/heroImage_BBtOnpr.jpg"
   },
   {
@@ -20121,13 +17420,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Plank with Oblique Crunch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/plank-oblique-crunch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/plank-oblique-crunch/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/PLANK_WITH_OBLIQUE_CRUNCH/heroImage_BBtOiTe.jpg"
   },
   {
@@ -20148,13 +17443,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Plyometric Side Plank",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/plyometric-side-plank/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/plyometric-side-plank/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Ring Plank Sprawls",
@@ -20173,9 +17464,7 @@ window.GARMIN_EXERCISES = [
       "LATS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Rolling Side Plank",
@@ -20198,13 +17487,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Rolling Side Plank",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/rolling-side-plank/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/rolling-side-plank/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Side Kick Plank",
@@ -20228,13 +17513,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Side Kick Plank",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/side-kick-plank/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/side-kick-plank/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Side Plank",
@@ -20256,27 +17537,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Side Plank",
-        "url": "https://www.muscleandstrength.com/exercises/side-hover.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/side-hover.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Side Plank",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/general-side-plank/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/general-side-plank/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Side Plank",
-        "url": "https://fitnessprogramer.com/exercise/side-plank/",
-        "hasImage": true,
-        "hasVideo": false
+        "url": "https://fitnessprogramer.com/exercise/side-plank/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/SIDE_PLANK/heroImage_BBtOlhK.jpg"
   },
   {
@@ -20298,8 +17571,6 @@ window.GARMIN_EXERCISES = [
     ],
     "equipment": [],
     "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false,
     "image": "https://connect.garmin.com/images/exercises/images/SIDE_PLANK_AND_ROW/heroImage_BBtOlbt.jpg"
   },
   {
@@ -20324,13 +17595,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Side Plank Lift",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/side-plank-lift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/side-plank-lift/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Side Plank to Plank with Reach Under",
@@ -20350,13 +17617,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Side Plank to Plank with Reach Under",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/side-plank-plank-reach-under/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/side-plank-plank-reach-under/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Side Plank with Elbow on Bosu® Balance Trainer",
@@ -20374,9 +17637,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Bosu Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Side Plank with Feet on Bench",
@@ -20398,13 +17659,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Side Plank with Feet on Bench",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/side-plank-feet-bench/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/side-plank-feet-bench/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/SIDE_PLANK_WITH_FEET_ON_BENCH/heroImage_BBtO50Z.jpg"
   },
   {
@@ -20427,13 +17684,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Side Plank with Knee Circle",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/side-plank-knee-circle/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/side-plank-knee-circle/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Side Plank with Knee Tuck",
@@ -20455,13 +17708,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Side Plank with Knee Tuck",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/side-plank-knee-tuck/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/side-plank-knee-tuck/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Side Plank with Leg Lift",
@@ -20482,13 +17731,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Side Plank with Leg Lift",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/side-plank-leg-lift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/side-plank-leg-lift/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Side Plank with Reach Under",
@@ -20510,13 +17755,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Side Plank with Reach Under",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/side-plank-reach-under/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/side-plank-reach-under/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Single-leg Elevated-feet Plank",
@@ -20538,13 +17779,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Leg Elevated-Feet Plank",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/single-leg-elevated-feet-plank/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/single-leg-elevated-feet-plank/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Single-leg Flex and Extend",
@@ -20566,13 +17803,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Leg Flex and Extend",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/single-leg-flex-and-extend/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/single-leg-flex-and-extend/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Single-leg Side Plank",
@@ -20595,13 +17828,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Leg Side Plank",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/single-leg-side-plank/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/single-leg-side-plank/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Spiderman Plank",
@@ -20618,9 +17847,7 @@ window.GARMIN_EXERCISES = [
       "QUADS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Straight-arm Plank",
@@ -20635,9 +17862,7 @@ window.GARMIN_EXERCISES = [
       "SHOULDERS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Straight-arm Plank with Shoulder Touch",
@@ -20657,13 +17882,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Straight-Arm Plank with Shoulder Touch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/straight-arm-plank-shoulder-touch/",
-        "hasImage": true,
-        "hasVideo": false
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/straight-arm-plank-shoulder-touch/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": false
+    ]
   },
   {
     "name": "Swiss Ball Plank",
@@ -20685,13 +17906,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Swiss Ball Plank",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/swiss-ball-plank/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/swiss-ball-plank/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Swiss Ball Plank Leg Lift",
@@ -20716,13 +17933,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Swiss Ball Plank Leg Lift",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/swiss-ball-plank-leg-lift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/swiss-ball-plank-leg-lift/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Swiss Ball Plank Leg Lift and Hold",
@@ -20743,9 +17956,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Swiss Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Swiss Ball Plank with Feet on Bench",
@@ -20768,13 +17979,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Swiss Ball Plank with Feet on Bench",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/swiss-ball-plank-feet-bench/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/swiss-ball-plank-feet-bench/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Swiss Ball Prone Jackknife",
@@ -20798,13 +18005,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Swiss Ball Prone Jackknife",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/swiss-ball-prone-jackknife/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/swiss-ball-prone-jackknife/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Swiss Ball Side Plank",
@@ -20825,13 +18028,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Swiss Ball Side Plank",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/swiss-ball-side-plank/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/swiss-ball-side-plank/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Three-way Plank",
@@ -20849,9 +18048,7 @@ window.GARMIN_EXERCISES = [
       "SHOULDERS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Towel Plank and Knee-in",
@@ -20874,13 +18071,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Towel Plank and Knee-In",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/towel-plank-and-knee/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/towel-plank-and-knee/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Turkish Get-up to Side Plank",
@@ -20904,13 +18097,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Turkish Getup to Side Plank",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/turkish-getup-side-plank/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/turkish-getup-side-plank/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Two-Point Plank",
@@ -20929,9 +18118,7 @@ window.GARMIN_EXERCISES = [
       "QUADS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "T-Stabilization",
@@ -20953,13 +18140,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "T Stabilization",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/t-stabilization/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/t-stabilization/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Weighted 45-degree Plank",
@@ -20976,9 +18159,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted 90-degree Static Hold",
@@ -20996,9 +18177,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Bear Crawl",
@@ -21019,9 +18198,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Cross-body Mountain Climber",
@@ -21042,9 +18219,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Elbow Plank Pike Jacks",
@@ -21062,9 +18237,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Elevated-feet Plank",
@@ -21083,9 +18256,7 @@ window.GARMIN_EXERCISES = [
       "Bench",
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Elevator Abs",
@@ -21103,9 +18274,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Extended Plank",
@@ -21123,9 +18292,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Full Plank Passé Twist",
@@ -21146,9 +18313,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Inching Elbow Plank",
@@ -21167,9 +18332,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Inchworm to Side Plank",
@@ -21190,9 +18353,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Kneeling Plank",
@@ -21211,9 +18372,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Kneeling Side Plank with Leg Lift",
@@ -21234,9 +18393,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Lateral Roll",
@@ -21255,9 +18412,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Lying Reverse Plank",
@@ -21272,9 +18427,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Medicine Ball Mountain Climber",
@@ -21294,9 +18447,7 @@ window.GARMIN_EXERCISES = [
       "Ankle Weight",
       "Medicine Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Modified Mountain Climber and Extension",
@@ -21315,9 +18466,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Mountain Climber",
@@ -21336,9 +18485,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Mountain Climber on Sliding Discs",
@@ -21359,9 +18506,7 @@ window.GARMIN_EXERCISES = [
       "Ankle Weight",
       "Sliding Disc"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Mountain Climber with Feet on Bosu® Balance Trainer",
@@ -21381,9 +18526,7 @@ window.GARMIN_EXERCISES = [
       "Ankle Weight",
       "Bosu Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Mountain Climber with Hands on Bench",
@@ -21403,9 +18546,7 @@ window.GARMIN_EXERCISES = [
       "Ankle Weight",
       "Bench"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Mountain Climber with Hands on Swiss Ball",
@@ -21425,9 +18566,7 @@ window.GARMIN_EXERCISES = [
       "Ankle Weight",
       "Swiss Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Plank",
@@ -21445,8 +18584,6 @@ window.GARMIN_EXERCISES = [
       "Plate"
     ],
     "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false,
     "image": "https://connect.garmin.com/images/exercises/images/WEIGHTED_PLANK/heroImage_BBtOfg0.jpg"
   },
   {
@@ -21466,9 +18603,7 @@ window.GARMIN_EXERCISES = [
       "Sliding Disc",
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Plank Knee Twist",
@@ -21489,9 +18624,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Plank Pikes",
@@ -21509,9 +18642,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Plank Pike Jumps",
@@ -21531,9 +18662,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Plank to Stand-up",
@@ -21553,9 +18682,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Plank with Arm Raise",
@@ -21573,9 +18700,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Plank with Knee-to-Elbow",
@@ -21595,9 +18720,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Plank with Oblique Crunch",
@@ -21616,9 +18739,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Plyometric Side Plank",
@@ -21636,9 +18757,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Rolling Side Plank",
@@ -21659,9 +18778,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Side Kick Plank",
@@ -21682,9 +18799,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Side Plank",
@@ -21702,9 +18817,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Side Plank and Row",
@@ -21726,9 +18839,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Side Plank Lift",
@@ -21750,9 +18861,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Side Plank with Elbow on Bosu® Balance Trainer",
@@ -21771,9 +18880,7 @@ window.GARMIN_EXERCISES = [
       "Bosu Ball",
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Side Plank with Feet on Bench",
@@ -21792,9 +18899,7 @@ window.GARMIN_EXERCISES = [
       "Bench",
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Side Plank with Knee Circle",
@@ -21814,9 +18919,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Side Plank with Knee Tuck",
@@ -21837,9 +18940,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Side Plank with Leg Lift",
@@ -21858,9 +18959,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Side Plank with Reach Under",
@@ -21880,9 +18979,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Single-leg Elevated-feet Plank",
@@ -21903,9 +19000,7 @@ window.GARMIN_EXERCISES = [
       "Bench",
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Single-leg Flex and Extend",
@@ -21925,9 +19020,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Single-leg Side Plank",
@@ -21949,9 +19042,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Spiderman Plank",
@@ -21969,9 +19060,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Straight-arm Plank",
@@ -21988,9 +19077,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Straight-arm Plank with Shoulder Touch",
@@ -22008,9 +19095,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Swiss Ball Plank",
@@ -22029,9 +19114,7 @@ window.GARMIN_EXERCISES = [
       "Plate",
       "Swiss Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Swiss Ball Plank Leg Lift",
@@ -22053,9 +19136,7 @@ window.GARMIN_EXERCISES = [
       "Plate",
       "Swiss Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Swiss Ball Plank Leg Lift and Hold",
@@ -22077,9 +19158,7 @@ window.GARMIN_EXERCISES = [
       "Plate",
       "Swiss Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Swiss Ball Plank with Feet on Bench",
@@ -22100,9 +19179,7 @@ window.GARMIN_EXERCISES = [
       "Plate",
       "Swiss Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Swiss Ball Prone Jackknife",
@@ -22123,9 +19200,7 @@ window.GARMIN_EXERCISES = [
       "Swiss Ball",
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Swiss Ball Side Plank",
@@ -22145,9 +19220,7 @@ window.GARMIN_EXERCISES = [
       "Dumbbell",
       "Swiss Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Three-way Plank",
@@ -22167,9 +19240,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Towel Plank and Knee-in",
@@ -22189,9 +19260,7 @@ window.GARMIN_EXERCISES = [
       "Other",
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Turkish Get-up to Side Plank",
@@ -22211,9 +19280,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Two-Point Plank",
@@ -22234,9 +19301,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted T-Stabilization",
@@ -22257,9 +19322,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Wide-stance Plank with Diagonal Arm Lift",
@@ -22275,9 +19338,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Wide-stance Plank with Diagonal Leg Lift",
@@ -22296,9 +19357,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Wide-stance Plank with Leg Lift",
@@ -22315,9 +19374,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Wide-stance Plank with Diagonal Arm Lift",
@@ -22337,13 +19394,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Wide-Stance Plank with Diagonal Arm Lift",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/wide-stance-plank-diagonal-arm-lift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/wide-stance-plank-diagonal-arm-lift/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Wide-stance Plank with Diagonal Leg Lift",
@@ -22366,13 +19419,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Wide-Stance Plank with Diagonal Leg Lift",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/wide-stance-plank-diagonal-leg-lift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/wide-stance-plank-diagonal-leg-lift/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Wide-stance Plank with Leg Lift",
@@ -22395,13 +19444,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Wide-Stance Plank with Leg Lift",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/wide-stance-plank-leg-lift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/wide-stance-plank-leg-lift/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Wide-stance Plank with Opposite Arm and Leg Lift",
@@ -22424,13 +19469,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Wide-Stance Plank with Opposite Arm and Leg Lift",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/wide-stance-plank-opposite-arm-and-leg-lift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/wide-stance-plank-opposite-arm-and-leg-lift/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "45-degree Plank",
@@ -22446,8 +19487,6 @@ window.GARMIN_EXERCISES = [
     ],
     "equipment": [],
     "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false,
     "image": "https://connect.garmin.com/images/exercises/images/_45_DEGREE_PLANK/heroImage_BBtO57R.jpg"
   },
   {
@@ -22463,9 +19502,7 @@ window.GARMIN_EXERCISES = [
       "HIPS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Alternating Jump Lunge",
@@ -22486,13 +19523,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Alternating Jump Lunge",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/alternating-jump-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/alternating-jump-lunge/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/ALTERNATING_JUMP_LUNGE/heroImage_BBtOf70.jpg"
   },
   {
@@ -22517,20 +19550,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Jump Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-jump-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-jump-squat/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Barbell Jump Squat",
-        "url": "https://fitnessprogramer.com/exercise/barbell-jump-squat/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/barbell-jump-squat/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/BARBELL_JUMP_SQUAT/heroImage_BBtOiEa.jpg"
   },
   {
@@ -22553,9 +19580,7 @@ window.GARMIN_EXERCISES = [
       "Barbell",
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Body-weight Jump Squat",
@@ -22577,20 +19602,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Bodyweight Squat Jump",
-        "url": "https://www.muscleandstrength.com/exercises/bodyweight-jump-squat.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/bodyweight-jump-squat.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Bodyweight Jump Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/bodyweight-jump-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/bodyweight-jump-squat/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/BODY_WEIGHT_JUMP_SQUAT/heroImage_BBtOl2P.jpg"
   },
   {
@@ -22615,13 +19634,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Box Jump",
-        "url": "https://www.muscleandstrength.com/exercises/box-jump",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/box-jump"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Box Jump Overs",
@@ -22641,9 +19656,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Box"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Box Jump Overs Over the Box",
@@ -22663,9 +19676,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Box"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Cross Knee Strike",
@@ -22686,13 +19697,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Cross Knee Strike",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/cross-knee-strike/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/cross-knee-strike/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Depth Jump",
@@ -22713,20 +19720,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Depth Jump",
-        "url": "https://www.muscleandstrength.com/exercises/depth-jump",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/depth-jump"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Depth Jump",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/depth-jump/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/depth-jump/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dumbbell Jump Squat",
@@ -22750,27 +19751,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Dumbbell Squat Jump",
-        "url": "https://www.muscleandstrength.com/exercises/dumbbell-jumping-squat.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/dumbbell-jumping-squat.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Jump Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-jump-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-jump-squat/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Dumbbell Jump Squat",
-        "url": "https://fitnessprogramer.com/exercise/dumbbell-jump-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/dumbbell-jump-squat/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dumbbell Split Jump",
@@ -22793,20 +19786,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Split Jump",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-split-jump/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-split-jump/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Dumbbell Split Jump",
-        "url": "https://fitnessprogramer.com/exercise/dumbbell-split-jump/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/dumbbell-split-jump/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Front Knee Strike",
@@ -22826,13 +19813,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Front Knee Strike",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/front-knee-strike/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/front-knee-strike/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "High Box Jump",
@@ -22855,13 +19838,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "High Box Jump",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/high-box-jump/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/high-box-jump/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Isometric-explosive Body-weight Jump Squat",
@@ -22883,13 +19862,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Isometric-Explosive Bodyweight Jump Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/isometric-explosive-bodyweight-jump-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/isometric-explosive-bodyweight-jump-squat/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Jump Squat",
@@ -22911,13 +19886,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "WeightTraining.guide",
         "name": "Jump squat",
-        "url": "https://weighttraining.guide/exercises/jump-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/jump-squat/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Jump Trap Bar",
@@ -22941,9 +19912,7 @@ window.GARMIN_EXERCISES = [
       "Barbell",
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Lateral Leap and Hop",
@@ -22966,13 +19935,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Lateral Leap and Hop",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/lateral-leap-and-hop/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/lateral-leap-and-hop/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Lateral Plyo Squats",
@@ -22994,13 +19959,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Lateral Plyo Squats",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/lateral-plyo-squats/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/lateral-plyo-squats/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Lateral Slide",
@@ -23022,13 +19983,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Lateral Slide",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/lateral-slide/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/lateral-slide/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Medicine Ball Overhead Throws",
@@ -23050,13 +20007,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Medicine Ball Overhead Throws",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/medicine-ball-overhead-throws/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/medicine-ball-overhead-throws/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Medicine Ball Side Throw",
@@ -23078,13 +20031,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Medicine Ball Side Throw",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/medicine-ball-side-throw/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/medicine-ball-side-throw/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Medicine Ball Slam",
@@ -23107,13 +20056,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Medicine Ball Slam",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/medicine-ball-slam/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/medicine-ball-slam/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connectvideo.garmin.com/msn-workout/Strength/S_250-A4.jpg"
   },
   {
@@ -23136,13 +20081,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Side-to-Side Medicine Ball Throws",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/side-side-medicine-ball-throws/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/side-side-medicine-ball-throws/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Side-to-Side Shuffle Jump",
@@ -23165,13 +20106,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Side-to-Side Shuffle Jump",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/side-side-shuffle-jump/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/side-side-shuffle-jump/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/SIDE_TO_SIDE_SHUFFLE_JUMP/heroImage_BBtOa3C.jpg"
   },
   {
@@ -23191,9 +20128,7 @@ window.GARMIN_EXERCISES = [
       "HAMSTRINGS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Squat Jump Onto Box",
@@ -23217,13 +20152,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Squat Jump Onto Box",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/squat-jump-box/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/squat-jump-box/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Star Jump Squats",
@@ -23241,9 +20172,7 @@ window.GARMIN_EXERCISES = [
       "HAMSTRINGS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Alternating Jump Lunge",
@@ -23262,9 +20191,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Cross Knee Strike",
@@ -23283,9 +20210,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Depth Jump",
@@ -23304,9 +20229,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Front Knee Strike",
@@ -23324,9 +20247,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted High Box Jump",
@@ -23346,9 +20267,7 @@ window.GARMIN_EXERCISES = [
       "Box",
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Isometric-explosive Jump Squat",
@@ -23368,9 +20287,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Jump Squat",
@@ -23390,9 +20307,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Lateral Leap and Hop",
@@ -23413,9 +20328,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Lateral Plyo Squats",
@@ -23435,9 +20348,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Lateral Slide",
@@ -23457,9 +20368,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Side-to-Side Shuffle Jump",
@@ -23480,9 +20389,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Squat Jumps In and Out",
@@ -23503,9 +20410,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Squat Jump Onto Box",
@@ -23525,9 +20430,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Banded Pull-ups (Progression)",
@@ -23548,9 +20451,7 @@ window.GARMIN_EXERCISES = [
       "Resistance Band",
       "Pullup Bar"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Band-assisted Chin-up",
@@ -23575,13 +20476,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Band-Assisted Chinup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/band-assisted-chinup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/band-assisted-chinup/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Band-assisted Pull-up",
@@ -23606,13 +20503,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "FitnessProgramer",
         "name": "Band Assisted Pull-up",
-        "url": "https://fitnessprogramer.com/exercise/band-assisted-pull-up/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/band-assisted-pull-up/"
       }
-    ],
-    "hasExternalImage": false,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Burpee Pull-up",
@@ -23640,9 +20533,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Pullup Bar"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Chin-up",
@@ -23666,34 +20557,24 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Chin Up",
-        "url": "https://www.muscleandstrength.com/exercises/chin-up.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/chin-up.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Chinup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/chinup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/chinup/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Chin-Up",
-        "url": "https://fitnessprogramer.com/exercise/chin-up/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/chin-up/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Chin-up",
-        "url": "https://weighttraining.guide/exercises/chin-up/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/chin-up/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/CHIN_UP/heroImage_BBtOhfQ.jpg"
   },
   {
@@ -23718,27 +20599,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Close Grip Chin Up",
-        "url": "https://www.muscleandstrength.com/exercises/close-grip-chin-up",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/close-grip-chin-up"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Close-Grip Chinup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/close-grip-chinup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/close-grip-chinup/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Close Grip Chin Up",
-        "url": "https://fitnessprogramer.com/exercise/close-grip-chin-up/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/close-grip-chin-up/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Close-grip Lat Pull-down",
@@ -23761,27 +20634,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Close Grip Lat Pull Down",
-        "url": "https://www.muscleandstrength.com/exercises/close-grip-pull-down.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/close-grip-pull-down.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Close-Grip Lat Pulldown",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/close-grip-lat-pulldown/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/close-grip-lat-pulldown/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Close Grip Lat-Pulldown",
-        "url": "https://fitnessprogramer.com/exercise/close-grip-lat-pulldown/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/close-grip-lat-pulldown/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Crossover Chin-up",
@@ -23805,13 +20670,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Crossover Chinup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/crossover-chinup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/crossover-chinup/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "EZ-Bar Pull-over",
@@ -23835,13 +20696,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "EZ-bar Pullover",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/ez-bar-pullover/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/ez-bar-pullover/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Hanging Hurdle",
@@ -23866,13 +20723,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Hanging Hurdle",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/hanging-hurdle/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/hanging-hurdle/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Jumping Pull-ups",
@@ -23896,9 +20749,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Pullup Bar"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Kipping Pull-up",
@@ -23920,9 +20771,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Pullup Bar"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Kneeling Lat Pull-down",
@@ -23946,13 +20795,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Kneeling Lat Pulldown",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/kneeling-lat-pulldown/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/kneeling-lat-pulldown/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Kneeling Underhand-grip Lat Pull-down",
@@ -23976,13 +20821,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Kneeling Underhand-Grip Lat Pulldown",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/kneeling-underhand-grip-lat-pulldown/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/kneeling-underhand-grip-lat-pulldown/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Lat Pull-down",
@@ -24005,27 +20846,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Lat Pull Down",
-        "url": "https://www.muscleandstrength.com/exercises/lat-pull-down.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/lat-pull-down.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Lat Pulldown",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/lat-pulldown/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/lat-pulldown/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Lat Pulldown",
-        "url": "https://fitnessprogramer.com/exercise/lat-pulldown/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/lat-pulldown/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/LAT_PULLDOWN/heroImage_BBtOl22.jpg"
   },
   {
@@ -24050,9 +20883,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Pullup Bar"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Mixed-grip Chin-up",
@@ -24076,20 +20907,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Mixed Grip Chin Up",
-        "url": "https://www.muscleandstrength.com/exercises/mixed-grip-chin-up",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/mixed-grip-chin-up"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Mixed-Grip Chinup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/mixed-grip-chinup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/mixed-grip-chinup/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Mixed-grip Pull-up",
@@ -24113,20 +20938,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Mixed-Grip Pullup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/mixed-grip-pullup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/mixed-grip-pullup/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Mixed-grip pull-up",
-        "url": "https://weighttraining.guide/exercises/mixed-grip-pull-up/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/mixed-grip-pull-up/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Neutral-grip Chin-up",
@@ -24149,13 +20968,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Neutral-Grip Chinup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/neutral-grip-chinup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/neutral-grip-chinup/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Neutral-grip Pull-up",
@@ -24177,20 +20992,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Neutral-Grip Pullup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/neutral-grip-pullup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/neutral-grip-pullup/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Neutral Grip Pull-up",
-        "url": "https://fitnessprogramer.com/exercise/neutral-grip-pull-up/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/neutral-grip-pull-up/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Pull-up",
@@ -24214,27 +21023,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Pull Up",
-        "url": "https://www.muscleandstrength.com/exercises/pull-up",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/pull-up"
       },
       {
         "source": "FitnessProgramer",
         "name": "Pull-Up",
-        "url": "https://fitnessprogramer.com/exercise/pull-up/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/pull-up/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Pull-up",
-        "url": "https://weighttraining.guide/exercises/pull-up/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/pull-up/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/PULL_UP/heroImage_BBtO551.jpg"
   },
   {
@@ -24259,13 +21060,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Reverse-Grip Pulldown",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/reverse-grip-pulldown/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/reverse-grip-pulldown/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Standing Cable Pull-over",
@@ -24290,13 +21087,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Standing Cable Pullover",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/standing-cable-pullover/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/standing-cable-pullover/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/STANDING_CABLE_PULLOVER/heroImage_BBtOl1T.jpg"
   },
   {
@@ -24322,13 +21115,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Straight-Arm Pulldown",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/straight-arm-pulldown/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/straight-arm-pulldown/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Suspended Chin-up",
@@ -24352,13 +21141,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Suspended Chinup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/suspended-chinup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/suspended-chinup/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Swiss Ball EZ-Bar Pull-over",
@@ -24383,13 +21168,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Swiss Ball EZ-Bar Pullover",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/swiss-ball-ez-bar-pullover/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/swiss-ball-ez-bar-pullover/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Towel Pull-up",
@@ -24414,13 +21195,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Towel Pullup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/towel-pullup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/towel-pullup/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Weighted Burpee Pull-up",
@@ -24449,9 +21226,7 @@ window.GARMIN_EXERCISES = [
       "Pullup Bar",
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Chin-up",
@@ -24476,13 +21251,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Weighted Chin Up",
-        "url": "https://www.muscleandstrength.com/exercises/weighted-chin-up",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/weighted-chin-up"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Weighted Close-grip Chin-up",
@@ -24503,9 +21274,7 @@ window.GARMIN_EXERCISES = [
       "Plate",
       "Pullup Bar"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Crossover Chin-up",
@@ -24526,9 +21295,7 @@ window.GARMIN_EXERCISES = [
       "Plate",
       "Pullup Bar"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Hanging Hurdle",
@@ -24550,9 +21317,7 @@ window.GARMIN_EXERCISES = [
       "Plate",
       "Pullup Bar"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Jumping Pull-ups",
@@ -24577,9 +21342,7 @@ window.GARMIN_EXERCISES = [
       "Pullup Bar",
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Kipping Pull-up",
@@ -24602,9 +21365,7 @@ window.GARMIN_EXERCISES = [
       "Pullup Bar",
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted L Pull-up",
@@ -24629,9 +21390,7 @@ window.GARMIN_EXERCISES = [
       "Pullup Bar",
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Mixed-grip Chin-up",
@@ -24652,9 +21411,7 @@ window.GARMIN_EXERCISES = [
       "Plate",
       "Pullup Bar"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Mixed-grip Pull-up",
@@ -24675,9 +21432,7 @@ window.GARMIN_EXERCISES = [
       "Plate",
       "Pullup Bar"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Neutral-grip Chin-up",
@@ -24696,9 +21451,7 @@ window.GARMIN_EXERCISES = [
       "Plate",
       "Pullup Bar"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Neutral-grip Pull-up",
@@ -24717,9 +21470,7 @@ window.GARMIN_EXERCISES = [
       "Plate",
       "Pullup Bar"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Pull-up",
@@ -24744,34 +21495,24 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Weighted Pull Up",
-        "url": "https://www.muscleandstrength.com/exercises/weighted-pull-up",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/weighted-pull-up"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Weighted Pullup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/weighted-pullup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/weighted-pullup/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Weighted Pull-up",
-        "url": "https://fitnessprogramer.com/exercise/weighted-pull-up/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/weighted-pull-up/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Weighted pull-up",
-        "url": "https://weighttraining.guide/exercises/weighted-pull-up/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/weighted-pull-up/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Weighted Suspended Chin-up",
@@ -24792,9 +21533,7 @@ window.GARMIN_EXERCISES = [
       "Plate",
       "Pullup Bar"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Towel Pull-up",
@@ -24816,9 +21555,7 @@ window.GARMIN_EXERCISES = [
       "Plate",
       "Pullup Bar"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Wide-grip Pull-up",
@@ -24839,9 +21576,7 @@ window.GARMIN_EXERCISES = [
       "Plate",
       "Pullup Bar"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Wide-grip Lat Pull-down",
@@ -24863,27 +21598,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Wide Grip Lat Pull Down",
-        "url": "https://www.muscleandstrength.com/exercises/wide-grip-pull-down",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/wide-grip-pull-down"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Wide-Grip Lat Pulldown",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/wide-grip-lat-pulldown/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/wide-grip-lat-pulldown/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Wide-grip lat pull-down",
-        "url": "https://weighttraining.guide/exercises/wide-grip-lat-pull-down/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/wide-grip-lat-pull-down/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/WIDE_GRIP_LAT_PULLDOWN/heroImage_BBtOf5C.jpg"
   },
   {
@@ -24908,20 +21635,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Wide Grip Pull Up",
-        "url": "https://www.muscleandstrength.com/exercises/wide-grip-pull-up.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/wide-grip-pull-up.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Wide-Grip Pullup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/wide-grip-pullup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/wide-grip-pullup/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "30-degree Lat Pull-down",
@@ -24944,13 +21665,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "30-Degree Lat Pulldown",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/30-degree-lat-pulldown/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/30-degree-lat-pulldown/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Alternating-hands Medicine Ball Push-up",
@@ -24969,9 +21686,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Medicine Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Alternating Staggered Push-up",
@@ -24992,13 +21707,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Alternating Staggered Pushup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/alternating-staggered-pushup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/alternating-staggered-pushup/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Biceps Push-up",
@@ -25016,9 +21727,7 @@ window.GARMIN_EXERCISES = [
       "TRICEPS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Push-up on Bosu® Balance Trainer",
@@ -25037,9 +21746,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Bosu Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Chest Press with Band",
@@ -25058,9 +21765,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Clapping Push-up",
@@ -25081,13 +21786,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Clapping Pushup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/clapping-pushup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/clapping-pushup/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Close-grip Medicine Ball Push-up",
@@ -25110,13 +21811,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Close-Grip Medicine Ball Pushup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/close-grip-medicine-ball-pushup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/close-grip-medicine-ball-pushup/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Close-hands Push-up",
@@ -25137,13 +21834,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Close-Hands Pushup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/close-hands-pushup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/close-hands-pushup/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Decline Push-up",
@@ -25166,27 +21859,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Decline Pushup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/decline-pushup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/decline-pushup/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Decline Push-up",
-        "url": "https://fitnessprogramer.com/exercise/decline-push-up/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/decline-push-up/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Decline push-up",
-        "url": "https://weighttraining.guide/exercises/decline-push-up/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/decline-push-up/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Diamond Push-up",
@@ -25207,27 +21892,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Diamond Pushup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/diamond-pushup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/diamond-pushup/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Diamond Push-up",
-        "url": "https://fitnessprogramer.com/exercise/diamond-push-up/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/diamond-push-up/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Diamond push-up",
-        "url": "https://weighttraining.guide/exercises/diamond-push-up/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/diamond-push-up/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dynamic Push-up",
@@ -25244,9 +21921,7 @@ window.GARMIN_EXERCISES = [
       "SHOULDERS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Explosive Crossover Push-up",
@@ -25267,13 +21942,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Explosive Crossover Pushup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/explosive-crossover-pushup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/explosive-crossover-pushup/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Explosive Push-up",
@@ -25294,13 +21965,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Explosive Pushup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/explosive-pushup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/explosive-pushup/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connectvideo.garmin.com/msn-workout/Strength/S_306-A1.jpg"
   },
   {
@@ -25324,13 +21991,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Feet-Elevated Side-to-Side Pushup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/feet-elevated-side-side-pushup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/feet-elevated-side-side-pushup/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Handstand Push-up",
@@ -25352,13 +22015,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "FitnessProgramer",
         "name": "Handstand Push-Up",
-        "url": "https://fitnessprogramer.com/exercise/handstand-push-up/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/handstand-push-up/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Hand Release Push-up",
@@ -25375,9 +22034,7 @@ window.GARMIN_EXERCISES = [
       "TRICEPS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Hindu Push-up",
@@ -25395,9 +22052,7 @@ window.GARMIN_EXERCISES = [
       "TRICEPS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Incline Push-up",
@@ -25420,27 +22075,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Incline Pushup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/incline-pushup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/incline-pushup/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Incline Push-up",
-        "url": "https://fitnessprogramer.com/exercise/incline-push-up/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/incline-push-up/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Incline push-up",
-        "url": "https://weighttraining.guide/exercises/incline-push-up/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/incline-push-up/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Isometric-explosive Push-up",
@@ -25461,13 +22108,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Isometric-Explosive Pushup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/isometric-explosive-pushup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/isometric-explosive-pushup/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Judo Push-up",
@@ -25489,13 +22132,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Judo Pushup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/judo-pushup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/judo-pushup/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Kipping Handstand Push-up",
@@ -25519,13 +22158,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "FitnessProgramer",
         "name": "Kipping Handstand Push-up",
-        "url": "https://fitnessprogramer.com/exercise/kipping-handstand-push-up/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/kipping-handstand-push-up/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Kipping Parallette Handstand Push-up",
@@ -25547,9 +22182,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Other"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Kneeling Push-up",
@@ -25570,20 +22203,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Kneeling Pushup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/kneeling-pushup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/kneeling-pushup/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Kneeling Push-up",
-        "url": "https://fitnessprogramer.com/exercise/kneeling-push-up/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/kneeling-push-up/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Medicine Ball Chest Pass",
@@ -25603,13 +22230,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Medicine Ball Chest Pass",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/medicine-ball-chest-pass/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/medicine-ball-chest-pass/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Medicine Ball Push-up",
@@ -25632,20 +22255,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Medicine Ball Pushup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/medicine-ball-pushup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/medicine-ball-pushup/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Medicine Ball Push-Up",
-        "url": "https://fitnessprogramer.com/exercise/medicine-ball-push-up/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/medicine-ball-push-up/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "One-arm Push-up",
@@ -25665,13 +22282,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "One-Arm Pushup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/one-arm-pushup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/one-arm-pushup/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Parallette Handstand Push-up",
@@ -25691,9 +22304,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Other"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Pike Push-up",
@@ -25713,20 +22324,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "FitnessProgramer",
         "name": "Pike Push-up",
-        "url": "https://fitnessprogramer.com/exercise/pike-push-up/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/pike-push-up/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Pike push-up",
-        "url": "https://weighttraining.guide/exercises/pike-push-up/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/pike-push-up/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Push-up",
@@ -25747,27 +22352,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Push Up",
-        "url": "https://www.muscleandstrength.com/exercises/push-up.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/push-up.html"
       },
       {
         "source": "FitnessProgramer",
         "name": "Push-Up",
-        "url": "https://fitnessprogramer.com/exercise/push-up/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/push-up/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Push-up",
-        "url": "https://weighttraining.guide/exercises/push-up/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/push-up/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/PUSH_UP/heroImage_BBtO7xT.jpg"
   },
   {
@@ -25792,13 +22389,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Pushup and Row",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/pushup-and-row/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/pushup-and-row/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Push-up Plus",
@@ -25819,27 +22412,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Push Up Plus",
-        "url": "https://www.muscleandstrength.com/exercises/push-up-plus",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/push-up-plus"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Pushup Plus",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/pushup-plus/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/pushup-plus/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Push-Up Plus",
-        "url": "https://fitnessprogramer.com/exercise/push-up-plus/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/push-up-plus/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Push-up with Feet on Swiss Ball",
@@ -25862,13 +22447,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Pushup with Feet on Swiss Ball",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/pushup-feet-swiss-ball/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/pushup-feet-swiss-ball/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Push-up with One Hand on Medicine Ball",
@@ -25891,13 +22472,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Pushup with One Hand on Medicine Ball",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/pushup-one-hand-medicine-ball/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/pushup-one-hand-medicine-ball/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Ring Handstand Push-up",
@@ -25921,9 +22498,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Rings"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Ring Push-up",
@@ -25947,13 +22522,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Ring Push Up",
-        "url": "https://www.muscleandstrength.com/exercises/ring-push-up",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/ring-push-up"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Shoulder Push-up",
@@ -25973,13 +22544,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Shoulder Pushup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/shoulder-pushup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/shoulder-pushup/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Shoulder Tapping Push-up",
@@ -26000,13 +22567,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Shoulder-Tapping Pushup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/shoulder-tapping-pushup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/shoulder-tapping-pushup/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Single-arm Medicine Ball Push-up",
@@ -26028,20 +22591,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Arm Medicine Ball Pushup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/single-arm-medicine-ball-pushup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/single-arm-medicine-ball-pushup/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Single-Arm Medicine Ball Push-Up",
-        "url": "https://fitnessprogramer.com/exercise/push-up-medicine-ball/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/push-up-medicine-ball/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Spiderman Push-up",
@@ -26064,27 +22621,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Spiderman Push Up",
-        "url": "https://www.muscleandstrength.com/exercises/spiderman-push-up",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/spiderman-push-up"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Spider-Man Pushup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/spider-man-pushup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/spider-man-pushup/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Spiderman push-up",
-        "url": "https://weighttraining.guide/exercises/spiderman-push-up/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/spiderman-push-up/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connectvideo.garmin.com/msn-workout/Strength/S_308-A1.jpg"
   },
   {
@@ -26106,13 +22655,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Stacked-Feet Pushup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/stacked-feet-pushup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/stacked-feet-pushup/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Staggered-hands Push-up",
@@ -26133,13 +22678,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Staggered-Hands Pushup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/staggered-hands-pushup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/staggered-hands-pushup/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Suspended Push-up",
@@ -26162,20 +22703,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Suspended Pushup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/suspended-pushup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/suspended-pushup/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Suspended Push-Up",
-        "url": "https://fitnessprogramer.com/exercise/suspended-push-up/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/suspended-push-up/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Swiss Ball Push-up",
@@ -26198,13 +22733,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Swiss Ball Pushup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/swiss-ball-pushup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/swiss-ball-pushup/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Swiss Ball Push-up Plus",
@@ -26227,13 +22758,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Swiss Ball Pushup Plus",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/swiss-ball-pushup-plus/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/swiss-ball-pushup-plus/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Triple-stop Push-up",
@@ -26254,13 +22781,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Triple-Stop Pushup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/triple-stop-pushup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/triple-stop-pushup/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "T Push-up",
@@ -26282,20 +22805,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "T-Push Up",
-        "url": "https://www.muscleandstrength.com/exercises/t-push-up",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/t-push-up"
       },
       {
         "source": "Muscle & Fitness",
         "name": "T Pushup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/t-pushup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/t-pushup/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/T_PUSH_UP/heroImage_BBtOf7Q.jpg"
   },
   {
@@ -26316,9 +22833,7 @@ window.GARMIN_EXERCISES = [
       "Medicine Ball",
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Alternating Staggered Push-up",
@@ -26337,9 +22852,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Biceps Push-up",
@@ -26359,9 +22872,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Push-up on Bosu® Balance Trainer",
@@ -26381,9 +22892,7 @@ window.GARMIN_EXERCISES = [
       "Bosu Ball",
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Clapping Push-up",
@@ -26402,9 +22911,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Close-grip Medicine Ball Push-up",
@@ -26424,9 +22931,7 @@ window.GARMIN_EXERCISES = [
       "Medicine Ball",
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Close-hands Push-up",
@@ -26445,9 +22950,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Decline Push-up",
@@ -26467,9 +22970,7 @@ window.GARMIN_EXERCISES = [
       "Bench",
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Diamond Push-up",
@@ -26488,9 +22989,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Explosive Crossover Push-up",
@@ -26509,9 +23008,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Explosive Push-up",
@@ -26530,9 +23027,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Feet-elevated Side-to-Side Push-up",
@@ -26552,9 +23047,7 @@ window.GARMIN_EXERCISES = [
       "Bench",
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Handstand Push-up",
@@ -26574,9 +23067,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Hand Release Push-up",
@@ -26595,9 +23086,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Hindu Push-up",
@@ -26617,9 +23106,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Incline Push-up",
@@ -26639,9 +23126,7 @@ window.GARMIN_EXERCISES = [
       "Bench",
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Isometric-explosive Push-up",
@@ -26660,9 +23145,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Judo Push-up",
@@ -26682,9 +23165,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Kneeling Push-up",
@@ -26703,9 +23184,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Medicine Ball Push-up",
@@ -26725,9 +23204,7 @@ window.GARMIN_EXERCISES = [
       "Medicine Ball",
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted One-arm Push-up",
@@ -26745,9 +23222,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Parallette Handstand Push-up",
@@ -26768,9 +23243,7 @@ window.GARMIN_EXERCISES = [
       "Other",
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Pike Push-up",
@@ -26788,9 +23261,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Push-up",
@@ -26813,27 +23284,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Weighted Pushup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/weighted-pushup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/weighted-pushup/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Weighted Push-up",
-        "url": "https://fitnessprogramer.com/exercise/weighted-push-up/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/weighted-push-up/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Weighted push-up",
-        "url": "https://weighttraining.guide/exercises/weighted-push-up/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/weighted-push-up/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Weighted Push-up and Row",
@@ -26854,9 +23317,7 @@ window.GARMIN_EXERCISES = [
       "Dumbbell",
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Push-up Plus",
@@ -26875,9 +23336,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Push-up with Feet on Swiss Ball",
@@ -26897,9 +23356,7 @@ window.GARMIN_EXERCISES = [
       "Plate",
       "Swiss Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Push-up with One Hand on Medicine Ball",
@@ -26919,9 +23376,7 @@ window.GARMIN_EXERCISES = [
       "Medicine Ball",
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Ring Handstand Push-up",
@@ -26946,9 +23401,7 @@ window.GARMIN_EXERCISES = [
       "Rings",
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Ring Push-up",
@@ -26969,9 +23422,7 @@ window.GARMIN_EXERCISES = [
       "Plate",
       "Rings"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Shoulder Push-up",
@@ -26989,9 +23440,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Single-arm Medicine Ball Push-up",
@@ -27011,9 +23460,7 @@ window.GARMIN_EXERCISES = [
       "Medicine Ball",
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Spiderman Push-up",
@@ -27034,9 +23481,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Stacked-feet Push-up",
@@ -27055,9 +23500,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Staggered-hands Push-up",
@@ -27076,9 +23519,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Suspended Push-up",
@@ -27098,9 +23539,7 @@ window.GARMIN_EXERCISES = [
       "Plate",
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Swiss Ball Push-up",
@@ -27120,9 +23559,7 @@ window.GARMIN_EXERCISES = [
       "Plate",
       "Swiss Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Swiss Ball Push-up Plus",
@@ -27142,9 +23579,7 @@ window.GARMIN_EXERCISES = [
       "Plate",
       "Swiss Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Triple-stop Push-up",
@@ -27163,9 +23598,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted T Push-up",
@@ -27185,9 +23618,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Wide-hands Push-up",
@@ -27206,9 +23637,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Wide-grip Push-up",
@@ -27225,9 +23654,7 @@ window.GARMIN_EXERCISES = [
       "ABS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Wide-hands Push-up",
@@ -27248,13 +23675,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Wide-Hands Pushup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/wide-hands-pushup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/wide-hands-pushup/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Alternating Dumbbell Row",
@@ -27275,8 +23698,6 @@ window.GARMIN_EXERCISES = [
       "Dumbbell"
     ],
     "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false,
     "image": "https://connect.garmin.com/images/exercises/images/ALTERNATING_DUMBBELL_ROW/heroImage_BBtOiNm.jpg"
   },
   {
@@ -27293,9 +23714,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Resistance Band"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Barbell Row",
@@ -27316,8 +23735,6 @@ window.GARMIN_EXERCISES = [
       "Barbell"
     ],
     "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false,
     "image": "https://connectvideo.garmin.com/msn-workout/Strength/S_310-A4.jpg"
   },
   {
@@ -27344,13 +23761,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Straight-Leg Deadlift to Row",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-straight-leg-deadlift-row/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-straight-leg-deadlift-row/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Bent-over Row with Barbell",
@@ -27370,9 +23783,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Barbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Bent-over Row with Dumbbell",
@@ -27392,9 +23803,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Cable Row Standing",
@@ -27418,20 +23827,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Cable Row Standing",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/cable-row-standing/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/cable-row-standing/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Standing cable row",
-        "url": "https://weighttraining.guide/exercises/standing-cable-row/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/standing-cable-row/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connectvideo.garmin.com/msn-workout/Strength/S_133-A4.jpg"
   },
   {
@@ -27452,9 +23855,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Decline Ring Row",
@@ -27473,9 +23874,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Rings"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Dumbbell Row",
@@ -27499,20 +23898,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Row",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/dumbbell-row/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/dumbbell-row/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Dumbbell Row",
-        "url": "https://fitnessprogramer.com/exercise/dumbbell-row/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/dumbbell-row/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/DUMBBELL_ROW/heroImage_BBtOh8f.jpg"
   },
   {
@@ -27532,20 +23925,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Row",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/dumbbell-row/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/dumbbell-row/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Dumbbell Row",
-        "url": "https://fitnessprogramer.com/exercise/dumbbell-row/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/dumbbell-row/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/DUMBBELL_ROW/heroImage_BBtOh8f.jpg"
   },
   {
@@ -27571,13 +23958,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Elevated-Feet Inverted Row",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/elevated-feet-inverted-row/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/elevated-feet-inverted-row/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Elevated Ring Row",
@@ -27597,9 +23980,7 @@ window.GARMIN_EXERCISES = [
       "Bench",
       "Rings"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Face Pull",
@@ -27622,20 +24003,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Face Pull",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/face-pull/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/face-pull/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Face Pull",
-        "url": "https://fitnessprogramer.com/exercise/face-pull/",
-        "hasImage": true,
-        "hasVideo": false
+        "url": "https://fitnessprogramer.com/exercise/face-pull/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/FACE_PULL/heroImage_BBtOl1i.jpg"
   },
   {
@@ -27659,13 +24034,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Face Pull with External Rotation",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/face-pull-external-rotation/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/face-pull-external-rotation/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Rowing Machine",
@@ -27690,13 +24061,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "FitnessProgramer",
         "name": "Rowing Machine",
-        "url": "https://fitnessprogramer.com/exercise/rowing-machine/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/rowing-machine/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Inverted Row",
@@ -27720,13 +24087,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Inverted Row",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/inverted-row-3/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/inverted-row-3/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/INVERTED_ROW/heroImage_BBtOiO2.jpg"
   },
   {
@@ -27753,13 +24116,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Inverted Row with Feet on Swiss Ball",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/inverted-row-feet-swiss-ball/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/inverted-row-feet-swiss-ball/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Kettlebell Row",
@@ -27783,13 +24142,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Kettlebell Row",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/kettlebell-row/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/kettlebell-row/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Modified Inverted Row",
@@ -27813,13 +24168,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Modified Inverted Row",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/modified-inverted-row/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/modified-inverted-row/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Neutral-grip Alternating Dumbbell Row",
@@ -27843,13 +24194,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Neutral Grip Alternating Dumbbell Row",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/neutral-grip-alternating-dumbbell-row/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/neutral-grip-alternating-dumbbell-row/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "One-arm Bent-over Row",
@@ -27874,13 +24221,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "One-Arm Bent-Over Row",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/one-arm-bent-over-row/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/one-arm-bent-over-row/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/ONE_ARM_BENT_OVER_ROW/heroImage_BBtOiH2.jpg"
   },
   {
@@ -27907,13 +24250,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "One-Legged Dumbbell Row",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/one-legged-dumbbell-row/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/one-legged-dumbbell-row/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Renegade Row",
@@ -27937,20 +24276,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Renegade Row",
-        "url": "https://www.muscleandstrength.com/exercises/renegade-row",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/renegade-row"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Renegade Row",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/renegade-row/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/renegade-row/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/RENEGADE_ROW/heroImage_BBtOhkp.jpg"
   },
   {
@@ -27975,20 +24308,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Reverse-Grip Barbell Row",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/reverse-grip-barbell-row/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/reverse-grip-barbell-row/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Reverse Grip Barbell Row",
-        "url": "https://fitnessprogramer.com/exercise/reverse-grip-barbell-row/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/reverse-grip-barbell-row/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/REVERSE_GRIP_BARBELL_ROW/heroImage_BBtO4Rz.jpg"
   },
   {
@@ -28008,9 +24335,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Rings"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Rope-handle Cable Row",
@@ -28035,13 +24360,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Rope-Handle Cable Row",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/rope-handle-cable-row/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/rope-handle-cable-row/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Row",
@@ -28061,9 +24382,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Machine"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Ruck Bent over Row",
@@ -28084,8 +24403,6 @@ window.GARMIN_EXERCISES = [
       "Pack Weight"
     ],
     "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false,
     "image": "https://connectvideo.garmin.com/msn-workout/Strength/S_367-Cam1.jpg"
   },
   {
@@ -28109,41 +24426,29 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Seated Cable Row",
-        "url": "https://www.muscleandstrength.com/exercises/seated-row.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/seated-row.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Seated Cable Row",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/seated-cable-row/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/seated-cable-row/"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Seated Cable Row",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/seated-cable-row-0/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/seated-cable-row-0/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Seated Cable Row",
-        "url": "https://fitnessprogramer.com/exercise/seated-cable-row/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/seated-cable-row/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Seated cable row",
-        "url": "https://weighttraining.guide/exercises/seated-cable-row/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/seated-cable-row/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Seated Dumbbell Row",
@@ -28167,13 +24472,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Seated Dumbbell Row",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/seated-dumbbell-row/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/seated-dumbbell-row/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Seated Underhand-grip Cable Row",
@@ -28192,9 +24493,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Cable Machine"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Single-arm Cable Row",
@@ -28218,13 +24517,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Arm Cable Row",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/single-arm-cable-row/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/single-arm-cable-row/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Single-arm Cable Row and Rotation",
@@ -28249,13 +24544,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Arm Cable Row and Rotation",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/single-arm-cable-row-and-rotation/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/single-arm-cable-row-and-rotation/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Single-arm Inverted Row",
@@ -28279,13 +24570,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Arm Inverted Row",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/single-arm-inverted-row/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/single-arm-inverted-row/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Single-arm Neutral-grip Dumbbell Row",
@@ -28309,13 +24596,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Arm Neutral-Grip Dumbbell Row",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/single-arm-neutral-grip-dumbbell-row/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/single-arm-neutral-grip-dumbbell-row/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Single-arm Neutral-grip Dumbbell Row and Rotation",
@@ -28337,8 +24620,6 @@ window.GARMIN_EXERCISES = [
       "Dumbbell"
     ],
     "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false,
     "image": "https://connect.garmin.com/images/exercises/images/SINGLE_ARM_NEUTRAL_GRIP_DUMBBELL_ROW_AND_ROTATION/heroImage_BBtOhhn.jpg"
   },
   {
@@ -28362,13 +24643,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Suspended Inverted Row",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/suspended-inverted-row/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/suspended-inverted-row/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Towel-grip Inverted Row",
@@ -28394,13 +24671,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Towel-Grip Inverted Row",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/towel-grip-inverted-row/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/towel-grip-inverted-row/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "TRX Inverted Row",
@@ -28419,9 +24692,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "T-Bar Row",
@@ -28446,27 +24717,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "T-Bar Row",
-        "url": "https://www.muscleandstrength.com/exercises/bent-over-row.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/bent-over-row.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "T-Bar Row",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/t-bar-row/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/t-bar-row/"
       },
       {
         "source": "FitnessProgramer",
         "name": "T-Bar Row",
-        "url": "https://fitnessprogramer.com/exercise/t-bar-row/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/t-bar-row/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Underhand-grip Cable Row",
@@ -28489,13 +24752,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Underhand-Grip Cable Row",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/underhand-grip-cable-row/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/underhand-grip-cable-row/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "V-grip Cable Row",
@@ -28518,13 +24777,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "V-Grip Cable Row",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/v-grip-cable-row/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/v-grip-cable-row/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Weighted Elevated-feet Inverted Row",
@@ -28546,9 +24801,7 @@ window.GARMIN_EXERCISES = [
       "Plate",
       "Squat Rack"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Inverted Row",
@@ -28569,9 +24822,7 @@ window.GARMIN_EXERCISES = [
       "Plate",
       "Squat Rack"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Inverted Row with Feet on Swiss Ball",
@@ -28594,9 +24845,7 @@ window.GARMIN_EXERCISES = [
       "Squat Rack",
       "Swiss Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Modified Inverted Row",
@@ -28617,9 +24866,7 @@ window.GARMIN_EXERCISES = [
       "Plate",
       "Squat Rack"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Row",
@@ -28639,9 +24886,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Barbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Single-arm Inverted Row",
@@ -28662,9 +24907,7 @@ window.GARMIN_EXERCISES = [
       "Plate",
       "Squat Rack"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Suspended Inverted Row",
@@ -28684,9 +24927,7 @@ window.GARMIN_EXERCISES = [
       "Plate",
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Towel-grip Inverted Row",
@@ -28709,9 +24950,7 @@ window.GARMIN_EXERCISES = [
       "Plate",
       "Squat Rack"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted TRX Inverted Row",
@@ -28731,9 +24970,7 @@ window.GARMIN_EXERCISES = [
       "Plate",
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Wide-grip Seated Cable Row",
@@ -28756,13 +24993,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Wide-Grip Seated Cable Row",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/wide-grip-seated-cable-row/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/wide-grip-seated-cable-row/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Jog",
@@ -28782,8 +25015,6 @@ window.GARMIN_EXERCISES = [
     ],
     "equipment": [],
     "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false,
     "image": "https://connect.garmin.com/images/exercises/images/JOG/heroImage_BBtOakb.jpg"
   },
   {
@@ -28804,8 +25035,6 @@ window.GARMIN_EXERCISES = [
     ],
     "equipment": [],
     "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false,
     "image": "https://connect.garmin.com/images/exercises/images/RUN/heroImage_BBtOldw.jpg"
   },
   {
@@ -28825,9 +25054,7 @@ window.GARMIN_EXERCISES = [
       "ABS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Sprint",
@@ -28850,13 +25077,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "FitnessProgramer",
         "name": "Sprint",
-        "url": "https://fitnessprogramer.com/exercise/sprint/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/sprint/"
       }
-    ],
-    "hasExternalImage": false,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Walk",
@@ -28875,9 +25098,7 @@ window.GARMIN_EXERCISES = [
       "ABS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Indoor Track Run",
@@ -28896,9 +25117,7 @@ window.GARMIN_EXERCISES = [
       "ABS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Treadmill",
@@ -28923,13 +25142,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "FitnessProgramer",
         "name": "Treadmill",
-        "url": "https://fitnessprogramer.com/exercise/treadmill/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/treadmill/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Sandbag Around the World",
@@ -28948,9 +25163,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Sandbag"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Sandbag Back Squat",
@@ -28968,9 +25181,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Sandbag"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Sandbag Bear Crawl Pull-through",
@@ -28992,9 +25203,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Sandbag"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Sandbag Bear Hug Squat",
@@ -29017,9 +25226,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Sandbag"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Sandbag Clean",
@@ -29044,9 +25251,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Sandbag"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Sandbag Clean and Press",
@@ -29071,9 +25276,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Sandbag"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Sandbag Curl",
@@ -29088,9 +25291,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Sandbag"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Sandbag Front Carry",
@@ -29112,9 +25313,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Sandbag"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Sandbag Front Squat",
@@ -29133,9 +25332,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Sandbag"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Sandbag Lunge",
@@ -29154,9 +25351,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Sandbag"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Sandbag Overhead Press",
@@ -29175,9 +25370,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Sandbag"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Sandbag Plank Pull-through",
@@ -29198,9 +25391,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Sandbag"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Sandbag Rotational Lunge",
@@ -29219,9 +25410,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Sandbag"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Sandbag Row",
@@ -29241,9 +25430,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Sandbag"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Sandbag Russian Twist",
@@ -29261,9 +25448,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Sandbag"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Sandbag Shouldering",
@@ -29286,9 +25471,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Sandbag"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Sandbag Shoveling",
@@ -29307,9 +25490,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Sandbag"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Sandbag Side Lunge",
@@ -29329,9 +25510,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Sandbag"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Sandbag Sprint",
@@ -29352,9 +25531,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Sandbag"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Sandbag Zercher Squat",
@@ -29376,9 +25553,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Sandbag"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Alternating Dumbbell Shoulder Press",
@@ -29401,13 +25576,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Alternating Dumbbell Shoulder Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/alternating-dumbbell-shoulder-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/alternating-dumbbell-shoulder-press/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/ALTERNATING_DUMBBELL_SHOULDER_PRESS/heroImage_BBtO7q0.jpg"
   },
   {
@@ -29431,27 +25602,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Arnold Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/arnold-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/arnold-press/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Arnold Press",
-        "url": "https://fitnessprogramer.com/exercise/arnold-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/arnold-press/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Arnold press",
-        "url": "https://weighttraining.guide/exercises/arnold-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/arnold-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Arnold Press",
@@ -29472,27 +25635,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Arnold Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/arnold-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/arnold-press/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Arnold Press",
-        "url": "https://fitnessprogramer.com/exercise/arnold-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/arnold-press/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Arnold press",
-        "url": "https://weighttraining.guide/exercises/arnold-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/arnold-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Barbell Front Squat to Push Press",
@@ -29522,13 +25677,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Front Squat to Push Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-front-squat-push-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-front-squat-push-press/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/BARBELL_FRONT_SQUAT_TO_PUSH_PRESS/heroImage_BBtOiLc.jpg"
   },
   {
@@ -29553,27 +25704,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Push Press",
-        "url": "https://www.muscleandstrength.com/exercises/push-press",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/push-press"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Push Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-push-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-push-press/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Push Press",
-        "url": "https://fitnessprogramer.com/exercise/push-press/",
-        "hasImage": true,
-        "hasVideo": false
+        "url": "https://fitnessprogramer.com/exercise/push-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Barbell Shoulder Press",
@@ -29596,20 +25739,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Shoulder Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/barbell-shoulder-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/barbell-shoulder-press/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Barbell shoulder press",
-        "url": "https://weighttraining.guide/exercises/barbell-overhead-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/barbell-overhead-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dead-curl Press",
@@ -29633,13 +25770,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Dead-Curl-Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dead-curl-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dead-curl-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dumbbell Alternating Shoulder Press and Twist",
@@ -29662,13 +25795,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Alternating Shoulder Press and Twist",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/dumbbell-alternating-shoulder-press-and-twist/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/dumbbell-alternating-shoulder-press-and-twist/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dumbbell Front Raise",
@@ -29690,20 +25819,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Front Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/dumbbell-front-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/dumbbell-front-raise/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Dumbbell Front Raise",
-        "url": "https://fitnessprogramer.com/exercise/dumbbell-front-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/dumbbell-front-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dumbbell Hammer Curl to Lunge to Press",
@@ -29729,13 +25852,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Hammer Curl to Lunge to Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-hammer-curl-lunge-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-hammer-curl-lunge-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dumbbell Push Press",
@@ -29759,20 +25878,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Push Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-push-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-push-press/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Dumbbell Push Press",
-        "url": "https://fitnessprogramer.com/exercise/dumbbell-push-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/dumbbell-push-press/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/DUMBBELL_PUSH_PRESS/heroImage_BBtOcz2.jpg"
   },
   {
@@ -29796,20 +25909,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Shoulder Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/dumbbell-shoulder-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/dumbbell-shoulder-press/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Dumbbell Shoulder Press",
-        "url": "https://fitnessprogramer.com/exercise/dumbbell-shoulder-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/dumbbell-shoulder-press/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/DUMBBELL_SHOULDER_PRESS/heroImage_BBtOiFF.jpg"
   },
   {
@@ -29830,13 +25937,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Floor Inverted Shoulder Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/floor-inverted-shoulder-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/floor-inverted-shoulder-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Inverted Shoulder Press",
@@ -29856,13 +25959,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Inverted Shoulder Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/inverted-shoulder-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/inverted-shoulder-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Kneeling Landmine Press",
@@ -29883,9 +25982,7 @@ window.GARMIN_EXERCISES = [
       "Barbell",
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Military Press",
@@ -29908,13 +26005,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Military Press (AKA Overhead Press)",
-        "url": "https://www.muscleandstrength.com/exercises/military-press.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/military-press.html"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "One-arm Push Press",
@@ -29938,13 +26031,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "One-Arm Push Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/one-arm-push-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/one-arm-push-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Barbell Overhead Press",
@@ -29967,13 +26056,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Overhead Barbell Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/overhead-barbell-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/overhead-barbell-press/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connectvideo.garmin.com/msn-workout/Strength/S_314-A4.jpg"
   },
   {
@@ -29997,13 +26082,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Overhead Dumbbell Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/overhead-dumbbell-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/overhead-dumbbell-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Overhead Dumbbell Press",
@@ -30024,13 +26105,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Overhead Dumbbell Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/overhead-dumbbell-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/overhead-dumbbell-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Ruck Press",
@@ -30048,8 +26125,6 @@ window.GARMIN_EXERCISES = [
       "Pack Weight"
     ],
     "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false,
     "image": "https://connectvideo.garmin.com/msn-workout/Strength/S_374-Cam1.jpg"
   },
   {
@@ -30074,34 +26149,24 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Seated Barbell Shoulder Press",
-        "url": "https://www.muscleandstrength.com/exercises/seated-shoulder-press.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/seated-shoulder-press.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Seated Barbell Shoulder Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/seated-barbell-shoulder-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/seated-barbell-shoulder-press/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Seated Barbell Shoulder Press",
-        "url": "https://fitnessprogramer.com/exercise/barbell-shoulder-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/barbell-shoulder-press/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Seated barbell shoulder press",
-        "url": "https://weighttraining.guide/exercises/seated-barbell-shoulder-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/seated-barbell-shoulder-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Seated Dumbbell Shoulder Press",
@@ -30125,13 +26190,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Seated Dumbbell Shoulder Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/seated-dumbbell-shoulder-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/seated-dumbbell-shoulder-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Single-arm Dumbbell Shoulder Press",
@@ -30154,13 +26215,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-arm Dumbbell Shoulder Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/single-arm-dumbbell-shoulder-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/single-arm-dumbbell-shoulder-press/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/SINGLE_ARM_DUMBBELL_SHOULDER_PRESS/heroImage_BBtOcvA.jpg"
   },
   {
@@ -30189,13 +26246,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Arm Step-Up and Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/single-arm-step-and-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/single-arm-step-and-press/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/SINGLE_ARM_STEP_UP_AND_PRESS/heroImage_BBtOaaD.jpg"
   },
   {
@@ -30219,13 +26272,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Smith Machine Overhead Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/smith-machine-overhead-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/smith-machine-overhead-press/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/SMITH_MACHINE_OVERHEAD_PRESS/heroImage_BBtOhfl.jpg"
   },
   {
@@ -30250,13 +26299,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Split-Stance Hammer Curl to Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/split-stance-hammer-curl-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/split-stance-hammer-curl-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Standing Landmine Press",
@@ -30279,9 +26324,7 @@ window.GARMIN_EXERCISES = [
       "Barbell",
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Strict Press",
@@ -30300,9 +26343,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Barbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Swiss Ball Dumbbell Shoulder Press",
@@ -30327,13 +26368,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Swiss Ball Dumbbell Shoulder Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/swiss-ball-dumbbell-shoulder-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/swiss-ball-dumbbell-shoulder-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Weighted Floor Inverted Shoulder Press",
@@ -30351,9 +26388,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Inverted Shoulder Press",
@@ -30371,9 +26406,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weight-plate Front Raise",
@@ -30395,27 +26428,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Weight Plate Front Raise",
-        "url": "https://www.muscleandstrength.com/exercises/weight-plate-front-raise.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/weight-plate-front-raise.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Weight Plate Front Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/weight-plate-front-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/weight-plate-front-raise/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Weight Plate Front Raise",
-        "url": "https://fitnessprogramer.com/exercise/weight-plate-front-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/weight-plate-front-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Band External Rotation",
@@ -30434,13 +26459,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Band External Rotation",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/band-external-rotation/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/band-external-rotation/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Band Internal Rotation",
@@ -30460,13 +26481,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Band Internal Rotation",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/band-internal-rotation/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/band-internal-rotation/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Bent-arm Lateral Raise and External Rotation",
@@ -30486,13 +26503,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Bent-Arm Lateral Raise and External Rotation",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/bent-arm-lateral-raise-and-external-rotation/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/bent-arm-lateral-raise-and-external-rotation/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Cable External Rotation",
@@ -30511,20 +26524,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Cable External Rotation",
-        "url": "https://www.muscleandstrength.com/exercises/cable-external-rotation",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/cable-external-rotation"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Cable External Rotation",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/cable-external-rotation/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/cable-external-rotation/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Cable Internal Rotation",
@@ -30544,13 +26551,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Cable Internal Rotation",
-        "url": "https://www.muscleandstrength.com/exercises/cable-internal-rotation",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/cable-internal-rotation"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dumbbell Face Pull with External Rotation",
@@ -30571,13 +26574,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Face Pull with External Rotation",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/dumbbell-face-pull-external-rotation/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/dumbbell-face-pull-external-rotation/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Floor I Raise",
@@ -30596,13 +26595,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Floor I Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/floor-i-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/floor-i-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Floor T Raise",
@@ -30621,20 +26616,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Floor T Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/floor-t-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/floor-t-raise/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Floor T-raise",
-        "url": "https://weighttraining.guide/exercises/floor-t-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/floor-t-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Floor Y Raise",
@@ -30653,13 +26642,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Floor Y Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/floor-y-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/floor-y-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Incline I Raise",
@@ -30680,13 +26665,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Incline I Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/incline-i-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/incline-i-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Incline L Raise",
@@ -30707,13 +26688,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Incline L Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/incline-l-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/incline-l-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Incline T Raise",
@@ -30734,13 +26711,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Incline T Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/incline-t-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/incline-t-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Incline W Raise",
@@ -30761,13 +26734,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Incline W Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/incline-w-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/incline-w-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Incline Y Raise",
@@ -30788,13 +26757,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Incline Y Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/incline-y-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/incline-y-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Lying External Rotation",
@@ -30811,13 +26776,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Lying External Rotation",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/lying-external-rotation/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/lying-external-rotation/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Lying Internal Rotation",
@@ -30830,9 +26791,7 @@ window.GARMIN_EXERCISES = [
     ],
     "secondaryMuscles": [],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Seated Dumbbell External Rotation",
@@ -30852,13 +26811,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Seated Dumbbell External Rotation",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/seated-dumbbell-external-rotation/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/seated-dumbbell-external-rotation/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Seated Dumbbell Internal Rotation",
@@ -30874,9 +26829,7 @@ window.GARMIN_EXERCISES = [
       "Bench",
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Shoulder Stability",
@@ -30889,9 +26842,7 @@ window.GARMIN_EXERCISES = [
     ],
     "secondaryMuscles": [],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Standing L Raise",
@@ -30910,13 +26861,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Standing L Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/standing-l-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/standing-l-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Swiss Ball I Raise",
@@ -30937,13 +26884,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Swiss Ball I Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/swiss-ball-i-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/swiss-ball-i-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Swiss Ball T Raise",
@@ -30964,13 +26907,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Swiss Ball T Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/swiss-ball-t-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/swiss-ball-t-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Swiss Ball W Raise",
@@ -30991,13 +26930,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Swiss Ball W Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/swiss-ball-w-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/swiss-ball-w-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Swiss Ball Y Raise",
@@ -31018,13 +26953,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Swiss Ball Y Raise",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/swiss-ball-y-raise/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/swiss-ball-y-raise/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Weighted Floor I Raise",
@@ -31041,9 +26972,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Floor T Raise",
@@ -31060,9 +26989,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Floor Y Raise",
@@ -31079,9 +27006,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Incline I Raise",
@@ -31099,9 +27024,7 @@ window.GARMIN_EXERCISES = [
       "Bench",
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Incline L Raise",
@@ -31119,9 +27042,7 @@ window.GARMIN_EXERCISES = [
       "Bench",
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Incline T Raise",
@@ -31139,9 +27060,7 @@ window.GARMIN_EXERCISES = [
       "Bench",
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Incline W Raise",
@@ -31159,9 +27078,7 @@ window.GARMIN_EXERCISES = [
       "Bench",
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Incline Y Raise",
@@ -31179,9 +27096,7 @@ window.GARMIN_EXERCISES = [
       "Bench",
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Swiss Ball I Raise",
@@ -31199,9 +27114,7 @@ window.GARMIN_EXERCISES = [
       "Dumbbell",
       "Swiss Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Swiss Ball T Raise",
@@ -31219,9 +27132,7 @@ window.GARMIN_EXERCISES = [
       "Dumbbell",
       "Swiss Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Swiss Ball W Raise",
@@ -31239,9 +27150,7 @@ window.GARMIN_EXERCISES = [
       "Dumbbell",
       "Swiss Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Swiss Ball Y Raise",
@@ -31259,9 +27168,7 @@ window.GARMIN_EXERCISES = [
       "Dumbbell",
       "Swiss Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "90-degree Cable External Rotation",
@@ -31280,20 +27187,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "90-Degree Cable External Rotation",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/90-degree-cable-external-rotation/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/90-degree-cable-external-rotation/"
       },
       {
         "source": "FitnessProgramer",
         "name": "90-Degree Cable External Rotation",
-        "url": "https://fitnessprogramer.com/exercise/90-degree-cable-external-rotation/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/90-degree-cable-external-rotation/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Barbell Jump Shrug",
@@ -31318,13 +27219,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Jump Shrug",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-jump-shrug/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-jump-shrug/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Barbell Shrug",
@@ -31345,34 +27242,24 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Barbell Shrug",
-        "url": "https://www.muscleandstrength.com/exercises/barbell-shrug.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/barbell-shrug.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Shrug",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/barbell-shrug/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/barbell-shrug/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Barbell Shrug",
-        "url": "https://fitnessprogramer.com/exercise/barbell-shrug/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/barbell-shrug/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Barbell shrug",
-        "url": "https://weighttraining.guide/exercises/barbell-shrug/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/barbell-shrug/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connectvideo.garmin.com/msn-workout/Strength/S_315-A4.jpg"
   },
   {
@@ -31396,27 +27283,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Barbell Upright Row",
-        "url": "https://www.muscleandstrength.com/exercises/upright-row.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/upright-row.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Upright Row",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/barbell-upright-row/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/barbell-upright-row/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Barbell Upright Row",
-        "url": "https://fitnessprogramer.com/exercise/barbell-upright-row/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/barbell-upright-row/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/BARBELL_UPRIGHT_ROW/heroImage_BBtO7rP.jpg"
   },
   {
@@ -31438,20 +27317,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Behind-The-Back Barbell Shrug",
-        "url": "https://www.muscleandstrength.com/exercises/behind-the-back-barbell-shrug.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/behind-the-back-barbell-shrug.html"
       },
       {
         "source": "FitnessProgramer",
         "name": "Behind The Back Barbell Shrug",
-        "url": "https://fitnessprogramer.com/exercise/behind-the-back-barbell-shrug/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/behind-the-back-barbell-shrug/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Behind-the-Back Smith Machine Shrug",
@@ -31472,13 +27345,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Behind-the-Back Smith Machine Shrug",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/behind-back-smith-machine-shrug/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/behind-back-smith-machine-shrug/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dumbbell Jump Shrug",
@@ -31503,13 +27372,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Jump Shrug",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-jump-shrug/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-jump-shrug/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dumbbell Shrug",
@@ -31530,34 +27395,24 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Dumbbell Shrug",
-        "url": "https://www.muscleandstrength.com/exercises/dumbbell-shrugs.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/dumbbell-shrugs.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Shrug",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/dumbbell-shrug/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/dumbbell-shrug/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Dumbbell Shrug",
-        "url": "https://fitnessprogramer.com/exercise/dumbbell-shrug/",
-        "hasImage": true,
-        "hasVideo": false
+        "url": "https://fitnessprogramer.com/exercise/dumbbell-shrug/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Dumbbell shrug",
-        "url": "https://weighttraining.guide/exercises/dumbbell-shrug/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/dumbbell-shrug/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dumbbell Shrug",
@@ -31578,34 +27433,24 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Dumbbell Shrug",
-        "url": "https://www.muscleandstrength.com/exercises/dumbbell-shrugs.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/dumbbell-shrugs.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Shrug",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/dumbbell-shrug/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/dumbbell-shrug/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Dumbbell Shrug",
-        "url": "https://fitnessprogramer.com/exercise/dumbbell-shrug/",
-        "hasImage": true,
-        "hasVideo": false
+        "url": "https://fitnessprogramer.com/exercise/dumbbell-shrug/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Dumbbell shrug",
-        "url": "https://weighttraining.guide/exercises/dumbbell-shrug/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/dumbbell-shrug/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dumbbell Upright Row",
@@ -31628,27 +27473,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Dumbbell Upright Row",
-        "url": "https://www.muscleandstrength.com/exercises/dumbbell-upright-row.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/dumbbell-upright-row.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Upright Row",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/dumbbell-upright-row/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/dumbbell-upright-row/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Dumbbell Upright Row",
-        "url": "https://fitnessprogramer.com/exercise/dumbbell-upright-row/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/dumbbell-upright-row/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Incline Dumbbell Shrug",
@@ -31670,20 +27507,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Incline Dumbbell Shrug",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/incline-dumbbell-shrug/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/incline-dumbbell-shrug/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Dumbbell Incline Shrug",
-        "url": "https://fitnessprogramer.com/exercise/dumbbell-incline-shrug/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/dumbbell-incline-shrug/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Overhead Barbell Shrug",
@@ -31703,27 +27534,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Overhead Barbell Shrug",
-        "url": "https://www.muscleandstrength.com/exercises/overhead-barbell-shrug",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/overhead-barbell-shrug"
       },
       {
         "source": "FitnessProgramer",
         "name": "Overhead Shrug",
-        "url": "https://fitnessprogramer.com/exercise/overhead-shrug/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/overhead-shrug/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Barbell overhead shrug",
-        "url": "https://weighttraining.guide/exercises/barbell-overhead-shrug/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/barbell-overhead-shrug/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Overhead Dumbbell Shrug",
@@ -31743,13 +27566,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Overhead Dumbbell Shrug",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/overhead-dumbbell-shrug/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/overhead-dumbbell-shrug/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Scaption and Shrug",
@@ -31769,13 +27588,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Scaption and Shrug",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/scaption-and-shrug/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/scaption-and-shrug/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Scapular Retraction",
@@ -31798,13 +27613,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Scapular Retraction",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/scapular-retraction/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/scapular-retraction/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Serratus Chair Shrug",
@@ -31827,13 +27638,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Serratus Chair Shrug",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/serratus-chair-shrug/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/serratus-chair-shrug/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Serratus Shrug",
@@ -31856,13 +27663,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Serratus Shrug",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/serratus-shrug/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/serratus-shrug/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Shrug",
@@ -31877,9 +27680,7 @@ window.GARMIN_EXERCISES = [
       "SHOULDERS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Upright Row",
@@ -31896,9 +27697,7 @@ window.GARMIN_EXERCISES = [
       "TRAPS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Serratus Chair Shrug",
@@ -31918,9 +27717,7 @@ window.GARMIN_EXERCISES = [
       "Bench",
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Serratus Shrug",
@@ -31940,9 +27737,7 @@ window.GARMIN_EXERCISES = [
       "Machine",
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Wide-grip Barbell Shrug",
@@ -31963,13 +27758,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Wide-Grip Barbell Shrug",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/wide-grip-barbell-shrug/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/wide-grip-barbell-shrug/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Wide-grip Jump Shrug",
@@ -31994,13 +27785,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Wide-Grip Jump Shrug",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/wide-grip-jump-shrug/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/wide-grip-jump-shrug/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Alternating Sit-up",
@@ -32020,13 +27807,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Alternating Situp",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/alternating-situp/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/alternating-situp/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Bent-knee V-up",
@@ -32046,13 +27829,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Bent-Knee V-Up",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/bent-knee-v/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/bent-knee-v/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Butterfly Sit-up",
@@ -32071,13 +27850,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "FitnessProgramer",
         "name": "Butterfly Sit-up",
-        "url": "https://fitnessprogramer.com/exercise/butterfly-sit-up/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/butterfly-sit-up/"
       }
-    ],
-    "hasExternalImage": false,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Crossed-arms Sit-up",
@@ -32096,13 +27871,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Crossed-arms Situp",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/crossed-arms-situp/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/crossed-arms-situp/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Cross Punch Roll-up",
@@ -32123,13 +27894,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Cross Punch Rollup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/cross-punch-rollup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/cross-punch-rollup/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Get-up Sit-up",
@@ -32152,13 +27919,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Get Up Situp",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/get-situp/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/get-situp/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/GET_UP_SIT_UP/heroImage_BBtOlb7.jpg"
   },
   {
@@ -32177,9 +27940,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Machine"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Hovering Sit-up",
@@ -32198,13 +27959,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Hovering Situp",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/hovering-situp/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/hovering-situp/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Kettlebell Sit-up",
@@ -32225,13 +27982,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Kettlebell Situp",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/kettlebell-situp/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/kettlebell-situp/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Medicine Ball Alternating V-up",
@@ -32253,13 +28006,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Medicine Ball Alternating V-Up",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/medicine-ball-alternating-v/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/medicine-ball-alternating-v/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Medicine Ball Sit-up",
@@ -32280,13 +28029,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Medicine Ball Situp",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/medicine-ball-situp/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/medicine-ball-situp/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Medicine Ball V-up",
@@ -32308,13 +28053,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Medicine Ball V-Up",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/medicine-ball-v/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/medicine-ball-v/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Modified Sit-up",
@@ -32329,9 +28070,7 @@ window.GARMIN_EXERCISES = [
       "HIPS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Negative Sit-up",
@@ -32352,13 +28091,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Negative Situp",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/negative-situp/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/negative-situp/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "One-arm Full Sit-up",
@@ -32381,13 +28116,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "One-Arm Full Situp",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/one-arm-full-situp/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/one-arm-full-situp/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Reclining Circle",
@@ -32407,13 +28138,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Reclining Circle",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/reclining-circle/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/reclining-circle/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Reverse Curl-up",
@@ -32432,13 +28159,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Reverse Curl-Up",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/reverse-curl/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/reverse-curl/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Russian Twist on Swiss Ball",
@@ -32456,9 +28179,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Swiss Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Single-leg Swiss Ball Jackknife",
@@ -32480,13 +28201,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Leg Swiss Ball Jackknife",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/single-leg-swiss-ball-jackknife/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/single-leg-swiss-ball-jackknife/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Sit-up",
@@ -32505,20 +28222,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Sit Up",
-        "url": "https://www.muscleandstrength.com/exercises/sit-up.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/sit-up.html"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Sit-up",
-        "url": "https://weighttraining.guide/exercises/sit-up/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/sit-up/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/SIT_UP/heroImage_BBtOaeE.jpg"
   },
   {
@@ -32540,9 +28251,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "The Teaser",
@@ -32562,13 +28271,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "The Teaser",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/teaser/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/teaser/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "The Teaser, Weighted",
@@ -32586,9 +28291,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Medicine Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Three-part Roll-down",
@@ -32605,9 +28308,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Bench"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "V-up",
@@ -32627,20 +28328,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "V-Up",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/v/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/v/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "V-up",
-        "url": "https://weighttraining.guide/exercises/v-up/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/v-up/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/V_UP/heroImage_BBtOlc9.jpg"
   },
   {
@@ -32659,9 +28354,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Medicine Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Bent-knee V-up",
@@ -32679,9 +28372,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Medicine Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Butterfly Sit-up",
@@ -32698,9 +28389,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Medicine Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Crossed-arms Sit-up",
@@ -32717,9 +28406,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Cross Punch Roll-up",
@@ -32738,9 +28425,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Get-up Sit-up",
@@ -32761,9 +28446,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Medicine Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Hovering Sit-up",
@@ -32780,9 +28463,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Medicine Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Reclining Circle",
@@ -32800,9 +28481,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Reverse Curl-up",
@@ -32819,9 +28498,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Ankle Weight"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Russian Twist on Swiss Ball",
@@ -32840,9 +28517,7 @@ window.GARMIN_EXERCISES = [
       "Medicine Ball",
       "Swiss Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Single-leg Swiss Ball Jackknife",
@@ -32861,9 +28536,7 @@ window.GARMIN_EXERCISES = [
       "Plate",
       "Swiss Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Sit-up",
@@ -32884,13 +28557,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Weighted Situp",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/weighted-situp/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/weighted-situp/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Weighted Three-part Roll-down",
@@ -32908,9 +28577,7 @@ window.GARMIN_EXERCISES = [
       "Bench",
       "Medicine Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted V-up",
@@ -32928,9 +28595,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Medicine Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted X Abs",
@@ -32949,9 +28614,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "X Abs",
@@ -32972,13 +28635,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "X Abs",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/x-abs/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/x-abs/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Sled Backward Drag",
@@ -32998,9 +28657,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Sled"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Sled Chest Press",
@@ -33019,9 +28676,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Sled"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Sled Forward Drag",
@@ -33042,9 +28697,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Sled"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Sled Low Push",
@@ -33067,9 +28720,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Sled"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Sled Push",
@@ -33096,13 +28747,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Sled Push",
-        "url": "https://www.muscleandstrength.com/exercises/sled-push",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/sled-push"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Sled Row",
@@ -33122,9 +28769,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Sled"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Sledge Hammer Slam",
@@ -33148,9 +28793,7 @@ window.GARMIN_EXERCISES = [
       "TRICEPS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Sledge Hammer Lateral Swing",
@@ -33173,9 +28816,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Other"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Sledge Hammer",
@@ -33195,9 +28836,7 @@ window.GARMIN_EXERCISES = [
       "TRICEPS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Air Squat",
@@ -33213,9 +28852,7 @@ window.GARMIN_EXERCISES = [
       "HAMSTRINGS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Alternating Box Dumbbell Step-ups",
@@ -33236,9 +28873,7 @@ window.GARMIN_EXERCISES = [
       "Box",
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Back Squats",
@@ -33256,9 +28891,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Barbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Back Squat with Body Bar",
@@ -33277,8 +28910,6 @@ window.GARMIN_EXERCISES = [
       "Other"
     ],
     "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false,
     "image": "https://connect.garmin.com/images/exercises/images/BACK_SQUAT_WITH_BODY_BAR/heroImage_BBtO4Vp.jpg"
   },
   {
@@ -33302,13 +28933,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Balancing Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/balancing-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/balancing-squat/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Barbell Back Squat",
@@ -33330,20 +28957,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Barbell Back Squat",
-        "url": "https://www.muscleandstrength.com/exercises/squat.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/squat.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Back Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/back-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/back-squat/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/BARBELL_BACK_SQUAT/heroImage_BBtOkZ1.jpg"
   },
   {
@@ -33367,20 +28988,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Barbell Box Squat",
-        "url": "https://www.muscleandstrength.com/exercises/squat-to-bench.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/squat-to-bench.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Box Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-box-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-box-squat/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Barbell Front Squat",
@@ -33403,34 +29018,24 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Front Squat",
-        "url": "https://www.muscleandstrength.com/exercises/front-squat.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/front-squat.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Front Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-front-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-front-squat/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Barbell Front Squat",
-        "url": "https://fitnessprogramer.com/exercise/front-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/front-squat/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Barbell front squat",
-        "url": "https://weighttraining.guide/exercises/barbell-front-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/barbell-front-squat/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/BARBELL_FRONT_SQUAT/heroImage_BBtOhnE.jpg"
   },
   {
@@ -33453,34 +29058,24 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Barbell Hack Squat",
-        "url": "https://www.muscleandstrength.com/exercises/barbell-hack-squat.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/barbell-hack-squat.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Hack Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-hack-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-hack-squat/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Barbell Hack Squat",
-        "url": "https://fitnessprogramer.com/exercise/barbell-hack-squats/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/barbell-hack-squats/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Barbell hack squat",
-        "url": "https://weighttraining.guide/exercises/barbell-hack-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/barbell-hack-squat/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Barbell Half Squat",
@@ -33505,13 +29100,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Barbell Half Squat",
-        "url": "https://www.muscleandstrength.com/exercises/half-squat.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/half-squat.html"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Barbell Hang Squat Snatch",
@@ -33536,9 +29127,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Barbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Barbell Lateral Step-up",
@@ -33563,13 +29152,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Lateral Step-Up",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-lateral-step/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-lateral-step/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Barbell Quarter Squat",
@@ -33591,20 +29176,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Barbell Quarter Squat",
-        "url": "https://www.muscleandstrength.com/exercises/1-4-squat.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/1-4-squat.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Quarter Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-quarter-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-quarter-squat/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Barbell Siff Squat",
@@ -33626,13 +29205,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Siff Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-siff-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-siff-squat/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Barbell Squat Snatch",
@@ -33657,9 +29232,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Barbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Barbell Squat with Heels Raised",
@@ -33682,13 +29255,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Squat with Heels Raised",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-squat-heels-raised/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-squat-heels-raised/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Barbell Step-over",
@@ -33713,13 +29282,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Stepover",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-stepover/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-stepover/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Barbell Step-up",
@@ -33743,27 +29308,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Barbell Step-Up",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-step/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/barbell-step/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Barbell Step-Up",
-        "url": "https://fitnessprogramer.com/exercise/barbell-step-up/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/barbell-step-up/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Barbell step-up",
-        "url": "https://weighttraining.guide/exercises/barbell-step-up/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/barbell-step-up/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/BARBELL_STEP_UP/heroImage_BBtOhc4.jpg"
   },
   {
@@ -33788,20 +29345,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Belt Squat",
-        "url": "https://www.muscleandstrength.com/exercises/weighted-squat.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/weighted-squat.html"
       },
       {
         "source": "FitnessProgramer",
         "name": "Belt Squat",
-        "url": "https://fitnessprogramer.com/exercise/belt-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/belt-squat/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Bench Squat with Rotational Chop",
@@ -33824,13 +29375,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Bench Squat with Rotational Chop",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/bench-squat-rotational-chop/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/bench-squat-rotational-chop/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Body-weight Wall Squat",
@@ -33850,13 +29397,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Bodyweight Wall Squat",
-        "url": "https://www.muscleandstrength.com/exercises/bodyweight-wall-squat.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/bodyweight-wall-squat.html"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Box Step Squat",
@@ -33880,13 +29423,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Box Step Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/box-step-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/box-step-squat/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Braced Squat",
@@ -33909,13 +29448,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Braced Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/braced-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/braced-squat/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Crossed-arm Barbell Front Squat",
@@ -33941,13 +29476,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Crossed-Arm Barbell Front Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/crossed-arm-barbell-front-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/crossed-arm-barbell-front-squat/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Crossover Dumbbell Step-up",
@@ -33971,13 +29502,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Crossover Dumbbell Step-Up",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/crossover-dumbbell-step/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/crossover-dumbbell-step/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/CROSSOVER_DUMBBELL_STEP_UP/heroImage_BBtOcwm.jpg"
   },
   {
@@ -34001,20 +29528,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Front Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-front-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-front-squat/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Dumbbell front squat",
-        "url": "https://weighttraining.guide/exercises/dumbbell-front-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/dumbbell-front-squat/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/DUMBBELL_FRONT_SQUAT/heroImage_BBtOcBd.jpg"
   },
   {
@@ -34037,9 +29558,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Dumbbell Split Squat",
@@ -34061,27 +29580,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Dumbbell Split Squat",
-        "url": "https://www.muscleandstrength.com/exercises/dumbbell-split-squat",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/dumbbell-split-squat"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Split Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-split-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-split-squat/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Dumbbell split squat",
-        "url": "https://weighttraining.guide/exercises/dumbbell-split-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/dumbbell-split-squat/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/DUMBBELL_SPLIT_SQUAT/heroImage_BBtOkZG.jpg"
   },
   {
@@ -34104,34 +29615,24 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Dumbbell Squat",
-        "url": "https://www.muscleandstrength.com/exercises/dumbbell-squat.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/dumbbell-squat.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-squat/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Dumbbell Squat",
-        "url": "https://fitnessprogramer.com/exercise/dumbbell-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/dumbbell-squat/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Dumbbell squat",
-        "url": "https://weighttraining.guide/exercises/dumbbell-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/dumbbell-squat/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/DUMBBELL_SQUAT/heroImage_BBtOl2X.jpg"
   },
   {
@@ -34156,9 +29657,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Dumbbell Squat Snatch",
@@ -34182,9 +29681,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Dumbbell Step-over",
@@ -34207,13 +29704,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Stepover",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-stepover/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-stepover/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dumbbell Step-up",
@@ -34238,34 +29731,24 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Dumbbell Step Up",
-        "url": "https://www.muscleandstrength.com/exercises/dumbbell-step-up.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/dumbbell-step-up.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Step-Up",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-step/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/dumbbell-step/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Dumbbell Step-Up",
-        "url": "https://fitnessprogramer.com/exercise/dumbbell-step-up/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/dumbbell-step-up/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Dumbbell step-up",
-        "url": "https://weighttraining.guide/exercises/dumbbell-step-up/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/dumbbell-step-up/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/DUMBBELL_STEP_UP/heroImage_BBtOiJm.jpg"
   },
   {
@@ -34293,9 +29776,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Elevated Single-leg Squat",
@@ -34317,13 +29798,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Elevated Single-Leg Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/elevated-single-leg-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/elevated-single-leg-squat/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Figure Four Squats",
@@ -34343,13 +29820,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Figure Four Squats",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/figure-four-squats/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/figure-four-squats/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Goblet Squat",
@@ -34372,13 +29845,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Goblet Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/goblet-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/goblet-squat/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connectvideo.garmin.com/msn-workout/Strength/S_192-A3.jpg"
   },
   {
@@ -34401,13 +29870,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Kettlebell Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/kettlebell-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/kettlebell-squat/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Kettlebell Swing Overhead",
@@ -34432,9 +29897,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Kettlebell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Kettlebell Swing with Flip to Squat",
@@ -34462,13 +29925,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Kettlebell Swing with Flip to Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/kettlebell-swing-flip-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/kettlebell-swing-flip-squat/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Lateral Dumbbell Step-up",
@@ -34493,20 +29952,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Lateral Dumbbell Step-Up",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/lateral-dumbbell-step/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/lateral-dumbbell-step/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Dumbbell Lateral Step Up",
-        "url": "https://fitnessprogramer.com/exercise/dumbbell-lateral-step-up/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/dumbbell-lateral-step-up/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Leg Press",
@@ -34528,20 +29981,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Leg Press",
-        "url": "https://www.muscleandstrength.com/exercises/45-degree-leg-press.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/45-degree-leg-press.html"
       },
       {
         "source": "FitnessProgramer",
         "name": "Leg Press",
-        "url": "https://fitnessprogramer.com/exercise/leg-press/",
-        "hasImage": true,
-        "hasVideo": false
+        "url": "https://fitnessprogramer.com/exercise/leg-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Medicine Ball Squat",
@@ -34560,9 +30007,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Medicine Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "One-legged Squat",
@@ -34583,13 +30028,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "One-Legged Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/one-legged-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/one-legged-squat/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Overhead Barbell Squat",
@@ -34615,27 +30056,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Overhead Squat",
-        "url": "https://www.muscleandstrength.com/exercises/overhead-squat.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/overhead-squat.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Overhead Barbell Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/overhead-barbell-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/overhead-barbell-squat/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Overhead Squat",
-        "url": "https://fitnessprogramer.com/exercise/overhead-squat/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/overhead-squat/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Overhead Dumbbell Squat",
@@ -34661,20 +30094,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Overhead Dumbbell Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/overhead-dumbbell-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/overhead-dumbbell-squat/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Dumbbell overhead squat",
-        "url": "https://weighttraining.guide/exercises/dumbbell-overhead-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/dumbbell-overhead-squat/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Overhead Squat",
@@ -34700,27 +30127,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Overhead Squat",
-        "url": "https://www.muscleandstrength.com/exercises/overhead-squat.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/overhead-squat.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Overhead Barbell Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/overhead-barbell-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/overhead-barbell-squat/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Overhead Squat",
-        "url": "https://fitnessprogramer.com/exercise/overhead-squat/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/overhead-squat/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Partial Single-leg Squat",
@@ -34740,13 +30159,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Partial Single-Leg Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/partial-single-leg-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/partial-single-leg-squat/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Pistol Squat",
@@ -34766,20 +30181,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Pistol Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/pistol-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/pistol-squat/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Pistol Squat",
-        "url": "https://fitnessprogramer.com/exercise/pistol-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/pistol-squat/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Plié Slides",
@@ -34796,9 +30205,7 @@ window.GARMIN_EXERCISES = [
       "HAMSTRINGS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Plié Squat",
@@ -34814,9 +30221,7 @@ window.GARMIN_EXERCISES = [
       "HAMSTRINGS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Prisoner Squat",
@@ -34836,20 +30241,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Prisoner Squat",
-        "url": "https://www.muscleandstrength.com/exercises/bodyweight-squat.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/bodyweight-squat.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Prisoner Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/prisoner-squat-2/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/prisoner-squat-2/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/PRISONER_SQUAT/heroImage_BBtOf60.jpg"
   },
   {
@@ -34869,8 +30268,6 @@ window.GARMIN_EXERCISES = [
       "Pack Weight"
     ],
     "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false,
     "image": "https://connectvideo.garmin.com/msn-workout/Strength/S_366-Cam1.jpg"
   },
   {
@@ -34891,8 +30288,6 @@ window.GARMIN_EXERCISES = [
       "Pack Weight"
     ],
     "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false,
     "image": "https://connectvideo.garmin.com/msn-workout/Strength/S_370-Cam1.jpg"
   },
   {
@@ -34916,8 +30311,6 @@ window.GARMIN_EXERCISES = [
       "Pack Weight"
     ],
     "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false,
     "image": "https://connectvideo.garmin.com/msn-workout/Strength/S_373-Cam1.jpg"
   },
   {
@@ -34941,9 +30334,7 @@ window.GARMIN_EXERCISES = [
       "Plate",
       "Squat Rack"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Single-leg Bench Get-up",
@@ -34965,13 +30356,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Leg Bench Getup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/single-leg-bench-getup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/single-leg-bench-getup/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Single-leg Bench Squat",
@@ -34993,13 +30380,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Leg Bench Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/single-leg-bench-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/single-leg-bench-squat/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Single-leg Squat on Swiss Ball",
@@ -35017,9 +30400,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Swiss Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Squat",
@@ -35036,8 +30417,6 @@ window.GARMIN_EXERCISES = [
     ],
     "equipment": [],
     "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false,
     "image": "https://connect.garmin.com/images/exercises/images/SQUAT/heroImage_BBtOa8W.jpg"
   },
   {
@@ -35060,13 +30439,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Squats with Band",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/squats-band/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/squats-band/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "American Swing",
@@ -35089,9 +30464,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Kettlebell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Squat and Side Kick",
@@ -35112,13 +30485,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Squat and Side Kick",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/squat-and-side-kick/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/squat-and-side-kick/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/SQUAT_AND_SIDE_KICK/heroImage_BBtOiCr.jpg"
   },
   {
@@ -35142,13 +30511,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Squat Jumps In ‘n’ Out",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/squat-jumps-n-out/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/squat-jumps-n-out/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/SQUAT_JUMPS_IN_N_OUT/heroImage_BBtOa9B.jpg"
   },
   {
@@ -35165,9 +30530,7 @@ window.GARMIN_EXERCISES = [
       "HAMSTRINGS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Step-up",
@@ -35191,20 +30554,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Stepup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/stepup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/stepup/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Step-up",
-        "url": "https://weighttraining.guide/exercises/step-up/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/step-up/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Suitcase Squats",
@@ -35226,13 +30583,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Suitcase Squats",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/suitcase-squats/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/suitcase-squats/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Sumo Squat",
@@ -35253,13 +30606,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Sumo Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/sumo-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/sumo-squat/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Sumo Squat Slide-in",
@@ -35282,13 +30631,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Sumo Squat Slide-In",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/sumo-squat-slide/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/sumo-squat-slide/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Sumo Squat to High Pull",
@@ -35310,9 +30655,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Sumo Squat to Stand",
@@ -35333,13 +30676,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Sumo Squat to Stand",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/sumo-squat-stand/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/sumo-squat-stand/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Sumo Squat with Rotation",
@@ -35361,13 +30700,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Sumo Squat with Rotation",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/sumo-squat-rotation/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/sumo-squat-rotation/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Swiss Ball Body-weight Wall Squat",
@@ -35389,13 +30724,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Swiss Ball Bodyweight Wall Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/swiss-ball-bodyweight-wall-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/swiss-ball-bodyweight-wall-squat/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Thrusters",
@@ -35422,9 +30753,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Barbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Uneven Squat",
@@ -35440,9 +30769,7 @@ window.GARMIN_EXERCISES = [
       "HAMSTRINGS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Waist-slimming Squat",
@@ -35459,9 +30786,7 @@ window.GARMIN_EXERCISES = [
       "ABS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Wall Ball",
@@ -35488,27 +30813,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Wall Ball",
-        "url": "https://www.muscleandstrength.com/exercises/wall-ball",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/wall-ball"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Wall Ball",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/wall-ball/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/wall-ball/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Wall Ball",
-        "url": "https://fitnessprogramer.com/exercise/wall-ball/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/wall-ball/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Wall Ball Squat and Press",
@@ -35528,9 +30845,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Medicine Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Back Squats",
@@ -35548,9 +30863,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Barbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Balancing Squat",
@@ -35569,9 +30882,7 @@ window.GARMIN_EXERCISES = [
       "Bosu Ball",
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Bench Squat with Rotational Chop",
@@ -35591,9 +30902,7 @@ window.GARMIN_EXERCISES = [
       "Bench",
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Box Step Squat",
@@ -35614,9 +30923,7 @@ window.GARMIN_EXERCISES = [
       "Box",
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Elevated Single-leg Squat",
@@ -35635,9 +30942,7 @@ window.GARMIN_EXERCISES = [
       "Box",
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Figure Four Squats",
@@ -35655,9 +30960,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Partial Single-leg Squat",
@@ -35675,9 +30978,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Pistol Squat",
@@ -35695,9 +30996,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Plié Slides",
@@ -35716,9 +31015,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Plié Squat",
@@ -35737,9 +31034,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Prisoner Squat",
@@ -35757,9 +31052,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Single-leg Bench Get-up",
@@ -35778,9 +31071,7 @@ window.GARMIN_EXERCISES = [
       "Bench",
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Single-leg Bench Squat",
@@ -35799,9 +31090,7 @@ window.GARMIN_EXERCISES = [
       "Bench",
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Single-leg Squat on Swiss Ball",
@@ -35820,9 +31109,7 @@ window.GARMIN_EXERCISES = [
       "Plate",
       "Swiss Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Squat",
@@ -35840,9 +31127,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Staggered Squat",
@@ -35860,9 +31145,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Step-up",
@@ -35883,9 +31166,7 @@ window.GARMIN_EXERCISES = [
       "Box",
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Sumo Squat Slide-in",
@@ -35905,9 +31186,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Sumo Squat to Stand",
@@ -35925,9 +31204,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Sumo Squat with Rotation",
@@ -35947,9 +31224,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Swiss Ball Wall Squat",
@@ -35968,9 +31243,7 @@ window.GARMIN_EXERCISES = [
       "Plate",
       "Swiss Ball"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Uneven Squat",
@@ -35988,9 +31261,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Wall Squat",
@@ -36008,9 +31279,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Wide-stance Barbell Squat",
@@ -36032,20 +31301,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Barbell Wide Stance Squat",
-        "url": "https://www.muscleandstrength.com/exercises/wide-squat.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/wide-squat.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Wide-Stance Barbell Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/wide-stance-barbell-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/wide-stance-barbell-squat/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Wide-stance Goblet Squat",
@@ -36068,13 +31331,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Wide-Stance Goblet Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/wide-stance-goblet-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/wide-stance-goblet-squat/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/WIDE_STANCE_GOBLET_SQUAT/heroImage_BBtO4Vo.jpg"
   },
   {
@@ -36101,27 +31360,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Zercher Squat",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/zercher-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/zercher-squat/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Zercher Squat",
-        "url": "https://fitnessprogramer.com/exercise/zercher-squat/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/zercher-squat/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Zercher squat",
-        "url": "https://weighttraining.guide/exercises/zercher-squat/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/zercher-squat/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Stair Stepper",
@@ -36141,9 +31392,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Machine"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Suspension Chest Fly",
@@ -36161,9 +31410,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Suspension Chest Press",
@@ -36183,9 +31430,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Suspension Crunch",
@@ -36204,9 +31449,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Suspension Curl",
@@ -36225,9 +31468,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Suspension Dip",
@@ -36245,9 +31486,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Suspension Face Pull",
@@ -36266,9 +31505,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Suspension Glute Bridge",
@@ -36285,9 +31522,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Suspension Hamstring Curl",
@@ -36305,9 +31540,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Suspension Hip Drop",
@@ -36325,9 +31558,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Suspension Knee Drive Jump",
@@ -36346,9 +31577,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Suspension Knee-to-Chest",
@@ -36365,9 +31594,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Suspension Lat Pull-over",
@@ -36387,9 +31614,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Suspension Lunge",
@@ -36407,9 +31632,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Suspension Mountain Climber",
@@ -36428,9 +31651,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Suspension Pendulum",
@@ -36449,9 +31670,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Suspension Pike",
@@ -36470,9 +31689,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Suspension Plank",
@@ -36489,9 +31706,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Suspension Power Pull",
@@ -36511,9 +31726,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Suspension Pull-up",
@@ -36533,9 +31746,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Suspension Push-up",
@@ -36555,9 +31766,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Suspension Reverse Mountain Climber",
@@ -36576,9 +31785,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Suspension Reverse Plank",
@@ -36598,9 +31805,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Suspension Roll-out",
@@ -36620,9 +31825,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Suspension Row",
@@ -36641,9 +31844,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Suspension Side Lunge",
@@ -36663,9 +31864,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Suspension Side Plank",
@@ -36683,9 +31882,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Suspension Single-leg Deadlift",
@@ -36708,9 +31905,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Suspension Single-leg Squat",
@@ -36728,9 +31923,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Suspension Sit-up",
@@ -36745,9 +31938,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Suspension Squat",
@@ -36765,9 +31956,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Suspension Squat Jump",
@@ -36787,9 +31976,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Suspension Tricep Press",
@@ -36808,9 +31995,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Suspension Y Fly",
@@ -36826,9 +32011,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Tire Flip",
@@ -36859,20 +32042,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Tire Flip",
-        "url": "https://www.muscleandstrength.com/exercises/tire-flip",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/tire-flip"
       },
       {
         "source": "FitnessProgramer",
         "name": "Tire Flip",
-        "url": "https://fitnessprogramer.com/exercise/tire-flip/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/tire-flip/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Tire",
@@ -36897,9 +32074,7 @@ window.GARMIN_EXERCISES = [
       "TRICEPS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Barbell Burpee",
@@ -36927,9 +32102,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Barbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Burpee",
@@ -36952,8 +32125,6 @@ window.GARMIN_EXERCISES = [
     ],
     "equipment": [],
     "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false,
     "image": "https://connect.garmin.com/images/exercises/images/BURPEE/heroImage_BBtOfh6.jpg"
   },
   {
@@ -36978,9 +32149,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Box"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Burpee Box Jump Over",
@@ -37004,9 +32173,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Box"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Burpee Box Jump Step-up Over",
@@ -37030,9 +32197,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Box"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "High Pull Burpee",
@@ -37058,9 +32223,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Barbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Lateral Barbell Burpee",
@@ -37085,9 +32248,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Barbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Man Makers",
@@ -37113,9 +32274,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Dumbbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "One-arm Burpee",
@@ -37141,13 +32300,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "One-Arm Burpee",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/one-arm-burpee/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/one-arm-burpee/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Squat, Plank, Push-up",
@@ -37172,13 +32327,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Squat, Plank, Pushup",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/squat-plank-pushup/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/squat-plank-pushup/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Squat Thrusts (Up-downs)",
@@ -37201,8 +32352,6 @@ window.GARMIN_EXERCISES = [
     ],
     "equipment": [],
     "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false,
     "image": "https://connect.garmin.com/images/exercises/images/SQUAT_THRUSTS/heroImage_BBtOf8v.jpg"
   },
   {
@@ -37223,13 +32372,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Standing T-Rotation Balance",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/standing-t-rotation-balance/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/standing-t-rotation-balance/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Total Body Burpee Over Bar",
@@ -37253,9 +32398,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Barbell"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Burpee",
@@ -37279,9 +32422,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Burpee Box Jump",
@@ -37306,9 +32447,7 @@ window.GARMIN_EXERCISES = [
       "Box",
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Squat, Plank, Push-up",
@@ -37331,9 +32470,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Squat Thrusts (Up-downs)",
@@ -37357,9 +32494,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Standing T-rotation Balance",
@@ -37377,9 +32512,7 @@ window.GARMIN_EXERCISES = [
     "equipment": [
       "Weight Vest"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Alternating Dumbbell Lying Triceps Extension",
@@ -37398,27 +32531,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Alternating Dumbbell Lying Triceps Extension",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/alternating-dumbbell-lying-triceps-extension/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/alternating-dumbbell-lying-triceps-extension/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Alternating Lying Dumbbell Triceps Extension",
-        "url": "https://fitnessprogramer.com/exercise/alternating-lying-dumbbell-triceps-extension/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/alternating-lying-dumbbell-triceps-extension/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Lying alternating dumbbell triceps extension",
-        "url": "https://weighttraining.guide/exercises/lying-alternating-dumbbell-triceps-extension/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/lying-alternating-dumbbell-triceps-extension/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/ALTERNATING_DUMBBELL_LYING_TRICEPS_EXTENSION/heroImage_BBtOa9S.jpg"
   },
   {
@@ -37440,27 +32565,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Bench Dip",
-        "url": "https://www.muscleandstrength.com/exercises/tricep-bench-dip.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/tricep-bench-dip.html"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Bench Dip",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/bench-dip/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/bench-dip/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Bench dip",
-        "url": "https://weighttraining.guide/exercises/bench-dip/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/bench-dip/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Body-weight Dip",
@@ -37482,13 +32599,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Bodyweight Dip",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/bodyweight-dip/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/bodyweight-dip/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Cable Tricep Kick-back",
@@ -37507,20 +32620,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Cable Tricep Kickback",
-        "url": "https://www.muscleandstrength.com/exercises/cable-tricep-kickback.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/cable-tricep-kickback.html"
       },
       {
         "source": "FitnessProgramer",
         "name": "Cable Tricep Kickback",
-        "url": "https://fitnessprogramer.com/exercise/cable-tricep-kickback/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/cable-tricep-kickback/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Cable Lying Triceps Extension",
@@ -37540,20 +32647,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Cable Lying Triceps Extension",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/cable-lying-triceps-extension/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/cable-lying-triceps-extension/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Cable Lying Triceps Extension",
-        "url": "https://fitnessprogramer.com/exercise/cable-lying-triceps-extension/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/cable-lying-triceps-extension/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/CABLE_LYING_TRICEPS_EXTENSION/heroImage_BBtOf9U.jpg"
   },
   {
@@ -37573,13 +32674,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Cable Overhead Triceps Extension",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/cable-overhead-triceps-extension/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/cable-overhead-triceps-extension/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Dumbbell Kick-back",
@@ -37598,27 +32695,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Kickback",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/dumbbell-kickback/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/dumbbell-kickback/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Dumbbell Kickback",
-        "url": "https://fitnessprogramer.com/exercise/dumbbell-kickback/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/dumbbell-kickback/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Dumbbell kickback",
-        "url": "https://weighttraining.guide/exercises/triceps-dumbbell-kickback/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/triceps-dumbbell-kickback/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/DUMBBELL_KICKBACK/heroImage_BBtOiIN.jpg"
   },
   {
@@ -37639,13 +32728,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Dumbbell Lying Triceps Extension",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/dumbbell-lying-triceps-extension/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/dumbbell-lying-triceps-extension/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/DUMBBELL_LYING_TRICEPS_EXTENSION/heroImage_BBtOf1K.jpg"
   },
   {
@@ -37665,13 +32750,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "EZ-Bar Overhead Triceps Extension",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/ez-bar-overhead-triceps-extension/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/ez-bar-overhead-triceps-extension/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/EZ_BAR_OVERHEAD_TRICEPS_EXTENSION/heroImage_BBtOfac.jpg"
   },
   {
@@ -37694,13 +32775,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Incline Dip",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/incline-dip/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/incline-dip/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/INCLINE_DIP/heroImage_BBtO7vG.jpg"
   },
   {
@@ -37721,13 +32798,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Incline EZ-Bar Lying Triceps Extension",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/incline-ez-bar-lying-triceps-extension/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/incline-ez-bar-lying-triceps-extension/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Lying Dumbbell Pull-over to Extension",
@@ -37749,13 +32822,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Lying Dumbbell Pullover to Extension",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/lying-dumbbell-pullover-extension/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/lying-dumbbell-pullover-extension/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Lying EZ-Bar Triceps Extension",
@@ -37777,13 +32846,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Lying EZ-Bar Triceps Extension",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/lying-ez-bar-triceps-extension/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/lying-ez-bar-triceps-extension/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Lying Triceps Extension to Close-grip Bench Press",
@@ -37802,9 +32867,7 @@ window.GARMIN_EXERCISES = [
       "Barbell",
       "Bench"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Overhead Dumbbell Triceps Extension",
@@ -37823,13 +32886,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Overhead Dumbbell Triceps Extension",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/overhead-dumbbell-triceps-extension/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/overhead-dumbbell-triceps-extension/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Reclining Triceps Press",
@@ -37851,13 +32910,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Reclining Triceps Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/reclining-triceps-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/reclining-triceps-press/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Reverse-grip Press-down",
@@ -37876,13 +32931,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Reverse-Grip Pressdown",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/reverse-grip-pressdown/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/reverse-grip-pressdown/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/REVERSE_GRIP_PRESSDOWN/heroImage_BBtOf4X.jpg"
   },
   {
@@ -37902,13 +32953,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Reverse-Grip Triceps Pressdown",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/reverse-grip-triceps-pressdown/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/reverse-grip-triceps-pressdown/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Rope Press-down",
@@ -37929,13 +32976,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Rope Pressdown",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/rope-pressdown/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/rope-pressdown/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/ROPE_PRESSDOWN/heroImage_BBtOiGN.jpg"
   },
   {
@@ -37956,13 +32999,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Seated Barbell Overhead Triceps Extension",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/seated-barbell-overhead-triceps-extension/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/seated-barbell-overhead-triceps-extension/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Seated Dumbbell Overhead Triceps Extension",
@@ -37982,20 +33021,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Seated Dumbbell Overhead Triceps Extension",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/seated-dumbbell-overhead-triceps-extension/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/seated-dumbbell-overhead-triceps-extension/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Seated dumbbell overhead triceps extension",
-        "url": "https://weighttraining.guide/exercises/seated-dumbbell-overhead-triceps-extension/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/seated-dumbbell-overhead-triceps-extension/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Seated EZ-Bar Overhead Triceps Extension",
@@ -38015,20 +33048,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Seated EZ-Bar Overhead Triceps Extension",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/seated-ez-bar-overhead-triceps-extension/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/seated-ez-bar-overhead-triceps-extension/"
       },
       {
         "source": "WeightTraining.guide",
         "name": "Seated overhead EZ bar triceps extension",
-        "url": "https://weighttraining.guide/exercises/overhead-ez-bar-triceps-extension/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://weighttraining.guide/exercises/overhead-ez-bar-triceps-extension/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Seated Single-arm Overhead Dumbbell Extension",
@@ -38048,13 +33075,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Seated Single-Arm Overhead Dumbbell Extension",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/seated-single-arm-overhead-dumbbell-extension/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/seated-single-arm-overhead-dumbbell-extension/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/SEATED_SINGLE_ARM_OVERHEAD_DUMBBELL_EXTENSION/heroImage_BBtOf2q.jpg"
   },
   {
@@ -38075,13 +33098,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Arm Dumbbell Overhead Triceps Extension",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/single-arm-dumbbell-overhead-triceps-extension/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/single-arm-dumbbell-overhead-triceps-extension/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Single-dumbbell Seated Overhead Triceps Extension",
@@ -38101,13 +33120,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Dumbbell Seated Overhead Triceps Extension",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/single-dumbbell-seated-overhead-triceps-extension/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/single-dumbbell-seated-overhead-triceps-extension/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Single-leg Bench Dip and Kick",
@@ -38131,13 +33146,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Leg Bench Dip and Kick",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/single-leg-bench-dip-and-kick/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/single-leg-bench-dip-and-kick/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Single-leg Dip",
@@ -38161,13 +33172,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Single-Leg Dip",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/single-leg-dip/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/single-leg-dip/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/SINGLE_LEG_DIP/heroImage_BBtO7F5.jpg"
   },
   {
@@ -38188,13 +33195,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Static Lying Triceps Extension",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/static-lying-triceps-extension/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/static-lying-triceps-extension/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Suspended Dip",
@@ -38216,13 +33219,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Suspended Dip",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/suspended-dip/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/suspended-dip/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Swiss Ball Dumbbell Lying Triceps Extension",
@@ -38242,13 +33241,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Swiss Ball Dumbbell Lying Triceps Extension",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/swiss-ball-dumbbell-lying-triceps-extension/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/swiss-ball-dumbbell-lying-triceps-extension/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Swiss Ball EZ-Bar Lying Triceps Extension",
@@ -38268,13 +33263,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Swiss Ball EZ-Bar Lying Triceps Extension",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/swiss-ball-ez-bar-lying-triceps-extension/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/swiss-ball-ez-bar-lying-triceps-extension/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Swiss Ball EZ-Bar Overhead Triceps Extension",
@@ -38294,13 +33285,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Swiss Ball EZ-Bar Overhead Triceps Extension",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/swiss-ball-ez-bar-overhead-triceps-extension/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/swiss-ball-ez-bar-overhead-triceps-extension/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Tabletop Dip",
@@ -38321,13 +33308,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Tabletop Dip",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/tabletop-dip/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/tabletop-dip/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Triceps Extension on Floor",
@@ -38346,13 +33329,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Triceps Extension on Floor",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/triceps-extension-floor/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/triceps-extension-floor/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/TRICEPS_EXTENSION_ON_FLOOR/heroImage_BBtO4Yu.jpg"
   },
   {
@@ -38373,13 +33352,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Triceps Press",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/triceps-press/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/triceps-press/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/TRICEPS_PRESS/heroImage_BBtO58Z.jpg"
   },
   {
@@ -38399,13 +33374,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Triceps Pressdown",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/triceps-pressdown/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/triceps-pressdown/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/TRICEPS_PRESSDOWN/heroImage_BBtOcA5.jpg"
   },
   {
@@ -38428,13 +33399,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Weighted Bench Dip",
-        "url": "https://www.muscleandstrength.com/exercises/weighted-bench-dips.html",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/weighted-bench-dips.html"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Weighted Dip",
@@ -38457,13 +33424,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Weighted Dip",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/weighted-dip-2/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/chest-exercises/weighted-dip-2/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Weighted Incline Dip",
@@ -38482,9 +33445,7 @@ window.GARMIN_EXERCISES = [
       "Machine",
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Single-leg Bench Dip and Kick",
@@ -38505,9 +33466,7 @@ window.GARMIN_EXERCISES = [
       "Bench",
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Single-leg Dip",
@@ -38528,9 +33487,7 @@ window.GARMIN_EXERCISES = [
       "Bench",
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Suspended Dip",
@@ -38549,9 +33506,7 @@ window.GARMIN_EXERCISES = [
       "Plate",
       "Trx"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Weighted Tabletop Dip",
@@ -38569,9 +33524,7 @@ window.GARMIN_EXERCISES = [
       "Bench",
       "Plate"
     ],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Ankle Circles",
@@ -38586,13 +33539,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Ankle Circles",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/ankle-circles/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/ankle-circles/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Ankle Dorsiflexion with Band",
@@ -38607,13 +33556,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Ankle Dorsiflexion with Band",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/ankle-dorsiflexion-band/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/ankle-dorsiflexion-band/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Ankle Internal Rotation",
@@ -38628,13 +33573,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Ankle Internal Rotation",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/ankle-internal-rotation/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/ankle-internal-rotation/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Arm Circles",
@@ -38649,27 +33590,19 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Strength",
         "name": "Arm Circles",
-        "url": "https://www.muscleandstrength.com/exercises/arm-circles",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandstrength.com/exercises/arm-circles"
       },
       {
         "source": "Muscle & Fitness",
         "name": "Arm Circles",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/arm-circles/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/arm-circles/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Arm Circles",
-        "url": "https://fitnessprogramer.com/exercise/arm-circles/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/arm-circles/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connectvideo.garmin.com/msn-workout/Pilates/P_003-A3.jpg"
   },
   {
@@ -38685,13 +33618,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Bent Over Reach to Sky",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/bent-over-reach-sky/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/bent-over-reach-sky/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Biceps Stretch",
@@ -38706,13 +33635,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Biceps Stretch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/biceps-stretch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/arm-exercises/biceps-stretch/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connectvideo.garmin.com/msn-workout/Mobility/MA_024_CamA.jpg"
   },
   {
@@ -38728,13 +33653,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Cat Camel",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/cat-camel/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/cat-camel/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Elbow-to-Foot Lunge",
@@ -38749,13 +33670,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Elbow-to-Foot Lunge",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/elbow-foot-lunge/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/elbow-foot-lunge/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Forward and Backward Leg Swings",
@@ -38770,13 +33687,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Forward and Backward Leg Swings",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/forward-and-backward-leg-swings/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/forward-and-backward-leg-swings/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Glutes Stretch",
@@ -38791,13 +33704,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Glutes Stretch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/glutes-stretch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/glutes-stretch/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Groiners",
@@ -38812,13 +33721,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Groiners",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/groiners/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/groiners/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Inverted Hamstring Stretch",
@@ -38833,13 +33738,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Inverted Hamstring Stretch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/inverted-hamstring-stretch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/inverted-hamstring-stretch/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Lateral Duck Under",
@@ -38850,9 +33751,7 @@ window.GARMIN_EXERCISES = [
     "primaryMuscles": [],
     "secondaryMuscles": [],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Neck Rotations",
@@ -38864,8 +33763,6 @@ window.GARMIN_EXERCISES = [
     "secondaryMuscles": [],
     "equipment": [],
     "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false,
     "image": "https://connectvideo.garmin.com/msn-workout/Strength/S_304-A4.jpg"
   },
   {
@@ -38877,9 +33774,7 @@ window.GARMIN_EXERCISES = [
     "primaryMuscles": [],
     "secondaryMuscles": [],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Opposite Arm and Leg Balance",
@@ -38894,13 +33789,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Opposite Arm and Leg Balance",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/opposite-arm-and-leg-balance/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/opposite-arm-and-leg-balance/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connect.garmin.com/images/exercises/images/OPPOSITE_ARM_AND_LEG_BALANCE/heroImage_BBtOla7.jpg"
   },
   {
@@ -38916,13 +33807,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Quadruped Rocking",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/quadruped-rocking/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/quadruped-rocking/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Reach, Roll, and Lift",
@@ -38937,13 +33824,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Reach, Roll and Lift",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/reach-roll-and-lift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/reach-roll-and-lift/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Shoulder Circles",
@@ -38958,13 +33841,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Shoulder Circles",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/shoulder-circles/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/shoulder-circles/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Side-to-Side Leg Swings",
@@ -38975,9 +33854,7 @@ window.GARMIN_EXERCISES = [
     "primaryMuscles": [],
     "secondaryMuscles": [],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Sleeper Stretch",
@@ -38992,13 +33869,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Sleeper Stretch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/sleeper-stretch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/sleeper-stretch/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Slide Out",
@@ -39013,13 +33886,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Slide Out",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/slide-out/",
-        "hasImage": true,
-        "hasVideo": false
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/slide-out/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": false
+    ]
   },
   {
     "name": "Standing Hamstring Stretch",
@@ -39034,20 +33903,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Standing Hamstring Stretch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/standing-hamstring-stretch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/standing-hamstring-stretch/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Standing Hamstring Stretch",
-        "url": "https://fitnessprogramer.com/exercise/standing-hamstring-stretch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/standing-hamstring-stretch/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connectvideo.garmin.com/msn-workout/Strength/S_305-A4.jpg"
   },
   {
@@ -39066,13 +33929,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "90/90 Stretch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/9090-stretch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/9090-stretch/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Abs Stretch",
@@ -39085,9 +33944,7 @@ window.GARMIN_EXERCISES = [
     ],
     "secondaryMuscles": [],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Butterfly Stretch",
@@ -39107,13 +33964,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "FitnessProgramer",
         "name": "Butterfly Stretch",
-        "url": "https://fitnessprogramer.com/exercise/butterfly-stretch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/butterfly-stretch/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Calf Stretch",
@@ -39126,9 +33979,7 @@ window.GARMIN_EXERCISES = [
     ],
     "secondaryMuscles": [],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Cat Cow Stretch",
@@ -39142,9 +33993,7 @@ window.GARMIN_EXERCISES = [
     ],
     "secondaryMuscles": [],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Child's Pose Stretch",
@@ -39162,9 +34011,7 @@ window.GARMIN_EXERCISES = [
       "TRAPS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Cobra Stretch",
@@ -39178,9 +34025,7 @@ window.GARMIN_EXERCISES = [
     ],
     "secondaryMuscles": [],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Forearm Stretch",
@@ -39193,9 +34038,7 @@ window.GARMIN_EXERCISES = [
     ],
     "secondaryMuscles": [],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Forward Glutes Stretch",
@@ -39210,9 +34053,7 @@ window.GARMIN_EXERCISES = [
       "ABDUCTORS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Front Split Stretch",
@@ -39228,9 +34069,7 @@ window.GARMIN_EXERCISES = [
     ],
     "secondaryMuscles": [],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Hamstring Stretch",
@@ -39250,13 +34089,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Hamstring Stretch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/hamstring-stretch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/hamstring-stretch/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Hip Flexor and Quad Stretch",
@@ -39270,9 +34105,7 @@ window.GARMIN_EXERCISES = [
     ],
     "secondaryMuscles": [],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Lat Stretch",
@@ -39285,9 +34118,7 @@ window.GARMIN_EXERCISES = [
     ],
     "secondaryMuscles": [],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Levator Scapulae Stretch",
@@ -39298,9 +34129,7 @@ window.GARMIN_EXERCISES = [
     "primaryMuscles": [],
     "secondaryMuscles": [],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Lunge with Spinal Twist Stretch",
@@ -39316,9 +34145,7 @@ window.GARMIN_EXERCISES = [
       "LOWER_BACK"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Lunging Hip Flexor Stretch",
@@ -39334,9 +34161,7 @@ window.GARMIN_EXERCISES = [
       "QUADS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Stretch Lying Abduction",
@@ -39355,13 +34180,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Lying Abduction Stretch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/lying-abduction-stretch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/lying-abduction-stretch/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Lying IT Band Stretch",
@@ -39377,9 +34198,7 @@ window.GARMIN_EXERCISES = [
       "GLUTES"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Lying Knee-to-Chest Stretch",
@@ -39394,9 +34213,7 @@ window.GARMIN_EXERCISES = [
       "QUADS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Lying Piriformis Stretch",
@@ -39412,9 +34229,7 @@ window.GARMIN_EXERCISES = [
       "LOWER_BACK"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Lying Spinal Twist Stretch",
@@ -39429,9 +34244,7 @@ window.GARMIN_EXERCISES = [
     ],
     "secondaryMuscles": [],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Neck Stretch",
@@ -39442,9 +34255,7 @@ window.GARMIN_EXERCISES = [
     "primaryMuscles": [],
     "secondaryMuscles": [],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Obliques Stretch",
@@ -39457,9 +34268,7 @@ window.GARMIN_EXERCISES = [
     ],
     "secondaryMuscles": [],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Over-under Shoulder Stretch",
@@ -39476,13 +34285,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Over-Under Shoulder Stretch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/over-under-shoulder-stretch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/over-under-shoulder-stretch/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Pectoral Stretch",
@@ -39495,9 +34300,7 @@ window.GARMIN_EXERCISES = [
     ],
     "secondaryMuscles": [],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Pigeon Pose Stretch",
@@ -39512,9 +34315,7 @@ window.GARMIN_EXERCISES = [
     ],
     "secondaryMuscles": [],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Piriformis Stretch",
@@ -39534,13 +34335,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "FitnessProgramer",
         "name": "Piriformis Stretch",
-        "url": "https://fitnessprogramer.com/exercise/piriformis-stretch/",
-        "hasImage": false,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/piriformis-stretch/"
       }
-    ],
-    "hasExternalImage": false,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Quad Stretch",
@@ -39559,13 +34356,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Quad Stretch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/quad-stretch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/quad-stretch/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Scorpion Stretch",
@@ -39580,9 +34373,7 @@ window.GARMIN_EXERCISES = [
       "LOWER_BACK"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Shoulder Stretch",
@@ -39597,9 +34388,7 @@ window.GARMIN_EXERCISES = [
       "TRAPS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Side Stretch",
@@ -39614,9 +34403,7 @@ window.GARMIN_EXERCISES = [
       "LATS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Side Lunge Stretch",
@@ -39632,9 +34419,7 @@ window.GARMIN_EXERCISES = [
       "HAMSTRINGS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Side Split Stretch",
@@ -39649,9 +34434,7 @@ window.GARMIN_EXERCISES = [
       "HAMSTRINGS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Standing IT Band Stretch",
@@ -39671,13 +34454,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Standing IT Band Stretch",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/standing-it-band-stretch/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/leg-exercises/standing-it-band-stretch/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Straddle Stretch",
@@ -39692,9 +34471,7 @@ window.GARMIN_EXERCISES = [
       "HAMSTRINGS"
     ],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Triceps Stretch",
@@ -39707,9 +34484,7 @@ window.GARMIN_EXERCISES = [
     ],
     "secondaryMuscles": [],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Wall Chest and Shoulder Stretch",
@@ -39723,9 +34498,7 @@ window.GARMIN_EXERCISES = [
     ],
     "secondaryMuscles": [],
     "equipment": [],
-    "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false
+    "externalSources": []
   },
   {
     "name": "Swiss Ball Hip Crossover",
@@ -39740,13 +34513,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Swiss Ball Hip Crossover",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/swiss-ball-hip-crossover/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/swiss-ball-hip-crossover/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Swiss Ball Reach, Roll, and Lift",
@@ -39761,13 +34530,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Swiss Ball Reach, Roll and Lift",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/swiss-ball-reach-roll-and-lift/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/back-exercises/swiss-ball-reach-roll-and-lift/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Swiss Ball Windshield Wipers",
@@ -39782,13 +34547,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Swiss Ball Windshield Wipers",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/swiss-ball-windshield-wipers/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/swiss-ball-windshield-wipers/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Thoracic Rotation",
@@ -39803,13 +34564,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Thoracic Rotation",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/thoracic-rotation/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/shoulder-exercises/thoracic-rotation/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Walking High Kicks",
@@ -39824,13 +34581,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Walking High Kicks",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/walking-high-kicks/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/walking-high-kicks/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Walking High Knees",
@@ -39845,13 +34598,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Walking High Knees",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/walking-high-knees/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/walking-high-knees/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Walking Knee Hugs",
@@ -39866,13 +34615,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Walking Knee Hugs",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/walking-knee-hugs/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/walking-knee-hugs/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Walking Leg Cradles",
@@ -39887,13 +34632,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Walking Leg Cradles",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/walking-leg-cradles/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/walking-leg-cradles/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Walkout",
@@ -39908,13 +34649,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Walkout",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/walkout/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/walkout/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Walkout from Push-up Position",
@@ -39929,13 +34666,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Walkout from Pushup Position",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/walkout-pushup-position/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/walkout-pushup-position/"
       }
-    ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true
+    ]
   },
   {
     "name": "Bear Crawl",
@@ -39950,13 +34683,9 @@ window.GARMIN_EXERCISES = [
       {
         "source": "FitnessProgramer",
         "name": "Bear Crawl",
-        "url": "https://fitnessprogramer.com/exercise/bear-crawls/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/bear-crawls/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connectvideo.garmin.com/msn-workout/Mobility/M_008_CamA.jpg"
   },
   {
@@ -39969,8 +34698,6 @@ window.GARMIN_EXERCISES = [
     "secondaryMuscles": [],
     "equipment": [],
     "externalSources": [],
-    "hasExternalImage": false,
-    "hasExternalVideo": false,
     "image": "https://connectvideo.garmin.com/msn-workout/Mobility/MA_019_CamA.jpg"
   },
   {
@@ -39986,20 +34713,14 @@ window.GARMIN_EXERCISES = [
       {
         "source": "Muscle & Fitness",
         "name": "Hip Circles",
-        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/hip-circles/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://www.muscleandfitness.com/exercise/workouts/abs-and-core-exercises/hip-circles/"
       },
       {
         "source": "FitnessProgramer",
         "name": "Hip Circles",
-        "url": "https://fitnessprogramer.com/exercise/hip-circles/",
-        "hasImage": true,
-        "hasVideo": true
+        "url": "https://fitnessprogramer.com/exercise/hip-circles/"
       }
     ],
-    "hasExternalImage": true,
-    "hasExternalVideo": true,
     "image": "https://connectvideo.garmin.com/msn-workout/Mobility/MA_023_CamA.jpg"
   }
 ];

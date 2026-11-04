@@ -312,17 +312,6 @@
     margin:0;
     font-size:11px;
   }
-  .source-media-icon {
-    width:13px;
-    height:13px;
-    margin-left:4px;
-    vertical-align:-2px;
-    fill:none;
-    stroke:currentColor;
-    stroke-width:1.7;
-    stroke-linecap:round;
-    stroke-linejoin:round;
-  }
   .info-muscle-map {
     display:block;
     width:176px;
@@ -703,7 +692,7 @@
     function matchesSearch(node){
       if ((favoritesOnly || imagesOnly) && node.type !== 'exercise')return false;
       if (favoritesOnly && !isFavorite(node))return false;
-      if (imagesOnly && !exerciseImageUrl(node))return false;
+      if (imagesOnly && !exerciseCardImage(node).url)return false;
       return (!activeSearches.name || (node.nameSearchText || '').includes(activeSearches.name)) && (!activeSearches.equipment || (node.equipmentSearchText || '').includes(activeSearches.equipment)) && (!activeSearches.muscles || (node.muscleSearchText || '').includes(activeSearches.muscles))
     }
     function hasMatchingDescendant(node){
@@ -731,6 +720,56 @@
     function exerciseImageUrl(node){
       return displayExerciseImageUrl(node.image || '')
     }
+    const cardImageInfoCache = new WeakMap();
+    function imageNameTerms(value){
+      return (value.toLocaleLowerCase().match(/[\p{L}\p{N}]+/gu) || []).filter(term => !['barbell', 'dumbbell', 'alternating'].includes(term))
+    }
+    function findDescendantFallbackImage(node){
+      const candidates = [],
+      targetTerms = imageNameTerms(node.name || ''),
+      targetSet = new Set(targetTerms),
+      targetName = normalizeCategoryMatchName(node.name || ''),
+      keywordPriority = {barbell: 3, dumbbell: 2, alternating: 1};
+      for (const child of node.children || []){
+        collect(child)
+      }
+      function collect(current){
+        if (current.type === 'exercise'){
+          const currentName = normalizeCategoryMatchName(current.name || ''),
+          keyword = Object.keys(keywordPriority).find(term => new RegExp(`\\b${term}\\b`, 'i').test(current.name || '')) || '',
+          isNameMatch = targetName && currentName.includes(targetName);
+          const image = exerciseImageUrl(current);
+          if (image && isNameMatch){
+            const terms = imageNameTerms(current.name),
+            overlap = terms.filter(term => targetSet.has(term)).length,
+            nameMatchLength = isNameMatch ? targetName.length: 0;
+            candidates.push({image, terms, overlap, nameMatchLength, priority: keywordPriority[keyword] || 0})
+          }
+        }
+        for (const child of current.children || []){
+          collect(child)
+        }
+      }
+      candidates.sort((a, b) => {
+        const exactA = a.terms.join(' ') === targetTerms.join(' '),
+        exactB = b.terms.join(' ') === targetTerms.join(' '),
+        scoreA = targetTerms.length ? a.overlap / targetTerms.length: 0,
+        scoreB = targetTerms.length ? b.overlap / targetTerms.length: 0;
+        return b.priority - a.priority || Number(exactB) - Number(exactA) || b.nameMatchLength - a.nameMatchLength || scoreB - scoreA || a.terms.length - b.terms.length
+      });
+      return candidates[0]?.image || ''
+    }
+    function exerciseCardImage(node){
+      if (cardImageInfoCache.has(node))return cardImageInfoCache.get(node);
+      const image = exerciseImageUrl(node),
+      info = image ? {url: image, borrowed: false}: {
+        url: findDescendantFallbackImage(node),
+        borrowed: true
+      };
+      if (!info.url)info.borrowed = false;
+      cardImageInfoCache.set(node, info);
+      return info
+    }
     function findExerciseImage(node, exerciseName){
       const target = normalizeCategoryMatchName(exerciseName);
       function visit(current){
@@ -746,11 +785,23 @@
       }
       return visit(node);
     }
-    function categoryPhotoUrl(node){
-      if (Object.prototype.hasOwnProperty.call(node, 'representativeImage'))return displayExerciseImageUrl(node.representativeImage);
-      const image = findExerciseImage(node, node.name);
+    function categoryPhotoInfo(node){
+      if (Object.prototype.hasOwnProperty.call(node, 'representativeImage'))return {
+        url: displayExerciseImageUrl(node.representativeImage),
+        borrowed: Boolean(node.representativeImageBorrowed)
+      };
+      const exactImage = findExerciseImage(node, node.name),
+      fallbackImage = exactImage ? '': findDescendantFallbackImage(node),
+      image = exactImage || fallbackImage;
       node.representativeImage = image;
-      return image;
+      node.representativeImageBorrowed = Boolean(!exactImage && fallbackImage);
+      return {
+        url: image,
+        borrowed: node.representativeImageBorrowed
+      };
+    }
+    function categoryPhotoUrl(node){
+      return categoryPhotoInfo(node).url
     }
     function nodeLabelLines(node){
       return wrapLabel(cardTitle(node), node.type === 'category' ? 22: 27)
@@ -763,9 +814,8 @@
       if (node.type === 'exercise'){
         const hasVisual = Boolean(exerciseImageUrl(node) || showMuscleMaps),
         lines = wrapLabel(cardTitle(node), 30).length,
-        titleRows = hasVisual ? lines: Math.max(2, lines),
-        mediaBand = !hasVisual && (node.hasExternalImage || node.hasExternalVideo) ? 18: 0;
-        return (hasVisual ? imageBandHeight: mediaBand) + (hasVisual ? 2: 5) + titleRows * textLineHeight + (hasVisual ? 6: 12)
+        titleRows = hasVisual ? lines: Math.max(2, lines);
+        return (hasVisual ? imageBandHeight: 0) + (hasVisual ? 2: 5) + titleRows * textLineHeight + (hasVisual ? 6: 12)
       }
       const lines = nodeLabelLines(node).length,
       lineHeight = isExpandedCard(node) ? 18: 15,
@@ -847,57 +897,6 @@
       ctx.stroke();
       ctx.restore()
     }
-    function drawMediaIcons(ctx, node, left, top){
-      const image = node.hasExternalImage,
-      video = node.hasExternalVideo;
-      if (!image && !video)return;
-      const size = 18,
-      gap = 4;
-      let x = left + 8;
-      function icon(draw){
-        ctx.save();
-        roundedRect(ctx, x, top, size, size, 5);
-        ctx.fillStyle = 'rgba(255,255,255,.94)';
-        ctx.fill();
-        ctx.strokeStyle = '#b9cbd2';
-        ctx.lineWidth = 1;
-        ctx.stroke();
-        ctx.translate(x + 1.5, top + 1.5);
-        ctx.scale(.64, .64);
-        ctx.strokeStyle = '#0573aa';
-        ctx.lineWidth = 2.1;
-        ctx.lineCap = 'round';
-        ctx.lineJoin = 'round';
-        draw();
-        ctx.restore();
-        x += size + gap
-      }
-      if (image)icon(() =>{
-        roundedRect(ctx, 3, 4, 18, 16, 2);
-        ctx.stroke();
-        ctx.beginPath();
-        ctx.arc(8, 9, 1.5, 0, Math.PI * 2);
-        ctx.stroke();
-        ctx.beginPath();
-        ctx.moveTo(4, 18);
-        ctx.lineTo(10, 12);
-        ctx.lineTo(14, 16);
-        ctx.lineTo(17, 13);
-        ctx.lineTo(20, 18);
-        ctx.stroke()
-      });
-      if (video)icon(() =>{
-        roundedRect(ctx, 3, 5, 14, 14, 2);
-        ctx.stroke();
-        ctx.beginPath();
-        ctx.moveTo(17, 10);
-        ctx.lineTo(21, 7);
-        ctx.lineTo(21, 17);
-        ctx.lineTo(17, 14);
-        ctx.closePath();
-        ctx.stroke()
-      })
-    }
     function exerciseCardStatus(node){
       const hasGarmin = Boolean(node.url),
       sources = node.externalSources ||[],
@@ -970,12 +969,12 @@
         left = x - width / 2,
         top = y - height / 2,
         radius = 12,
-        imageUrl = exerciseImageUrl(node),
+        imageInfo = exerciseCardImage(node),
+        imageUrl = imageInfo.url,
         img = cardImageFor(imageUrl),
         hasGarminImage = Boolean(imageUrl && !failedCardImages.has(imageUrl)),
         muscleImg = hasGarminImage ? null: muscleMapImageFor(node, true),
         hasVisual = Boolean(imageUrl || showMuscleMaps),
-        mediaBand = !hasVisual && (node.hasExternalImage || node.hasExternalVideo) ? 18: 0,
         cardColors = exerciseCardColors(node),
         expanded = isExpandedCard(node),
         emphasized = expanded || highlightedNodeId === node.id,
@@ -1014,9 +1013,9 @@
               drawHeight = img.naturalHeight * scale;
               ctx.save();
               if (garminMovementImage)ctx.globalCompositeOperation = 'multiply';
-              if (node.name === 'Bench Press' || node.name === 'Dumbbell Biceps Curl' || node.name === 'Curl'){
+              if (imageInfo.borrowed){
                 ctx.filter = 'grayscale(1)';
-                ctx.globalAlpha = .45
+                ctx.globalAlpha = .25
               }
               ctx.drawImage(img, left + (photoWidth - drawWidth) / 2, top + imageBandHeight - imagePadding - drawHeight, drawWidth, drawHeight);
               ctx.restore();
@@ -1040,7 +1039,6 @@
             ctx.strokeStyle = state.selected ? '#0573aa': emphasized ? expandedAccentColor(node): branchColor;
             roundedRect(ctx, left, top, width, height, radius);
             ctx.stroke();
-            drawMediaIcons(ctx, node, left, top + (hasVisual ? 8: Math.max(0, (mediaBand - 18) / 2)));
             ctx.fillStyle = '#263945';
             ctx.font = `${emphasized?800:600} ${emphasized?13:12}px Inter, system-ui, sans-serif`;
             ctx.textAlign = 'center';
@@ -1048,7 +1046,7 @@
             const lines = wrapLabel(cardTitle(node), 30),
             lineHeight = textLineHeight,
             titleRows = hasVisual ? lines.length: Math.max(2, lines.length),
-            contentTop = top + (hasVisual ? imageBandHeight: mediaBand) + (hasVisual ? 2: 5);
+            contentTop = top + (hasVisual ? imageBandHeight: 0) + (hasVisual ? 2: 5);
             let ty = contentTop + ((titleRows - lines.length) * lineHeight) / 2 + lineHeight / 2;
             for (const line of lines){
               ctx.fillText(line, x, ty, width - 22);
@@ -1069,7 +1067,8 @@
         left = x - width / 2,
         top = y - height / 2,
         radius = 12,
-        photoUrl = categoryPhotoUrl(node),
+        photoInfo = categoryPhotoInfo(node),
+        photoUrl = photoInfo.url,
         photo = cardImageFor(photoUrl),
         hasPhoto = Boolean(photoUrl && !failedCardImages.has(photoUrl)),
         muscleImg = hasPhoto ? null: muscleMapImageFor(node, true),
@@ -1108,6 +1107,10 @@
               drawHeight = photo.naturalHeight * scale;
               ctx.save();
               if (/^https?:\/\/(?:connect|connectvideo)\.garmin\.com\//i.test(photo.src))ctx.globalCompositeOperation = 'multiply';
+              if (photoInfo.borrowed){
+                ctx.filter = 'grayscale(1)';
+                ctx.globalAlpha = .25
+              }
               ctx.drawImage(photo, x - drawWidth / 2, top + 4 + (imageBand - 8 - drawHeight) / 2, drawWidth, drawHeight);
               ctx.restore()
             }
@@ -1443,20 +1446,10 @@
       parts =[],
       links =[],
       seen = new Set();
-      const imageSourceIcon = '<svg class="source-media-icon" viewBox="0 0 24 24" role="img" aria-label="Image available">' +
-        '<rect x="3" y="4" width="18" height="16" rx="2"></rect>' +
-        '<circle cx="8" cy="9" r="1.5"></circle>' +
-        '<path d="m4 18 6-6 4 4 3-3 3 5"></path>' +
-        '</svg>';
-      const videoSourceIcon = '<svg class="source-media-icon" viewBox="0 0 24 24" role="img" aria-label="Video available">' +
-        '<rect x="3" y="5" width="14" height="14" rx="2"></rect>' +
-        '<path d="m17 10 4-3v10l-4-3z"></path>' +
-        '</svg>';
-      const sourceMediaIcons = (hasImage, hasVideo) => `${hasImage?imageSourceIcon:''}${hasVideo?videoSourceIcon:''}`;
-      const addSource = (label, url, hasImage = false, hasVideo = false) =>{
+      const addSource = (label, url) =>{
         if (!url || seen.has(url))return;
         seen.add(url);
-        links.push(`<a href="${escapeHtml(url)}" target="_blank" rel="noreferrer">${escapeHtml(label)}${sourceMediaIcons(hasImage,hasVideo)} ↗</a>`)
+        links.push(`<a href="${escapeHtml(url)}" target="_blank" rel="noreferrer">${escapeHtml(label)} ↗</a>`)
       };
       if (node.difficulty)parts.push(`<small>Difficulty: ${escapeHtml(node.difficulty)}</small>`);
       const muscleMap = muscleMapDataUrlFor(node);
@@ -1474,7 +1467,7 @@
       }
       if (node.type === 'exercise'){
         if (node.url)addSource('Garmin Connect', node.url);
-        (node.externalSources ||[]).forEach(source => addSource(source.source, source.url, source.hasImage, source.hasVideo));
+        (node.externalSources ||[]).forEach(source => addSource(source.source, source.url));
         if (links.length)parts.push(`<div class="source-links">${links.join('')}</div>`);
       }
       info.innerHTML = `
