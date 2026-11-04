@@ -684,7 +684,7 @@
     catch{}
     let favoritesOnly = false, imagesOnly = false;
     function favoriteKey(node){
-      return node.garminId
+      return node.type === 'category' ? `category:${node.id}`: node.garminId
     }
     function isFavorite(node){
       return favoriteIds.has(favoriteKey(node))
@@ -717,7 +717,7 @@
       return favoritesOnly || imagesOnly || Boolean(activeSearches.name || activeSearches.equipment || activeSearches.muscles)
     }
     function matchesSearch(node){
-      if ((favoritesOnly || imagesOnly) && node.type !== 'exercise')return false;
+      if (imagesOnly && node.type !== 'exercise')return false;
       if (favoritesOnly && !isFavorite(node))return false;
       if (imagesOnly && !exerciseCardImage(node).url)return false;
       return (!activeSearches.name || (node.nameSearchText || '').includes(activeSearches.name)) && (!activeSearches.equipment || (node.equipmentSearchText || '').includes(activeSearches.equipment)) && (!activeSearches.muscles || (node.muscleSearchText || '').includes(activeSearches.muscles))
@@ -1003,8 +1003,7 @@
         muscleImg = hasGarminImage ? null: muscleMapImageFor(node, true),
         hasVisual = Boolean(imageUrl || showMuscleMaps),
         cardColors = exerciseCardColors(node),
-        expanded = isExpandedCard(node),
-        emphasized = expanded || highlightedNodeId === node.id,
+        emphasized = highlightedNodeId === node.id,
         cardFill = state.selected || emphasized ? cardColors.selected: state.hover || pointerHoveredExerciseId === node.id ? cardColors.hover: cardColors.normal,
         garminMovementImage = /^https?:\/\/(?:connect|connectvideo)\.garmin\.com\//i.test(imageUrl);
         return{
@@ -1102,8 +1101,7 @@
         hasMuscles = Boolean(muscleImg),
         imageBand = hasPhoto || hasMuscles ? categoryPhotoBandHeight: categoryImageBandHeight,
         colors = categoryCardColors(node),
-        expanded = isExpandedCard(node),
-        emphasized = expanded || highlightedNodeId === node.id,
+        emphasized = highlightedNodeId === node.id,
         fill = state.selected || emphasized ? colors.selected: state.hover ? colors.hover: colors.normal,
         lines = wrapLabel(cardTitle(node), 22),
         lineHeight = emphasized ? 18: 15,
@@ -1149,6 +1147,7 @@
               ctx.drawImage(muscleImg, x - drawWidth / 2, top + 4 + (imageBand - 8 - drawHeight) / 2, drawWidth, drawHeight)
             }
             ctx.restore();
+            drawFavoriteControl(ctx, left + width - 17, top + 17, isFavorite(node));
             ctx.lineWidth = state.selected ? 5.5: emphasized ? 5: 2.3;
             ctx.strokeStyle = state.selected ? '#0573aa': emphasized ? expandedAccentColor(node): colors.border;
             roundedRect(ctx, left, top, width, height, radius);
@@ -1168,14 +1167,32 @@
         };
       };
     }
-    const rowGap = 18, horizontalGap = 345;
+    const rowGap = 18, horizontalGap = 280,
+    groupGapPadding = Math.max(0, (horizontalGap - (rootCardWidth + categoryCardWidth) / 2) / 2);
     const layoutSpanCache = new Map();
+    let layoutAnchor = null;
     function span(node){
       if (layoutSpanCache.has(node.id))return layoutSpanCache.get(node.id);
       const children = visibleChildren(node),
       height = node.open && children.length ? Math.max(nodeHeight(node), children.reduce((sum, child) => sum + span(child), 0) + rowGap * (children.length - 1)): nodeHeight(node);
       layoutSpanCache.set(node.id, height);
       return height
+    }
+    const categorySideById = new Map();
+    for (const groupRoot of roots){
+      const initialSideHeights =[0, 0];
+      for (const category of groupRoot.children){
+        const side = initialSideHeights[0] <= initialSideHeights[1] ? 0: 1;
+        categorySideById.set(category.id, side);
+        initialSideHeights[side] += nodeHeight(category) + rowGap
+      }
+    }
+    function branchReach(node, depth = 1){
+      let reach = depth * horizontalGap + (node.type === 'category' ? categoryCardWidth: cardWidth) / 2 + 14;
+      if (node.open){
+        for (const child of visibleChildren(node))reach = Math.max(reach, branchReach(child, depth + 1))
+      }
+      return reach
     }
     function visibleGraph(){
       const visible =[],
@@ -1185,27 +1202,43 @@
         const sides =[[], []],
         heights =[0, 0];
         for (const category of visibleChildren(groupRoot)){
-          const side = heights[0] <= heights[1] ? 0: 1,
+          const side = categorySideById.get(category.id) ?? 0,
           categoryHeight = span(category);
           if (sides[side].length)heights[side] += rowGap;
           sides[side].push(category);
           heights[side] += categoryHeight
         }
         return {groupRoot, sides, heights}
-      }),
-      mainReach = Math.max(rootCardWidth / 2 + 14, ...layouts[0].sides[1].map(category => branchReach(category))),
-      otherReach = Math.max(rootCardWidth / 2 + 14, ...layouts[1].sides[0].map(category => branchReach(category))),
-      rootOffset = (mainReach + otherReach + 24) / 2,
-      rootPositions = layouts.map((layout, index) => ({
+      });
+      const mainReach = Math.max(rootCardWidth / 2 + 14, ...layouts[0].sides[1].map(category => branchReach(category))),
+      otherReach = Math.max(rootCardWidth / 2 + 14, ...layouts[1].sides[0].map(category => branchReach(category)));
+      const anchorGroupIndex = layoutAnchor?.groupIndex ?? -1;
+      let rootOffset = Math.max(rootCardWidth / 2 + 18, (mainReach + otherReach + 28) / 2);
+      const anchorX = layoutAnchor?.x ?? 0,
+      rootXAtOffset = (index, offset) =>{
+        if (anchorGroupIndex === 0)return index === 0 ? anchorX: anchorX + 2 * offset;
+        if (anchorGroupIndex === 1)return index === 1 ? anchorX: anchorX - 2 * offset;
+        return index === 0 ? -offset: offset
+      };
+      let low = 0, high = rootOffset;
+      while (hasGroupCollision(high) && high < 100000)high *= 2;
+      for (let attempt = 0; attempt < 24; attempt++){
+        const middle = (low + high) / 2;
+        if (hasGroupCollision(middle))low = middle;
+        else high = middle
+      }
+      rootOffset = high;
+      const rootPositions = layouts.map((layout, index) => ({
         node: layout.groupRoot,
         layout,
-        x: (index === 0 ? -1: 1) * rootOffset
+        x: rootXAtOffset(index, rootOffset),
+        y: 0
       }));
       for (const position of rootPositions){
         records.push({
-          node: position.node, x: position.x, y: 0, width: rootCardWidth, height: rootCardHeight
+          node: position.node, x: position.x, y: position.y, width: rootCardWidth, height: rootCardHeight
         });
-        visible.push(nodeStyle(position.node, position.x, 0));
+        visible.push(nodeStyle(position.node, position.x, position.y));
         for (let side = 0; side < position.layout.sides.length; side++){
           const sign = side === 0 ? -1: 1,
           height = position.layout.heights[side];
@@ -1224,12 +1257,65 @@
         edges,
         records
       };
-      function branchReach(node, depth = 1){
-        let reach = depth * horizontalGap + (node.type === 'category' ? categoryCardWidth: cardWidth) / 2 + 14;
-        if (node.open){
-          for (const child of visibleChildren(node))reach = Math.max(reach, branchReach(child, depth + 1))
+      function hasGroupCollision(offset){
+        const groups = layouts.map((layout, index) =>{
+          const rootX = rootXAtOffset(index, offset),
+          rects = [{x: rootX, y: 0, width: rootCardWidth, height: rootCardHeight}];
+          for (let side = 0; side < layout.sides.length; side++){
+            const sign = side === 0 ? -1: 1,
+            height = layout.heights[side];
+            let cursor = -height / 2;
+            for (const category of layout.sides[side]){
+              const categoryHeight = span(category),
+              y = cursor + categoryHeight / 2;
+              cursor += categoryHeight + rowGap;
+              collect(category, sign, rootX, 1, y)
+            }
+          }
+          return rects;
+          function collect(node, sign, originX, depth, y){
+            const x = originX + sign * horizontalGap * depth,
+            width = node.type === 'category' ? categoryCardWidth: cardWidth;
+            rects.push({x, y, width, height: nodeHeight(node)});
+            if (node.open){
+              const children = visibleChildren(node),
+              total = children.reduce((sum, child) => sum + span(child), 0) + rowGap * (children.length - 1);
+              let at = y - total / 2;
+              for (const child of children){
+                const childSpan = span(child),
+                childY = at + childSpan / 2;
+                at += childSpan + rowGap;
+                collect(child, sign, originX, depth + 1, childY)
+              }
+            }
+          }
+        });
+        const [mainRects, otherRects] = groups,
+        sortedOther = otherRects.map(rect => ({
+          left: rect.x - rect.width / 2 - groupGapPadding,
+          right: rect.x + rect.width / 2 + groupGapPadding,
+          top: rect.y - rect.height / 2 - groupGapPadding,
+          bottom: rect.y + rect.height / 2 + groupGapPadding
+        })).sort((a, b) => a.left - b.left),
+        sortedMain = mainRects.map(rect => ({
+          left: rect.x - rect.width / 2 - groupGapPadding,
+          right: rect.x + rect.width / 2 + groupGapPadding,
+          top: rect.y - rect.height / 2 - groupGapPadding,
+          bottom: rect.y + rect.height / 2 + groupGapPadding
+        })).sort((a, b) => a.left - b.left);
+        for (const main of sortedMain){
+          let low = 0, high = sortedOther.length;
+          while (low < high){
+            const middle = (low + high) >> 1;
+            if (sortedOther[middle].left < main.left - Math.max(cardWidth, categoryCardWidth, rootCardWidth) - groupGapPadding * 2)low = middle + 1;
+            else high = middle
+          }
+          for (let index = low; index < sortedOther.length && sortedOther[index].left < main.right; index++){
+            const other = sortedOther[index];
+            if (other.right > main.left && other.bottom > main.top && other.top < main.bottom)return true
+          }
         }
-        return reach
+        return false
       }
       function place(node, sign, originX, depth, y){
         const x = originX + sign * horizontalGap * depth,
@@ -1252,16 +1338,15 @@
       }
     }
     function edge(parent, child, color){
-      const expanded = parent.type === 'root' ? isExpandedCard(child): isExpandedCard(parent);
       return{
         id: `${parent.id}->${child.id}`,
         from: parent.id,
         to: child.id,
         color:{
-          color: expanded ? expandedAccentColor(parent.type === 'root' ? child: parent): color,
-          opacity: expanded ? 1: .58
+          color,
+          opacity: .58
         },
-        width: expanded ? 5.2: 2.1,
+        width: 2.1,
         smooth:{
           enabled: true,
           type: 'cubicBezier',
@@ -1316,7 +1401,7 @@
       branchColor = category?.color || '#0573aa',
       categoryColors = node.type === 'category' ? categoryCardColors(node): null;
       const fontSize = node.type === 'root' ? 18: node.type === 'category' ? 13: 12;
-      const expanded = isExpandedCard(node);
+      const selected = highlightedNodeId === node.id;
       const base ={
         id: node.id,
         x,
@@ -1326,17 +1411,17 @@
           y: true
         },
         label: node.type === 'exercise' || node.type === 'category' || node.type === 'root' ? '': label,
-        borderWidth: expanded ? 5: node.type === 'root' ? 3: node.type === 'category' ? 2.3: 1.5,
+        borderWidth: selected ? 5: node.type === 'root' ? 3: node.type === 'category' ? 2.3: 1.5,
         color:{
           background: node.type === 'root' ? '#079fda': node.type === 'category' ? categoryColors.normal: '#ffffff',
-          border: node.type === 'root' ? '#0573aa': node.type === 'category' ? (expanded ? expandedAccentColor(node): categoryColors.border): branchColor,
+          border: node.type === 'root' ? '#0573aa': node.type === 'category' ? (selected ? expandedAccentColor(node): categoryColors.border): branchColor,
           highlight:{
             background: node.type === 'root' ? '#079fda': node.type === 'category' ? categoryColors.selected: branchColor,
-            border: node.type === 'root' ? '#0573aa': node.type === 'category' ? (expanded ? expandedAccentColor(node): categoryColors.border): branchColor
+            border: node.type === 'root' ? '#0573aa': node.type === 'category' ? (selected ? expandedAccentColor(node): categoryColors.border): branchColor
           },
           hover:{
             background: node.type === 'root' ? '#079fda': node.type === 'category' ? categoryColors.hover: '#f2fafb',
-            border: node.type === 'root' ? '#0573aa': node.type === 'category' ? (expanded ? expandedAccentColor(node): categoryColors.border): branchColor
+            border: node.type === 'root' ? '#0573aa': node.type === 'category' ? (selected ? expandedAccentColor(node): categoryColors.border): branchColor
           }
         },
         font:{
@@ -1345,7 +1430,7 @@
           color: node.type === 'root' ? '#ffffff': '#263945',
           align: 'center',
           multi: false,
-          ... (isExpandedCard(node) ?{
+          ... (selected ?{
             bold:{
               color: node.type === 'root' ? '#ffffff': '#263945', size: fontSize + 2, face: 'Inter, system-ui, sans-serif', vadjust: 0, mod: 'bold'
             }
@@ -1390,7 +1475,7 @@
       i--){
         const record = activeVisibleNodeRecords[i];
         if (record.node.type !== 'exercise')continue;
-        if (Math.abs(point.x - record.x) <= record.width / 2 + 15 && Math.abs(point.y - record.y) <= record.height / 2 + 15)return record.node.id
+        if (Math.abs(point.x - record.x) <= record.width / 2 && Math.abs(point.y - record.y) <= record.height / 2)return record.node.id
       }
       return null
     }
@@ -1400,7 +1485,7 @@
       i >= 0;
       i--){
         const record = activeVisibleNodeRecords[i];
-        if (record.node.type !== 'exercise')continue;
+        if (record.node.type !== 'exercise' && record.node.type !== 'category')continue;
         const x = record.x + record.width / 2 - 17,
         y = record.y - record.height / 2 + 17;
         if (Math.abs(point.x - x) <= 13 && Math.abs(point.y - y) <= 13)return record.node.id
@@ -1414,7 +1499,7 @@
       i--){
         const record = activeVisibleNodeRecords[i];
         if (record.node.type !== 'category')continue;
-        if (Math.abs(point.x - record.x) <= record.width / 2 + 15 && Math.abs(point.y - record.y) <= record.height / 2 + 15)return record.node.id
+        if (Math.abs(point.x - record.x) <= record.width / 2 && Math.abs(point.y - record.y) <= record.height / 2)return record.node.id
       }
       return null
     }
@@ -1425,7 +1510,7 @@
       i--){
         const record = activeVisibleNodeRecords[i];
         if (record.node.type !== 'root')continue;
-        if (Math.abs(point.x - record.x) <= record.width / 2 + 15 && Math.abs(point.y - record.y) <= record.height / 2 + 15)return record.node.id
+        if (Math.abs(point.x - record.x) <= record.width / 2 && Math.abs(point.y - record.y) <= record.height / 2)return record.node.id
       }
       return null
     }
@@ -1450,7 +1535,11 @@
       }
       const node = findNode(root, id);
       if (!node)return;
+      const groupIndex = node.type === 'root' ? roots.indexOf(node): roots.findIndex(group => group.children.includes(categoryFor(node))),
+      rootPosition = groupIndex < 0 ? null: activeVisibleNodeRecords.find(record => record.node.id === roots[groupIndex].id);
+      layoutAnchor = rootPosition ? {groupIndex, x: rootPosition.x}: null;
       const alreadyHighlighted = highlightedNodeId === node.id;
+      highlightedNodeId = node.id;
       if (node.type === 'root'){
         node.children.forEach(category => setAll(category, false));
         node.open = false;
@@ -1606,6 +1695,7 @@
     });
     document.getElementById('collapse').addEventListener('click', () =>{
       highlightedNodeId = null;
+      layoutAnchor = null;
       roots.forEach(groupRoot => setAll(groupRoot, false));
       draw(true);
       network.moveTo({
@@ -1727,6 +1817,7 @@
         muscles: searchInputs.muscles.value.trim().toLocaleLowerCase()
       };
       activeSearches = next;
+      layoutAnchor = null;
       const searching = hasActiveSearch();
       searchMatchCache.clear();
       visibleChildrenCache.clear();
