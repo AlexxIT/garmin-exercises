@@ -471,7 +471,7 @@
       for (const node of nodes)if (node.parent)node.parent.children.push(node);
       return nodes.filter(node => !node.parent)
     }
-    const categories =[... groups.keys()].sort((a, b) => a.localeCompare(b, 'en')).map((name, i) => ({
+    const sourceCategories =[... groups.keys()].sort((a, b) => a.localeCompare(b, 'en')).map((name, i) => ({
       id: `category-${i}`, name, category: name, color: palette[i % palette.length], children: buildTree(groups.get(name)), open: false, type: 'category'
     }));
     function collectCategoryMuscles(category){
@@ -489,13 +489,34 @@
       category.secondaryMuscles =[... secondary].filter(muscle => !primary.has(muscle));
       category.equipment =[... equipment]
     }
-    categories.forEach(collectCategoryMuscles);
+    sourceCategories.forEach(collectCategoryMuscles);
+    function subtreeHasGarminLink(node){
+      if (node.type === 'exercise' && node.url)return true;
+      return (node.children ||[]).some(subtreeHasGarminLink)
+    }
+    const roots =[
+      {
+        id: 'root-main',
+        name: 'Main',
+        children: sourceCategories.filter(subtreeHasGarminLink),
+        open: false,
+        type: 'root'
+      },
+      {
+        id: 'root-other',
+        name: 'Other',
+        children: sourceCategories.filter(category => !subtreeHasGarminLink(category)),
+        open: false,
+        type: 'root'
+      }
+    ];
+    const categories = roots.flatMap(groupRoot => groupRoot.children);
     const root ={
       id: 'root',
-      name: 'Garmin Exercises',
-      children: categories,
-      open: false,
-      type: 'root'
+      name: '',
+      children: roots,
+      open: true,
+      type: 'container'
     };
     const muscleAliases ={
       ABS: 'abdominal abdominals core',
@@ -1154,35 +1175,58 @@
       const visible =[],
       edges =[],
       records =[],
-      sides =[[],
-      []],
-      shownCategories = categories.filter(node => matchesSearch(node) || hasMatchingDescendant(node));
-      shownCategories.forEach((node, i) => sides[i % 2].push(node));
-      const heights = sides.map(side => side.reduce((sum, node) => sum + span(node), 0) + rowGap * Math.max(0, side.length - 1));
-      for (let s = 0;
-      s < 2;
-      s++){
-        const sign = s === 0 ? - 1: 1;
-        let cursor = - heights[s] / 2;
-        for (const category of sides[s]){
-          const h = span(category),
-          y = cursor + h / 2;
-          cursor += h + rowGap;
-          place(category, sign, 1, y);
-          edges.push(edge(root, category, category.color));
+      layouts = roots.map(groupRoot =>{
+        const sides =[[], []],
+        heights =[0, 0];
+        for (const category of visibleChildren(groupRoot)){
+          const side = heights[0] <= heights[1] ? 0: 1,
+          categoryHeight = span(category);
+          if (sides[side].length)heights[side] += rowGap;
+          sides[side].push(category);
+          heights[side] += categoryHeight
+        }
+        return {groupRoot, sides, heights}
+      }),
+      mainReach = Math.max(rootCardWidth / 2 + 14, ...layouts[0].sides[1].map(category => branchReach(category))),
+      otherReach = Math.max(rootCardWidth / 2 + 14, ...layouts[1].sides[0].map(category => branchReach(category))),
+      rootOffset = (mainReach + otherReach + 24) / 2,
+      rootPositions = layouts.map((layout, index) => ({
+        node: layout.groupRoot,
+        layout,
+        x: (index === 0 ? -1: 1) * rootOffset
+      }));
+      for (const position of rootPositions){
+        records.push({
+          node: position.node, x: position.x, y: 0, width: rootCardWidth, height: rootCardHeight
+        });
+        visible.push(nodeStyle(position.node, position.x, 0));
+        for (let side = 0; side < position.layout.sides.length; side++){
+          const sign = side === 0 ? -1: 1,
+          height = position.layout.heights[side];
+          let cursor = - height / 2;
+          for (const category of position.layout.sides[side]){
+            const categoryHeight = span(category),
+            y = cursor + categoryHeight / 2;
+            cursor += categoryHeight + rowGap;
+            place(category, sign, position.x, 1, y);
+            edges.push(edge(position.node, category, category.color))
+          }
         }
       }
-      records.push({
-        node: root, x: 0, y: 0, width: rootCardWidth, height: rootCardHeight
-      });
-      visible.push(nodeStyle(root, 0, 0));
       return{
         nodes: visible,
         edges,
         records
       };
-      function place(node, sign, depth, y){
-        const x = sign * horizontalGap * depth,
+      function branchReach(node, depth = 1){
+        let reach = depth * horizontalGap + (node.type === 'category' ? categoryCardWidth: cardWidth) / 2 + 14;
+        if (node.open){
+          for (const child of visibleChildren(node))reach = Math.max(reach, branchReach(child, depth + 1))
+        }
+        return reach
+      }
+      function place(node, sign, originX, depth, y){
+        const x = originX + sign * horizontalGap * depth,
         children = visibleChildren(node);
         records.push({
           node, x, y, width: node.type === 'category' ? categoryCardWidth: cardWidth, height: nodeHeight(node)
@@ -1196,7 +1240,7 @@
             cy = at + h / 2;
             at += h + rowGap;
             edges.push(edge(node, child, categoryFor(node).color));
-            place(child, sign, depth + 1, cy)
+            place(child, sign, originX, depth + 1, cy)
           }
         }
       }
@@ -1370,7 +1414,14 @@
     }
     function rootHitAt(point){
       if (!point)return null;
-      return Math.abs(point.x) <= rootCardWidth / 2 + 15 && Math.abs(point.y) <= rootCardHeight / 2 + 15 ? 'root': null
+      for (let i = activeVisibleNodeRecords.length - 1;
+      i >= 0;
+      i--){
+        const record = activeVisibleNodeRecords[i];
+        if (record.node.type !== 'root')continue;
+        if (Math.abs(point.x - record.x) <= record.width / 2 + 15 && Math.abs(point.y - record.y) <= record.height / 2 + 15)return record.node.id
+      }
+      return null
     }
     network.on('click', params =>{
       const favoriteId = favoriteHitAt(params.pointer?.canvas);
@@ -1391,11 +1442,12 @@
         scheduleNetworkRedraw();
         return
       }
-      const node = id === 'root' ? root: categories.find(c => c.id === id) || findNode(root, id);
+      const node = findNode(root, id);
       if (!node)return;
       const alreadyHighlighted = highlightedNodeId === node.id;
-      if (node.id === 'root'){
-        categories.forEach(c => setAll(c, false));
+      if (node.type === 'root'){
+        node.children.forEach(category => setAll(category, false));
+        node.open = false;
         draw(true)
       }
       else if (node.children?.length){
@@ -1548,10 +1600,10 @@
     });
     document.getElementById('collapse').addEventListener('click', () =>{
       highlightedNodeId = null;
-      categories.forEach(c => setAll(c, false));
+      roots.forEach(groupRoot => setAll(groupRoot, false));
       draw(true);
-      network.focus('root',{
-        scale: network.getScale(), animation: false
+      network.moveTo({
+        position: {x: 0, y: 0}, scale: network.getScale(), animation: false
       });
       document.getElementById('info').classList.remove('show')
     });
@@ -1678,10 +1730,10 @@
       if (!searching){
         highlightedNodeId = null;
         result.textContent = '';
-        categories.forEach(c => setAll(c, false));
+        roots.forEach(groupRoot => setAll(groupRoot, false));
         draw(true);
-        network.focus('root',{
-          scale: network.getScale(), animation: false
+        network.moveTo({
+          position: {x: 0, y: 0}, scale: network.getScale(), animation: false
         });
         document.getElementById('info').classList.remove('show');
         return
@@ -1696,7 +1748,7 @@
         for (const child of node.children ||[])visit(child, nextPath)
       }
       visit(root);
-      categories.forEach(c => setAll(c, false));
+      roots.forEach(groupRoot => setAll(groupRoot, false));
       if (!hits.length){
         highlightedNodeId = null;
         result.textContent = 'No matches found';
