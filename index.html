@@ -716,11 +716,14 @@
     function hasActiveSearch(){
       return favoritesOnly || imagesOnly || Boolean(activeSearches.name || activeSearches.equipment || activeSearches.muscles)
     }
+    function matchesAllWords(text, query){
+      return !query || query.trim().toLocaleLowerCase().split(/\s+/).every(word => text.includes(word))
+    }
     function matchesSearch(node){
       if (imagesOnly && node.type !== 'exercise')return false;
       if (favoritesOnly && !isFavorite(node))return false;
       if (imagesOnly && !exerciseCardImage(node).url)return false;
-      return (!activeSearches.name || (node.nameSearchText || '').includes(activeSearches.name)) && (!activeSearches.equipment || (node.equipmentSearchText || '').includes(activeSearches.equipment)) && (!activeSearches.muscles || (node.muscleSearchText || '').includes(activeSearches.muscles))
+      return matchesAllWords(node.nameSearchText || '', activeSearches.name) && matchesAllWords(node.equipmentSearchText || '', activeSearches.equipment) && matchesAllWords(node.muscleSearchText || '', activeSearches.muscles)
     }
     function hasMatchingDescendant(node){
       if (searchMatchCache.has(node.id))return searchMatchCache.get(node.id);
@@ -1522,7 +1525,7 @@
         saveFavorites();
         searchMatchCache.clear();
         visibleChildrenCache.clear();
-        if (favoritesOnly)applySearch();
+        if (favoritesOnly)applySearch(hasActiveSearch(), false);
         else draw(true);
         return
       }
@@ -1709,10 +1712,11 @@
       }
     }));
     document.getElementById('favorites-filter').addEventListener('click', () =>{
+      const wasSearching = hasActiveSearch();
       favoritesOnly = !favoritesOnly;
       syncFavoritesFilter();
       clearTimeout(searchTimer);
-      applySearch()
+      applySearch(wasSearching, false)
     });
     syncFavoritesFilter();
     document.getElementById('images-filter').addEventListener('click', () =>{
@@ -1720,7 +1724,7 @@
       imagesOnly = !imagesOnly;
       syncImagesFilter();
       clearTimeout(searchTimer);
-      applySearch(wasSearching)
+      applySearch(wasSearching, false)
     });
     syncImagesFilter();
     const searchInputs ={
@@ -1810,7 +1814,7 @@
         }
       })
     });
-    function applySearch(wasSearching = hasActiveSearch()){
+    function applySearch(wasSearching = hasActiveSearch(), selectFirstHit = true){
       const next ={
         name: searchInputs.name.value.trim().toLocaleLowerCase(),
         equipment: searchInputs.equipment.value.trim().toLocaleLowerCase(),
@@ -1818,6 +1822,11 @@
       };
       activeSearches = next;
       layoutAnchor = null;
+      if (!selectFirstHit){
+        highlightedNodeId = null;
+        network.unselectAll();
+        document.getElementById('info').classList.remove('show')
+      }
       const searching = hasActiveSearch();
       searchMatchCache.clear();
       visibleChildrenCache.clear();
@@ -1859,10 +1868,10 @@
       }
       result.textContent = `Matches: ${hits.length}`;
       draw(true);
-      if (!wasSearching)network.focus(hits[0].node.id,{
+      if (selectFirstHit && !wasSearching)network.focus(hits[0].node.id,{
         scale: Math.max(network.getScale(), .8), animation: false
       });
-      showInfo(hits[0].node)
+      if (selectFirstHit)showInfo(hits[0].node)
     }
     window.addEventListener('resize', () => network.redraw());
   </script>
